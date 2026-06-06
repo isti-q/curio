@@ -718,5 +718,485 @@
     "text": "There is a planet made of diamond more massive than Earth.",
     "detail": "55 Cancri e, a super-Earth in a binary star system, is believed to have a carbon-rich composition that could include a diamond core. Its mass and unique conditions make it an object of fascination and study in planetary science.",
     "searchKeywords": "diamond planet 55 Cancri e discovery"
+  },
+  {
+    "id": "the-pangolin-is-the",
+    "date": "2026-09-04",
+    "category": "naturalScience",
+    "text": "The pangolin is the only mammal with scales.",
+    "detail": "Despite having scales like a reptile, the pangolin is a mammal. Its scales are made of keratin, the same material found in human nails. Pangolins are known to roll into a ball when threatened, using their tough scales as protection.",
+    "searchKeywords": "pangolin mammal scales keratin"
+  },
+  {
+    "id": "ada-lovelace-wrote-the",
+    "date": "2026-09-05",
+    "category": "famousLives",
+    "text": "Ada Lovelace wrote the first computer algorithm in the mid-1800s.",
+    "detail": "Ada Lovelace, an English mathematician, is considered the first computer programmer. She worked on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine, and created an algorithm intended for the machine.",
+    "searchKeywords": "Ada Lovelace computer algorithm 1800s"
+  },
+  {
+    "id": "the-novel-gadsby-contains",
+    "date": "2026-09-06",
+    "category": "literature",
+    "text": "The novel 'Gadsby' contains over 50,000 words without the letter 'E'.",
+    "detail": "Ernest Vincent Wright's 1939 novel 'Gadsby' is a lipogram, a work where a particular letter or group of letters is intentionally omitted. It is a notable feat in constrained writing, as 'E' is the most common letter in English.",
+    "searchKeywords": "Gadsby novel lipogram Ernest Wright"
+  },
+  {
+    "id": "the-planck-length-is",
+    "date": "2026-09-07",
+    "category": "physics",
+    "text": "The Planck length is the smallest measurable unit of space.",
+    "detail": "In theoretical physics, the Planck length is considered the quantum of length, below which the concepts of space and distance cease to exist in any meaningful way. It is approximately 1.6 x 10^-35 meters.",
+    "searchKeywords": "Planck length physics smallest space"
+  },
+  {
+    "id": "the-number-142857-repeats",
+    "date": "2026-09-08",
+    "category": "math",
+    "text": "The number 142857 repeats predictably in its multiples.",
+    "detail": "The number 142857 is known as a cyclic number. Its multiples result in the same digits in a different order, such as 285714 (142857 x 2) and 428571 (142857 x 3), showcasing an intriguing property of cyclic numbers.",
+    "searchKeywords": "142857 cyclic number multiples"
+  },
+  {
+    "id": "a-year-on-mercury",
+    "date": "2026-09-09",
+    "category": "astronomy",
+    "text": "A year on Mercury is shorter than a day.",
+    "detail": "Mercury takes 88 Earth days to orbit the Sun but rotates on its axis once every 59 Earth days. This means that a single day on Mercury (sunrise to sunrise) takes longer than its year.",
+    "searchKeywords": "Mercury year day orbit rotation"
+  },
+  {
+    "id": "sea-otters-hold-hands",
+    "date": "2026-09-10",
+    "category": "naturalScience",
+    "text": "Sea otters hold hands while sleeping to stay together.",
+    "detail": "To prevent drifting apart, sea otters often hold hands or entangle themselves in kelp while they sleep. This behavior helps them stay anchored and maintain social bonds in the water.",
+    "searchKeywords": "sea otters hold hands sleeping"
+  },
+  {
+    "id": "hedy-lamarr-co-invented",
+    "date": "2026-09-11",
+    "category": "famousLives",
+    "text": "Hedy Lamarr co-invented a precursor to modern Wi-Fi.",
+    "detail": "Actress Hedy Lamarr, along with composer George Antheil, developed a frequency-hopping system for secure radio communications during World War II. This technology laid the groundwork for future wireless communication methods.",
+    "searchKeywords": "Hedy Lamarr WiFi invention frequency"
+  },
+  {
+    "id": "ray-bradbury-wrote-fahrenheit",
+    "date": "2026-09-12",
+    "category": "literature",
+    "text": "Ray Bradbury wrote 'Fahrenheit 451' on a rented typewriter.",
+    "detail": "Ray Bradbury wrote his classic novel 'Fahrenheit 451' in the basement of UCLA's Powell Library, using a coin-operated typewriter. The total cost for writing the manuscript was about $9.80 in dimes.",
+    "searchKeywords": "Ray Bradbury Fahrenheit 451 typewriter"
+  },
+  {
+    "id": "the-triple-point-of",
+    "date": "2026-09-13",
+    "category": "physics",
+    "text": "The triple point of water is a unique thermodynamic state.",
+    "detail": "At the triple point, water can exist simultaneously as a solid, liquid, and gas. This occurs at precisely 0.01°C and 611.657 pascals of pressure, representing a unique equilibrium state.",
+    "searchKeywords": "triple point water thermodynamics state"
+  },
+  {
+    "id": "the-number-pi-has",
+    "date": "2026-09-14",
+    "category": "math",
+    "text": "The number Pi (π) has been calculated to over 31 trillion digits.",
+    "detail": "Pi, the ratio of a circle's circumference to its diameter, is an irrational number, meaning it has an infinite number of non-repeating decimal places. In 2019, computer scientists set a new world record by calculating Pi to 31.4 trillion digits, using a powerful computer and special algorithms.",
+    "searchKeywords": "Pi digits calculation world record"
+  },
+  {
+    "id": "jupiter-has-a-moon",
+    "date": "2026-09-15",
+    "category": "astronomy",
+    "text": "Jupiter has a moon named Io that is the most volcanically active body in the solar system.",
+    "detail": "Io, one of Jupiter's largest moons, boasts over 400 active volcanoes, some of which emit plumes reaching up to 300 kilometers high. This remarkable activity is due to the intense tidal forces from Jupiter's gravity, which generate heat through friction within the moon.",
+    "searchKeywords": "Jupiter Io volcanic activity moon"
+  },
+  {
+    "id": "the-lungfish-can-survive",
+    "date": "2026-09-16",
+    "category": "naturalScience",
+    "text": "The lungfish can survive out of water for months by breathing air.",
+    "detail": "Lungfish are unique because they possess both gills and lungs, allowing them to thrive in water and on land. In dry conditions, they burrow into the mud and enter a state of estivation, slowing down their metabolism and relying on stored energy until water returns.",
+    "searchKeywords": "lungfish air breathing survival"
+  },
+  {
+    "id": "george-washington-s-teeth",
+    "date": "2026-09-17",
+    "category": "famousLives",
+    "text": "George Washington's teeth were not made of wood, but a combination of human and animal teeth.",
+    "detail": "Records show that the first president of the United States wore dentures made from a mix of human teeth, as well as teeth from cows and horses. These dentures were held together with metal springs and were quite uncomfortable, but necessary due to Washington's dental issues.",
+    "searchKeywords": "George Washington dentures teeth"
+  },
+  {
+    "id": "ernest-hemingway-once-wrote",
+    "date": "2026-09-18",
+    "category": "literature",
+    "text": "Ernest Hemingway once wrote a six-word story that is famously poignant: 'For sale: baby shoes, never worn.'",
+    "detail": "This story is often cited as a powerful example of flash fiction, capturing a sense of loss and tragedy in just six words. Hemingway reportedly penned this micro-narrative to win a bet with his fellow writers about creating a complete story in a minimal word count.",
+    "searchKeywords": "Hemingway six word story"
+  },
+  {
+    "id": "antimatter-has-the-opposite",
+    "date": "2026-09-19",
+    "category": "physics",
+    "text": "Antimatter has the opposite charge of matter and annihilates upon contact with it.",
+    "detail": "When particles of matter and antimatter meet, they annihilate each other in a burst of energy, as described by Einstein's equation E=mc². Antimatter is studied in particle physics and is created in laboratories, but storing it is a significant challenge due to its volatile nature.",
+    "searchKeywords": "antimatter matter annihilation physics"
+  },
+  {
+    "id": "the-number-7-is",
+    "date": "2026-09-20",
+    "category": "math",
+    "text": "The number 7 is the only digit that cannot be represented as a sum of three squares.",
+    "detail": "In number theory, it is known that every positive integer can be expressed as the sum of three squares of integers, except for numbers of the form 4^a(8b+7). Seven stands out in this pattern, making it unique in its inability to fit this composition.",
+    "searchKeywords": "number 7 sum three squares"
+  },
+  {
+    "id": "the-sun-loses-about",
+    "date": "2026-09-21",
+    "category": "astronomy",
+    "text": "The Sun loses about 4 million tons of mass per second.",
+    "detail": "Through the process of nuclear fusion, the Sun converts hydrogen into helium, releasing an enormous amount of energy as light and heat. This energy loss translates to a mass reduction of around 4 million tons every second, though it's negligible compared to the Sun's total mass.",
+    "searchKeywords": "Sun mass loss nuclear fusion"
+  },
+  {
+    "id": "the-pistol-shrimp-can",
+    "date": "2026-09-22",
+    "category": "naturalScience",
+    "text": "The pistol shrimp can snap its claw to create a bubble hotter than the surface of the Sun.",
+    "detail": "This small marine creature uses its unique claw to create a cavitation bubble through a rapid snap. The bubble reaches temperatures around 4,800 degrees Celsius, briefly producing a flash of light and a loud sound, used to stun prey.",
+    "searchKeywords": "pistol shrimp claw bubble heat"
+  },
+  {
+    "id": "walt-disney-was-terrified",
+    "date": "2026-09-23",
+    "category": "famousLives",
+    "text": "Walt Disney was terrified of mice, despite creating Mickey Mouse.",
+    "detail": "Ironically, the man famous for creating one of the world's most beloved mouse characters had a personal fear of mice. Walt Disney's ability to overcome this fear and create a symbol of joy and entertainment speaks to his talent and imagination.",
+    "searchKeywords": "Walt Disney fear of mice"
+  },
+  {
+    "id": "in-1855-the-poet",
+    "date": "2026-09-24",
+    "category": "literature",
+    "text": "In 1855, the Poet Laureate of Britain, Alfred Tennyson, wrote a poem to solve a 3,000-year-old riddle.",
+    "detail": "The poem 'The Song of the Wrens' was written to solve the 'Riddle of the Wrens,' a challenge from an old Gaelic legend. Tennyson's solution revolved around the symbolic meaning of the birds, which was traditionally linked to the passage of time and seasons.",
+    "searchKeywords": "Alfred Tennyson riddle wrens poem"
+  },
+  {
+    "id": "in-1939-physicist-lise",
+    "date": "2026-09-25",
+    "category": "physics",
+    "text": "In 1939, physicist Lise Meitner was the first to explain nuclear fission, yet she never received a Nobel Prize.",
+    "detail": "Lise Meitner, an Austrian-Swedish physicist, worked with Otto Hahn in Germany but fled to Sweden during World War II. Despite her critical insight into the process of nuclear fission, the Nobel Prize was awarded only to Hahn, overlooking her monumental contribution.",
+    "searchKeywords": "Lise Meitner nuclear fission Nobel"
+  },
+  {
+    "id": "there-is-a-mathematical",
+    "date": "2026-09-26",
+    "category": "math",
+    "text": "There is a mathematical paradox suggesting you can 'peel' an orange and turn it into the size of the sun.",
+    "detail": "This concept, known as the Banach-Tarski Paradox, arises from set theory, which states that a solid ball can be divided and reassembled into two identical copies of the original. This is possible only in a purely mathematical sense, not a physical one.",
+    "searchKeywords": "Banach Tarski Paradox orange sun"
+  },
+  {
+    "id": "the-moon-is-moving",
+    "date": "2026-09-27",
+    "category": "astronomy",
+    "text": "The Moon is moving away from Earth at a rate of 3.8 centimeters per year.",
+    "detail": "This gradual drift is a result of tidal interactions between the Earth and the Moon. As Earth's rotation slows, some of its rotational energy is transferred to the Moon, causing the Moon to move slightly farther away over time.",
+    "searchKeywords": "Moon moving away Earth distance"
+  },
+  {
+    "id": "a-single-strand-of",
+    "date": "2026-09-28",
+    "category": "naturalScience",
+    "text": "A single strand of spider silk is five times stronger than a piece of steel of the same diameter.",
+    "detail": "Spider silk's incredible strength is due to its unique protein structure, which allows it to absorb a vast amount of energy. This makes it not just strong, but also highly elastic, giving it the ability to stretch without breaking.",
+    "searchKeywords": "spider silk strength steel"
+  },
+  {
+    "id": "napoleon-bonaparte-was-once-2",
+    "date": "2026-09-29",
+    "category": "famousLives",
+    "text": "Napoleon Bonaparte was once attacked by a horde of rabbits.",
+    "detail": "During a hunting expedition, Napoleon ordered a rabbit hunt with hundreds of bunnies released for the occasion. However, the rabbits, rather than fleeing, charged towards him and his men, leading to a comical retreat.",
+    "searchKeywords": "Napoleon Bonaparte rabbit attack"
+  },
+  {
+    "id": "ernest-hemingway-s-famous",
+    "date": "2026-09-30",
+    "category": "literature",
+    "text": "Ernest Hemingway's famous six-word story, 'For sale: baby shoes, never worn,' is often cited as an example of flash fiction.",
+    "detail": "This concise narrative is renowned for its ability to evoke a powerful emotional response with minimal words. Hemingway's mastery of brevity and implication is showcased in this poignant story that invites the reader to imagine a much larger narrative.",
+    "searchKeywords": "Ernest Hemingway six word story"
+  },
+  {
+    "id": "the-casimir-effect-demonstrates",
+    "date": "2026-10-01",
+    "category": "physics",
+    "text": "The Casimir effect demonstrates that you can create a force from the vacuum of space.",
+    "detail": "This quantum phenomenon occurs when two uncharged, parallel plates are placed very close together in a vacuum. The reduction of virtual particles between the plates compared to those outside creates a pressure, pushing the plates together, showing that 'empty space' is actually teeming with activity.",
+    "searchKeywords": "Casimir effect quantum vacuum"
+  },
+  {
+    "id": "the-number-142857-is",
+    "date": "2026-10-02",
+    "category": "math",
+    "text": "The number 142857 is a cyclic number, which means its multiples are rotations of itself.",
+    "detail": "When you multiply 142857 by any number from 1 to 6, the product is a permutation of the digits in 142857. This mesmerizing property is linked to its decimal representation as a repeating fraction, derived from 1/7.",
+    "searchKeywords": "142857 cyclic number multiples"
+  },
+  {
+    "id": "the-horsehead-nebula-was-2",
+    "date": "2026-10-03",
+    "category": "astronomy",
+    "text": "The Horsehead Nebula was first photographed in 1888 by astronomer Williamina Fleming.",
+    "detail": "This iconic dark nebula, located in the constellation Orion, was discovered on a photographic plate at the Harvard College Observatory. The nebula's distinct shape resembles a horse's head, and it is one of the most recognizable nebulae due to its unique outline against the bright background of ionized gas.",
+    "searchKeywords": "Horsehead Nebula first photograph 1888"
+  },
+  {
+    "id": "a-chameleon-s-tongue",
+    "date": "2026-10-04",
+    "category": "naturalScience",
+    "text": "A chameleon's tongue can accelerate faster than a jet fighter's engine.",
+    "detail": "Chameleons are known for their ability to change colors, but their tongue is a marvel of speed and precision. It can reach its prey in less than 0.07 seconds, using elastic recoil to launch at speeds exceeding 13 miles per hour.",
+    "searchKeywords": "chameleon tongue speed acceleration"
+  },
+  {
+    "id": "cleopatra-once-dissolved-a",
+    "date": "2026-10-05",
+    "category": "famousLives",
+    "text": "Cleopatra once dissolved a pearl in vinegar and drank it to win a bet.",
+    "detail": "The Egyptian queen Cleopatra is said to have wagered with Mark Antony that she could host the most expensive dinner in history. By dissolving an immense pearl from her earring in vinegar and drinking it, she won the bet, showcasing both her wealth and ingenuity.",
+    "searchKeywords": "Cleopatra pearl vinegar bet"
+  },
+  {
+    "id": "the-first-detective-story",
+    "date": "2026-10-06",
+    "category": "literature",
+    "text": "The first detective story was written by Edgar Allan Poe and featured an orangutan as the murderer.",
+    "detail": "Published in 1841, 'The Murders in the Rue Morgue' by Edgar Allan Poe is considered the first modern detective story. It introduced C. Auguste Dupin, a brilliant sleuth who solves a gruesome murder mystery involving an escaped orangutan.",
+    "searchKeywords": "Edgar Allan Poe Rue Morgue detective"
+  },
+  {
+    "id": "the-largest-man-made",
+    "date": "2026-10-07",
+    "category": "physics",
+    "text": "The largest man-made explosion before nuclear weapons was caused by a ship collision in 1917.",
+    "detail": "The Halifax Explosion occurred when a French cargo ship loaded with explosives collided with another vessel in the Halifax harbor. The explosion devastated the city, killed nearly 2,000 people, and was the largest human-made blast until the advent of nuclear weapons.",
+    "searchKeywords": "Halifax Explosion 1917 ship collision"
+  },
+  {
+    "id": "there-are-infinitely-many-2",
+    "date": "2026-10-08",
+    "category": "math",
+    "text": "There are infinitely many prime numbers, as proved by Euclid over 2,000 years ago.",
+    "detail": "Euclid's proof of the infinitude of prime numbers is a cornerstone of number theory. By assuming a finite set of primes and deriving a contradiction, he demonstrated that primes are limitless, a fact that continues to underpin modern mathematical research.",
+    "searchKeywords": "Euclid prime numbers infinite proof"
+  },
+  {
+    "id": "a-day-on-venus",
+    "date": "2026-10-09",
+    "category": "astronomy",
+    "text": "A day on Venus is longer than a year on Venus.",
+    "detail": "Venus rotates on its axis slower than it orbits the Sun, taking about 243 Earth days to complete one rotation and about 225 Earth days to orbit the Sun. This peculiar synchronization means a single day on Venus lasts longer than its year.",
+    "searchKeywords": "Venus day year rotation orbit"
+  },
+  {
+    "id": "the-axolotl-a-type",
+    "date": "2026-10-10",
+    "category": "naturalScience",
+    "text": "The axolotl, a type of salamander, can regenerate not only limbs but also parts of its heart and brain.",
+    "detail": "Axolotls are remarkable amphibians known for their regenerative abilities, which extend beyond limbs to include complex organs like the heart and brain. This trait has made them a focus of scientific study, especially in the field of regenerative medicine.",
+    "searchKeywords": "axolotl regeneration heart brain"
+  },
+  {
+    "id": "nikola-tesla-was-known",
+    "date": "2026-10-11",
+    "category": "famousLives",
+    "text": "Nikola Tesla was known to sleep only two hours a day.",
+    "detail": "Despite his extraordinary intellectual output and groundbreaking inventions, Tesla reportedly adhered to a polyphasic sleep schedule, resting for just two hours each night. This intense work ethic contributed to his prolific achievements and eccentric reputation.",
+    "searchKeywords": "Nikola Tesla sleep habits schedule"
+  },
+  {
+    "id": "jane-austen-published-all",
+    "date": "2026-10-12",
+    "category": "literature",
+    "text": "Jane Austen published all her novels anonymously during her lifetime.",
+    "detail": "In an era when women were discouraged from literary pursuits, Jane Austen chose to publish her works anonymously, with her first novel, 'Sense and Sensibility,' credited as 'By a Lady.' Her authorship was only publicly acknowledged posthumously.",
+    "searchKeywords": "Jane Austen anonymous novels publication"
+  },
+  {
+    "id": "the-speed-of-light",
+    "date": "2026-10-13",
+    "category": "physics",
+    "text": "The speed of light is not constant when passing through different materials.",
+    "detail": "Although often stated as a universal constant, light actually slows down when traveling through materials like glass or water. This change in speed causes refraction, an effect visible when light bends while entering a denser medium.",
+    "searchKeywords": "speed of light refraction materials"
+  },
+  {
+    "id": "the-number-6174-always",
+    "date": "2026-10-14",
+    "category": "math",
+    "text": "The number 6174 always reaches itself under a specific set of operations.",
+    "detail": "Known as Kaprekar's constant, if you take a four-digit number, rearrange its digits to form the largest and smallest possible numbers, subtract the smaller from the larger, and repeat, you'll eventually reach 6174. This enigmatic constant fascinates mathematicians because of its unique convergence property.",
+    "searchKeywords": "Kaprekar constant 6174 math"
+  },
+  {
+    "id": "the-coldest-place-in",
+    "date": "2026-10-15",
+    "category": "astronomy",
+    "text": "The coldest place in the known universe is inside the Boomerang Nebula.",
+    "detail": "The Boomerang Nebula is located 5,000 light-years away from Earth in the constellation Centaurus. It has been recorded at a chilling temperature of approximately -272°C, just a degree above absolute zero, due to its rapid expansion which causes the gas to cool dramatically.",
+    "searchKeywords": "Boomerang Nebula coldest place universe"
+  },
+  {
+    "id": "the-african-lungfish-can",
+    "date": "2026-10-16",
+    "category": "naturalScience",
+    "text": "The African lungfish can survive in dried-up conditions for up to four years.",
+    "detail": "During extreme droughts, the African lungfish secretes a mucus cocoon and buries itself in the mud, entering a state of aestivation. This remarkable ability allows it to survive without water by significantly lowering its metabolic rate until favorable conditions return.",
+    "searchKeywords": "African lungfish survival drought"
+  },
+  {
+    "id": "rasputin-survived-multiple-assassination",
+    "date": "2026-10-17",
+    "category": "famousLives",
+    "text": "Rasputin survived multiple assassination attempts before his death.",
+    "detail": "Grigori Rasputin, a Russian mystic and confidant to the Romanovs, was famously hard to kill. Accounts suggest he was poisoned, shot, and eventually drowned, highlighting his almost supernatural resilience and the desperation of his assassins.",
+    "searchKeywords": "Rasputin assassination attempts survival"
+  },
+  {
+    "id": "the-original-manuscript-of-2",
+    "date": "2026-10-18",
+    "category": "literature",
+    "text": "The original manuscript of 'Peter Pan' was nearly lost in a train station.",
+    "detail": "J.M. Barrie, the author of 'Peter Pan', left the only copy of his manuscript in a London train station in 1904. Fortunately, it was found and returned to him, sparing the literary world the loss of this classic children's story.",
+    "searchKeywords": "Peter Pan manuscript lost train"
+  },
+  {
+    "id": "the-largest-atom-smasher",
+    "date": "2026-10-19",
+    "category": "physics",
+    "text": "The largest atom smasher is visible from space.",
+    "detail": "The Large Hadron Collider (LHC) at CERN, located near Geneva, Switzerland, is the world's largest particle accelerator. Spanning 27 kilometers in circumference, the LHC's massive ring structure can be seen from orbit, reflecting its monumental scale in exploring fundamental physics.",
+    "searchKeywords": "Large Hadron Collider visible space"
+  },
+  {
+    "id": "the-number-73-is",
+    "date": "2026-10-20",
+    "category": "math",
+    "text": "The number 73 is Sheldon Cooper's favorite for a mathematical reason.",
+    "detail": "In the TV show 'The Big Bang Theory', Sheldon claims 73 is the best number because it's the 21st prime number, its mirror (37) is the 12th prime, and its mirror (21) is the product of multiplying 7 and 3. This playful nod to mathematics integrates real-world number properties into pop culture.",
+    "searchKeywords": "73 Sheldon Cooper favorite number"
+  },
+  {
+    "id": "there-s-an-enormous",
+    "date": "2026-10-21",
+    "category": "astronomy",
+    "text": "There's an enormous cloud of water vapor in space holding more water than Earth.",
+    "detail": "A quasar named APM 08279+5255, located 12 billion light-years away, hosts a massive cloud of water vapor with 140 trillion times the water of Earth's oceans. This discovery shows that even in the early universe, water was abundant, contributing to the understanding of cosmic evolution.",
+    "searchKeywords": "APM 08279+5255 water vapor space"
+  },
+  {
+    "id": "the-hagfish-can-produce",
+    "date": "2026-10-22",
+    "category": "naturalScience",
+    "text": "The hagfish can produce copious amounts of slime as a defense mechanism.",
+    "detail": "When threatened, the hagfish releases thread-like proteins from slime glands along its body. These proteins, in contact with water, rapidly expand into a dense, gelatinous mass, deterring predators by clogging their gills and creating a formidable barrier.",
+    "searchKeywords": "hagfish slime defense mechanism"
+  },
+  {
+    "id": "charlie-chaplin-once-lost",
+    "date": "2026-10-23",
+    "category": "famousLives",
+    "text": "Charlie Chaplin once lost a Charlie Chaplin look-alike contest.",
+    "detail": "In a surprising twist of fate, the iconic silent film actor entered a contest in San Francisco and took third place. This amusing incident underscores how distinct personas can surpass even the originals in the eyes of the public.",
+    "searchKeywords": "Charlie Chaplin look alike contest loss"
+  },
+  {
+    "id": "the-word-nerd-was",
+    "date": "2026-10-24",
+    "category": "literature",
+    "text": "The word 'nerd' was first introduced by Dr. Seuss in his 1950 book 'If I Ran the Zoo.'",
+    "detail": "In 'If I Ran the Zoo,' one of the characters makes mention of needing a 'nerd' for his zoo. The term was later adopted in popular culture to describe someone who is socially awkward or overly intellectual.",
+    "searchKeywords": "Dr Seuss nerd origin zoo book"
+  },
+  {
+    "id": "a-teaspoon-of-neutron-2",
+    "date": "2026-10-25",
+    "category": "physics",
+    "text": "A teaspoon of neutron star material would weigh about 6 billion tons on Earth.",
+    "detail": "Neutron stars are incredibly dense remnants of supernova explosions. Their gravity is so strong that atoms collapse, leaving mostly neutrons. This results in matter so dense that just a tiny amount would be unimaginably heavy on Earth.",
+    "searchKeywords": "neutron star density weight physics"
+  },
+  {
+    "id": "the-fibonacci-sequence-appears-2",
+    "date": "2026-10-26",
+    "category": "math",
+    "text": "The Fibonacci sequence appears in the arrangement of pine cones and leaves on a stem.",
+    "detail": "The Fibonacci sequence, a series of numbers where each is the sum of the two preceding ones, is often found in nature. Pine cones and leaves follow this pattern, optimizing for sunlight exposure and seed arrangement.",
+    "searchKeywords": "Fibonacci sequence nature pine cone"
+  },
+  {
+    "id": "venus-rotates-in-the-2",
+    "date": "2026-10-27",
+    "category": "astronomy",
+    "text": "Venus rotates in the opposite direction to most planets in our solar system.",
+    "detail": "While most planets, including Earth, rotate counterclockwise, Venus spins clockwise on its axis. This retrograde rotation is a unique feature caused possibly by a massive impact or gravitational influences during its formation.",
+    "searchKeywords": "Venus rotation direction retrograde planet"
+  },
+  {
+    "id": "bananas-are-technically-berries",
+    "date": "2026-10-28",
+    "category": "naturalScience",
+    "text": "Bananas are technically berries, but strawberries are not.",
+    "detail": "In botanical terms, a berry is a fruit produced from the ovary of a single flower with seeds embedded in the flesh. Bananas fit this definition, while strawberries originate from a flower with multiple ovaries and are considered aggregate fruits.",
+    "searchKeywords": "banana berry strawberry fruit classification"
+  },
+  {
+    "id": "vincent-van-gogh-only",
+    "date": "2026-10-29",
+    "category": "famousLives",
+    "text": "Vincent van Gogh only sold one painting during his lifetime.",
+    "detail": "Despite his posthumous fame, Vincent van Gogh struggled with poverty, and his work was largely unappreciated during his life. The only painting he sold, 'The Red Vineyard,' found a buyer just months before his death.",
+    "searchKeywords": "Vincent van Gogh painting sales"
+  },
+  {
+    "id": "mary-shelley-was-just-2",
+    "date": "2026-10-30",
+    "category": "literature",
+    "text": "Mary Shelley was just 18 years old when she began writing 'Frankenstein.'",
+    "detail": "Mary Shelley conceived the idea for 'Frankenstein' during a summer spent with Percy Bysshe Shelley and Lord Byron. She completed the novel at age 20, creating one of the earliest examples of science fiction.",
+    "searchKeywords": "Mary Shelley Frankenstein writing age"
+  },
+  {
+    "id": "isaac-newton-invented-the-2",
+    "date": "2026-10-31",
+    "category": "physics",
+    "text": "Isaac Newton invented the cat door.",
+    "detail": "When Newton was conducting experiments in a dark room, his cat kept pushing the door open, disrupting the light. To solve this, he cut a small hole at the bottom of the door, allowing the cat to enter without affecting his work.",
+    "searchKeywords": "Isaac Newton cat door invention"
+  },
+  {
+    "id": "the-fibonacci-sequence-appears-3",
+    "date": "2026-11-01",
+    "category": "math",
+    "text": "The Fibonacci sequence appears in the spirals of pine cones.",
+    "detail": "The Fibonacci numbers form a sequence where each number is the sum of the two preceding ones. Nature often reflects this pattern, as seen in the spiral arrangements of pine cone scales, optimizing for space and efficiency.",
+    "searchKeywords": "Fibonacci sequence pine cone spirals"
+  },
+  {
+    "id": "venus-rotates-on-its",
+    "date": "2026-11-02",
+    "category": "astronomy",
+    "text": "Venus rotates on its axis backwards compared to most planets.",
+    "detail": "In a rare phenomenon known as retrograde rotation, Venus spins in the opposite direction to most planets, including Earth. This means if you were standing on Venus, the Sun would rise in the west and set in the east.",
+    "searchKeywords": "Venus rotation direction retrograde"
   }
 ]
