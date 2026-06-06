@@ -6,7 +6,7 @@ import { router } from "expo-router";
 import { COLORS, FONTS } from "@/constants/theme";
 import { getTodaysQuote } from "@/lib/quotes";
 
-const SPLASH_DURATION = 30000;
+const SPLASH_DURATION = 5000;
 
 export default function SplashScreen() {
   const quote = getTodaysQuote();

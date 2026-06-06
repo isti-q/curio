@@ -3,31 +3,38 @@ import {
   Animated,
   Linking,
   Pressable,
+  ScrollView,
   StyleSheet,
   Text,
   View,
 } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
+import { router, useLocalSearchParams } from "expo-router";
 import { Ionicons } from "@expo/vector-icons";
 import * as Haptics from "expo-haptics";
 
 import { CATEGORIES, COLORS, FONTS, withAlpha } from "@/constants/theme";
-import { formatDate, getTodaysFact, googleSearchUrl } from "@/lib/facts";
+import {
+  factDate,
+  formatDate,
+  getFactById,
+  googleSearchUrl,
+} from "@/lib/facts";
 import { useFactsVersion } from "@/lib/factsContext";
 import { isFavorite, toggleFavorite } from "@/lib/favorites";
 
-export default function TodayScreen() {
+export default function FactDetailScreen() {
   useFactsVersion();
-  const fact = getTodaysFact();
-  const category = CATEGORIES[fact.category];
+  const { id, date } = useLocalSearchParams<{ id: string; date?: string }>();
+  const fact = getFactById(id);
+
   const [saved, setSaved] = useState(false);
-  const [detailOpen, setDetailOpen] = useState(false);
-  const detailAnim = useRef(new Animated.Value(0)).current;
   const [toast, setToast] = useState<string | null>(null);
   const toastAnim = useRef(new Animated.Value(0)).current;
   const toastTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   useEffect(() => {
+    if (!fact) return;
     let active = true;
     isFavorite(fact.id).then((value) => {
       if (active) setSaved(value);
@@ -35,17 +42,31 @@ export default function TodayScreen() {
     return () => {
       active = false;
     };
-  }, [fact.id]);
+  }, [fact]);
 
-  const onToggleDetail = () => {
-    const next = !detailOpen;
-    setDetailOpen(next);
-    Animated.timing(detailAnim, {
-      toValue: next ? 1 : 0,
-      duration: 220,
-      useNativeDriver: true,
-    }).start();
-  };
+  useEffect(() => {
+    return () => {
+      if (toastTimer.current) clearTimeout(toastTimer.current);
+    };
+  }, []);
+
+  if (!fact) {
+    return (
+      <SafeAreaView style={styles.safe} edges={["top"]}>
+        <View style={styles.topBar}>
+          <Pressable onPress={() => router.back()} hitSlop={8} style={styles.backBtn}>
+            <Ionicons name="chevron-back" size={22} color={COLORS.ink} />
+          </Pressable>
+        </View>
+        <View style={styles.missing}>
+          <Text style={styles.missingText}>This fact could not be found.</Text>
+        </View>
+      </SafeAreaView>
+    );
+  }
+
+  const category = CATEGORIES[fact.category];
+  const shownDate = date ? new Date(Number(date)) : factDate(fact.id);
 
   const onSearch = async () => {
     const url = googleSearchUrl(fact.searchKeywords);
@@ -54,12 +75,6 @@ export default function TodayScreen() {
       Linking.openURL(url);
     }
   };
-
-  useEffect(() => {
-    return () => {
-      if (toastTimer.current) clearTimeout(toastTimer.current);
-    };
-  }, []);
 
   const showToast = (message: string) => {
     if (toastTimer.current) clearTimeout(toastTimer.current);
@@ -90,11 +105,16 @@ export default function TodayScreen() {
       <View style={styles.container}>
         {/* Top bar */}
         <View style={styles.topBar}>
-          <Text style={styles.wordmark}>✦ CURIO</Text>
-          <Text style={styles.date}>{formatDate(new Date())}</Text>
+          <Pressable onPress={() => router.back()} hitSlop={8} style={styles.backBtn}>
+            <Ionicons name="chevron-back" size={22} color={COLORS.ink} />
+          </Pressable>
+          <Text style={styles.date}>{formatDate(shownDate)}</Text>
         </View>
 
-        <View style={styles.body}>
+        <ScrollView
+          contentContainerStyle={styles.body}
+          showsVerticalScrollIndicator={false}
+        >
           {/* Category badge */}
           <View
             style={[
@@ -108,29 +128,11 @@ export default function TodayScreen() {
             </Text>
           </View>
 
-          {/* Fact — tap to expand detail */}
-          <Pressable onPress={onToggleDetail} hitSlop={4}>
-            <Text style={styles.fact}>{fact.text}</Text>
-          </Pressable>
+          {/* Fact */}
+          <Text style={styles.fact}>{fact.text}</Text>
 
-          {/* Detail panel */}
-          {detailOpen && (
-            <Animated.View
-              style={{
-                opacity: detailAnim,
-                transform: [
-                  {
-                    translateY: detailAnim.interpolate({
-                      inputRange: [0, 1],
-                      outputRange: [-6, 0],
-                    }),
-                  },
-                ],
-              }}
-            >
-              <Text style={styles.detail}>{fact.detail}</Text>
-            </Animated.View>
-          )}
+          {/* Optional context paragraph */}
+          {fact.detail ? <Text style={styles.context}>{fact.detail}</Text> : null}
 
           {/* Divider */}
           <View style={styles.divider} />
@@ -153,7 +155,12 @@ export default function TodayScreen() {
                 Google search · opens in browser
               </Text>
             </View>
-            <Ionicons name="arrow-up" size={16} color={COLORS.inkFaint} style={styles.cardArrow} />
+            <Ionicons
+              name="arrow-up"
+              size={16}
+              color={COLORS.inkFaint}
+              style={styles.cardArrow}
+            />
           </Pressable>
 
           {/* Caption */}
@@ -180,7 +187,7 @@ export default function TodayScreen() {
               color={saved ? COLORS.accent : COLORS.inkSoft}
             />
           </Pressable>
-        </View>
+        </ScrollView>
 
         {toast && (
           <Animated.View
@@ -221,23 +228,26 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     alignItems: "center",
     justifyContent: "space-between",
-    paddingHorizontal: 22,
+    paddingHorizontal: 16,
     paddingTop: 8,
   },
-  wordmark: {
-    fontFamily: FONTS.serifSemiBold,
-    fontSize: 13,
-    letterSpacing: 4,
-    color: COLORS.accent,
+  backBtn: {
+    width: 40,
+    height: 40,
+    borderRadius: 12,
+    alignItems: "center",
+    justifyContent: "center",
   },
   date: {
     fontSize: 12,
     fontWeight: "600",
     color: COLORS.inkFaint,
+    paddingRight: 8,
   },
   body: {
     paddingHorizontal: 22,
-    paddingTop: 22,
+    paddingTop: 14,
+    paddingBottom: 36,
   },
   badge: {
     alignSelf: "flex-start",
@@ -261,17 +271,17 @@ const styles = StyleSheet.create({
   },
   fact: {
     fontFamily: FONTS.serifMedium,
-    fontSize: 24,
-    lineHeight: 31,
+    fontSize: 25,
+    lineHeight: 33,
     color: COLORS.ink,
     marginTop: 18,
   },
-  detail: {
+  context: {
     fontFamily: FONTS.serifQuote,
     fontSize: 15,
     lineHeight: 23,
     color: COLORS.inkSoft,
-    marginTop: 14,
+    marginTop: 16,
   },
   divider: {
     width: 38,
@@ -348,6 +358,16 @@ const styles = StyleSheet.create({
   },
   heartBtnSaved: {
     borderColor: COLORS.accent,
+  },
+  missing: {
+    flex: 1,
+    alignItems: "center",
+    justifyContent: "center",
+    padding: 40,
+  },
+  missingText: {
+    fontSize: 15,
+    color: COLORS.inkSoft,
   },
   toast: {
     position: "absolute",

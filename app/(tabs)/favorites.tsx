@@ -1,7 +1,7 @@
 import { useCallback, useState } from "react";
-import { ScrollView, StyleSheet, Text, View } from "react-native";
+import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
-import { useFocusEffect } from "expo-router";
+import { router, useFocusEffect } from "expo-router";
 import { Ionicons } from "@expo/vector-icons";
 
 import { CATEGORIES, COLORS, FONTS, withAlpha } from "@/constants/theme";
@@ -48,12 +48,21 @@ export default function FavoritesScreen() {
           {facts.map((fact) => {
             const category = CATEGORIES[fact.category];
             return (
-              <View key={fact.id} style={styles.card}>
+              <Pressable
+                key={fact.id}
+                style={({ pressed }) => [styles.card, pressed && styles.cardPressed]}
+                onPress={() =>
+                  router.push({
+                    pathname: "/fact/[id]",
+                    params: { id: fact.id },
+                  })
+                }
+              >
                 <Text style={[styles.cardCategory, { color: category.color }]}>
                   {category.label}
                 </Text>
                 <Text style={styles.cardFact}>{fact.text}</Text>
-              </View>
+              </Pressable>
             );
           })}
         </ScrollView>
@@ -107,6 +116,9 @@ const styles = StyleSheet.create({
     borderRadius: 16,
     paddingVertical: 16,
     paddingHorizontal: 16,
+  },
+  cardPressed: {
+    opacity: 0.7,
   },
   cardCategory: {
     fontSize: 11,

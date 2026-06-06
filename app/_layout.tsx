@@ -9,6 +9,8 @@ import {
 } from "@expo-google-fonts/fraunces";
 import { Newsreader_400Regular_Italic } from "@expo-google-fonts/newsreader";
 
+import { FactsProvider } from "@/lib/factsContext";
+
 SplashScreen.preventAutoHideAsync();
 
 export default function RootLayout() {
@@ -29,11 +31,13 @@ export default function RootLayout() {
   }
 
   return (
-    <>
+    <FactsProvider>
       <StatusBar style="dark" />
       <Stack screenOptions={{ headerShown: false }}>
+        <Stack.Screen name="index" />
         <Stack.Screen name="(tabs)" />
+        <Stack.Screen name="fact/[id]" />
       </Stack>
-    </>
+    </FactsProvider>
   );
 }

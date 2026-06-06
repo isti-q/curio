@@ -1,152 +1,202 @@
 [
   {
     "id": "octopus-three-hearts",
+    "date": "2026-05-13",
     "category": "naturalScience",
     "text": "Octopuses have three hearts — two pump blood to the gills, and one to the rest of the body.",
+    "detail": "When an octopus swims, the main heart actually stops beating, which is why they prefer crawling — swimming exhausts them quickly. Their blood is blue because it uses copper-based hemocyanin instead of the iron-based hemoglobin found in human blood.",
     "searchKeywords": "octopus three hearts"
   },
   {
     "id": "honey-never-spoils",
+    "date": "2026-05-14",
     "category": "naturalScience",
     "text": "Honey found sealed in ancient Egyptian tombs is over 3,000 years old and still perfectly edible.",
+    "detail": "Honey's longevity comes from its chemistry: it's low in moisture, highly acidic, and naturally produces small amounts of hydrogen peroxide. Together these properties make it nearly impossible for bacteria or fungi to survive. Bees also fan it with their wings to drive off excess water before sealing cells with wax.",
     "searchKeywords": "honey never spoils ancient tombs"
   },
   {
     "id": "wombat-cube-poop",
+    "date": "2026-05-15",
     "category": "naturalScience",
     "text": "Wombats produce cube-shaped droppings, the only known animal to make square poo.",
+    "detail": "Researchers discovered in 2018 that the cube shape forms in the last portion of the wombat's intestine, where elastic tissue varies in stiffness — creating corners rather than a smooth cylinder. Wombats stack these distinctive cubes on rocks and logs to mark territory; the flat sides stop them rolling away.",
     "searchKeywords": "wombat cube shaped poop"
   },
   {
     "id": "bananas-berries",
+    "date": "2026-05-16",
     "category": "naturalScience",
     "text": "Botanically, bananas are berries — but strawberries are not.",
+    "detail": "In botany, a berry develops from a single flower with one ovary and has seeds embedded in the flesh. Bananas, avocados, and even watermelons qualify. Strawberries, on the other hand, grow from a flower with multiple ovaries and are technically 'accessory fruits' — the fleshy part is enlarged stem tissue, not ovary wall.",
     "searchKeywords": "bananas are berries strawberries not"
   },
   {
     "id": "shortest-war",
+    "date": "2026-05-17",
     "category": "history",
     "text": "The shortest war in history, between Britain and Zanzibar in 1896, lasted under 40 minutes.",
+    "detail": "The Anglo-Zanzibar War lasted between 38 and 45 minutes on 27 August 1896. When the pro-British sultan died and a less cooperative successor seized power, Britain issued an ultimatum. At 9 a.m. the bombardment began; by 9:40 the palace flag had been shot down and the new sultan had fled.",
     "searchKeywords": "shortest war history anglo zanzibar"
   },
   {
     "id": "oxford-aztec",
+    "date": "2026-05-18",
     "category": "history",
     "text": "Oxford University is older than the Aztec Empire — it was teaching students by 1096.",
+    "detail": "Teaching at Oxford can be traced back to at least 1096, and it grew rapidly after Henry II banned English students from attending the University of Paris in 1167. The Aztec city of Tenochtitlán, by contrast, was only founded in 1325. Oxford's Bodleian Library alone holds over 13 million items.",
     "searchKeywords": "oxford university older than aztec empire"
   },
   {
     "id": "cleopatra-pyramids",
+    "date": "2026-05-19",
     "category": "history",
     "text": "Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid.",
+    "detail": "The Great Pyramid of Giza was completed around 2560 BC. Cleopatra was born in 69 BC — roughly 2,500 years after the pyramid was built. The Moon landing happened in 1969 AD, only about 2,000 years after Cleopatra's death. The ancient world was already ancient to the Egyptians of her era.",
     "searchKeywords": "cleopatra closer moon landing than pyramids"
   },
   {
     "id": "great-emu-war",
+    "date": "2026-05-20",
     "category": "history",
     "text": "In 1932, Australia deployed soldiers with machine guns against emus — and the emus won.",
+    "detail": "Major G.P.W. Meredith led the ill-fated 'Emu War' in Western Australia, where 20,000 emus were destroying wheat crops. The birds proved frustratingly hard to kill — they could sustain multiple bullets and scatter into small groups. After three weeks and roughly 2,500 rounds fired, the military withdrew with minimal impact on the emu population.",
     "searchKeywords": "great emu war australia 1932"
   },
   {
     "id": "einstein-israel",
+    "date": "2026-05-21",
     "category": "famousLives",
     "text": "Albert Einstein was offered the presidency of Israel in 1952, but politely declined.",
+    "detail": "Following the death of Israel's first president, Chaim Weizmann, Einstein was approached by the Israeli ambassador. He declined, writing that he lacked the natural aptitude and experience for dealing with people — and that he was already too old and his health too frail. He remained a committed Zionist supporter throughout his life.",
     "searchKeywords": "einstein offered presidency israel 1952"
   },
   {
     "id": "newton-alchemy",
+    "date": "2026-05-22",
     "category": "famousLives",
     "text": "Isaac Newton wrote more about alchemy and theology than he ever did about physics.",
+    "detail": "Newton left behind roughly one million words on alchemy and another million on theology — far more than his scientific output. He believed the Bible contained hidden codes about the future and spent decades searching for them. When economist John Maynard Keynes acquired Newton's alchemical papers in 1936, he called him 'the last of the magicians.'",
     "searchKeywords": "isaac newton alchemy writings"
   },
   {
     "id": "hedy-lamarr",
+    "date": "2026-05-23",
     "category": "famousLives",
     "text": "Hollywood star Hedy Lamarr co-invented a frequency-hopping system that underpins modern Wi-Fi and Bluetooth.",
+    "detail": "During World War II, Lamarr and composer George Antheil patented a 'Secret Communication System' that rapidly switched radio frequencies to prevent enemy jamming of torpedoes. The patent expired before the military adopted it, earning her nothing. Decades later the same principle became foundational to spread-spectrum technology in wireless communications.",
     "searchKeywords": "hedy lamarr frequency hopping invention"
   },
   {
     "id": "tolstoy-war-and-peace",
+    "date": "2026-05-24",
     "category": "literature",
     "text": "Tolstoy's wife Sofia hand-copied the entire manuscript of War and Peace seven times by candlelight.",
+    "detail": "Each revision meant re-transcribing roughly 1,200 pages — a labor spanning years of nightly work. Sofia also managed the family estate, raised thirteen children, and later acted as Tolstoy's personal secretary and publisher. She was deeply critical of some of his later philosophical writings, leading to a famously stormy marriage.",
     "searchKeywords": "sofia tolstoy copied war and peace"
   },
   {
     "id": "shakespeare-words",
+    "date": "2026-05-25",
     "category": "literature",
     "text": "Shakespeare invented over 1,700 words still in use today, including 'eyeball' and 'lonely'.",
+    "detail": "Shakespeare coined words by converting nouns into verbs, verbs into adjectives, and by adding prefixes and suffixes with abandon. Among his inventions: bedroom, generous, gloomy, obscene, swagger, and zany. Because so much of his work survived in print, linguists can trace the first recorded use of these words directly to his plays and sonnets.",
     "searchKeywords": "shakespeare invented words eyeball lonely"
   },
   {
     "id": "dr-seuss-bet",
+    "date": "2026-05-26",
     "category": "literature",
     "text": "Dr. Seuss wrote Green Eggs and Ham on a bet that he couldn't make a book using only 50 different words.",
+    "detail": "His editor Bennett Cerf wagered $50 that Seuss couldn't write an entertaining book using only 50 distinct words, following the slightly more complex The Cat in the Hat. Seuss won the bet — the finished book uses exactly 50 words. Cerf reportedly never paid up. Green Eggs and Ham went on to become one of the best-selling children's books of all time.",
     "searchKeywords": "dr seuss green eggs and ham 50 words bet"
   },
   {
     "id": "moby-dick-typo",
+    "date": "2026-05-27",
     "category": "literature",
     "text": "The first edition of Moby-Dick accidentally left out its own epilogue, confusing early reviewers.",
+    "detail": "The British edition, published two weeks before the American one, omitted the epilogue in which Ishmael explains how he alone survived to tell the story. Critics were baffled — the novel is narrated in first person, yet the narrator apparently drowns. The American edition restored the epilogue, but the British reviews had already dampened the book's early reception.",
     "searchKeywords": "moby dick first edition missing epilogue"
   },
   {
     "id": "light-speed-year",
+    "date": "2026-05-28",
     "category": "physics",
     "text": "Light travels about 9.46 trillion kilometres in a single year — one light-year.",
+    "detail": "Light moves at roughly 299,792 kilometres per second in a vacuum. Multiply that by the seconds in a year and you get about 9.461 × 10¹² kilometres. The nearest star system, Alpha Centauri, is 4.37 light-years away — meaning the light reaching your eyes left there over four years ago.",
     "searchKeywords": "how far light travels in a year light year"
   },
   {
     "id": "hot-water-freezes",
+    "date": "2026-05-29",
     "category": "physics",
     "text": "Under the right conditions, hot water can freeze faster than cold water — the Mpemba effect.",
+    "detail": "The effect is named after Erasto Mpemba, a Tanzanian student who noticed in 1963 that hot ice-cream mix froze faster than cold. The phenomenon is real but contested: proposed explanations include faster evaporation reducing mass, dissolved gas escaping, and convection currents promoting cooling. No single mechanism has been universally accepted.",
     "searchKeywords": "mpemba effect hot water freezes faster"
   },
   {
     "id": "glass-liquid-myth",
+    "date": "2026-05-30",
     "category": "physics",
     "text": "Glass is an amorphous solid, not a slow-moving liquid — old window panes are uneven from how they were made.",
+    "detail": "Medieval glass was made by spinning molten glass into a disc; the thicker, heavier edge was placed at the bottom when installed. Modern measurements confirm glass does not flow at room temperature on any human timescale. The atoms in glass are locked in a disordered arrangement — like a frozen snapshot of a liquid — but they are not moving.",
     "searchKeywords": "is glass a liquid or solid amorphous"
   },
   {
     "id": "absolute-zero",
+    "date": "2026-05-31",
     "category": "physics",
     "text": "At absolute zero (−273.15 °C), atoms reach their lowest possible energy and nearly stop moving.",
+    "detail": "Absolute zero is the theoretical lower limit of the thermodynamic temperature scale. Quantum mechanics prevents particles from ever completely stopping — a phenomenon called zero-point energy. Scientists have cooled matter to within billionths of a degree of absolute zero, creating exotic states like Bose-Einstein condensates where particles merge into a single quantum entity.",
     "searchKeywords": "absolute zero temperature atoms stop moving"
   },
   {
     "id": "zero-india",
+    "date": "2026-06-01",
     "category": "math",
     "text": "The number zero as we use it was first treated as a true number by Indian mathematicians around the 7th century.",
+    "detail": "The mathematician Brahmagupta wrote rules for arithmetic with zero in 628 AD — including that a number minus itself equals zero. Earlier cultures used a placeholder symbol for zero but didn't treat it as a quantity in its own right. The concept travelled through the Islamic world to medieval Europe, where it initially faced suspicion as it threatened to make numbers 'disappear.'",
     "searchKeywords": "history of zero indian mathematics brahmagupta"
   },
   {
     "id": "birthday-paradox",
+    "date": "2026-06-02",
     "category": "math",
     "text": "In a room of just 23 people, there's a better-than-even chance two share a birthday.",
+    "detail": "The counterintuitive result comes from counting pairs, not people. With 23 people there are 253 possible pairs, each with a 1-in-365 chance of matching. It's easier to calculate the probability that no two people share a birthday and subtract from one. By 70 people the probability of a shared birthday exceeds 99.9%.",
     "searchKeywords": "birthday paradox 23 people probability"
   },
   {
     "id": "prime-infinite",
+    "date": "2026-06-03",
     "category": "math",
     "text": "Euclid proved over 2,000 years ago that there are infinitely many prime numbers.",
+    "detail": "Euclid's proof is a masterpiece of simplicity: assume a finite list of all primes, multiply them together and add one. The result is either prime itself or divisible by a prime not on the original list — contradiction. The proof appears in Book IX of his Elements, written around 300 BC, and remains one of the most elegant arguments in all of mathematics.",
     "searchKeywords": "euclid proof infinite prime numbers"
   },
   {
     "id": "venus-day",
+    "date": "2026-06-04",
     "category": "astronomy",
     "text": "A day on Venus is longer than its year — it spins slower than it orbits the Sun.",
+    "detail": "Venus takes 243 Earth days to rotate once on its axis but only 225 Earth days to complete one orbit. It also rotates backwards compared to most planets — the Sun rises in the west and sets in the east. Because of this combination, the time from one sunrise to the next on Venus is about 117 Earth days.",
     "searchKeywords": "venus day longer than year rotation"
   },
   {
     "id": "neutron-star-density",
+    "date": "2026-06-05",
     "category": "astronomy",
     "text": "A sugar-cube-sized piece of a neutron star would weigh about a billion tonnes on Earth.",
+    "detail": "Neutron stars form when a massive star collapses and the core is compressed so intensely that protons and electrons merge into neutrons. The resulting object packs more mass than the Sun into a sphere roughly 20 kilometres across. Their gravity is so extreme that a marshmallow dropped from a metre above the surface would hit with the energy of an atomic bomb.",
     "searchKeywords": "neutron star density sugar cube weight"
   },
   {
     "id": "footprints-moon",
+    "date": "2026-06-06",
     "category": "astronomy",
     "text": "The footprints left by Apollo astronauts on the Moon could last millions of years — there's no wind to erase them.",
+    "detail": "Without an atmosphere, the Moon has no weather, no wind, and no water erosion. The main threat to the prints is micrometeorite impacts, which slowly churn the top layer of lunar soil over millions of years. Some scientists estimate the Apollo footprints could survive intact for up to 10 million years before being gradually obliterated by this slow cosmic sandblasting.",
     "searchKeywords": "apollo footprints on moon how long last"
   }
 ]
