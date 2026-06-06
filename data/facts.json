@@ -1,202 +1,722 @@
 [
   {
-    "id": "octopus-three-hearts",
-    "date": "2026-05-13",
-    "category": "naturalScience",
-    "text": "Octopuses have three hearts — two pump blood to the gills, and one to the rest of the body.",
-    "detail": "When an octopus swims, the main heart actually stops beating, which is why they prefer crawling — swimming exhausts them quickly. Their blood is blue because it uses copper-based hemocyanin instead of the iron-based hemoglobin found in human blood.",
-    "searchKeywords": "octopus three hearts"
-  },
-  {
-    "id": "honey-never-spoils",
-    "date": "2026-05-14",
-    "category": "naturalScience",
-    "text": "Honey found sealed in ancient Egyptian tombs is over 3,000 years old and still perfectly edible.",
-    "detail": "Honey's longevity comes from its chemistry: it's low in moisture, highly acidic, and naturally produces small amounts of hydrogen peroxide. Together these properties make it nearly impossible for bacteria or fungi to survive. Bees also fan it with their wings to drive off excess water before sealing cells with wax.",
-    "searchKeywords": "honey never spoils ancient tombs"
-  },
-  {
-    "id": "wombat-cube-poop",
-    "date": "2026-05-15",
-    "category": "naturalScience",
-    "text": "Wombats produce cube-shaped droppings, the only known animal to make square poo.",
-    "detail": "Researchers discovered in 2018 that the cube shape forms in the last portion of the wombat's intestine, where elastic tissue varies in stiffness — creating corners rather than a smooth cylinder. Wombats stack these distinctive cubes on rocks and logs to mark territory; the flat sides stop them rolling away.",
-    "searchKeywords": "wombat cube shaped poop"
-  },
-  {
-    "id": "bananas-berries",
-    "date": "2026-05-16",
-    "category": "naturalScience",
-    "text": "Botanically, bananas are berries — but strawberries are not.",
-    "detail": "In botany, a berry develops from a single flower with one ovary and has seeds embedded in the flesh. Bananas, avocados, and even watermelons qualify. Strawberries, on the other hand, grow from a flower with multiple ovaries and are technically 'accessory fruits' — the fleshy part is enlarged stem tissue, not ovary wall.",
-    "searchKeywords": "bananas are berries strawberries not"
-  },
-  {
-    "id": "shortest-war",
-    "date": "2026-05-17",
-    "category": "history",
-    "text": "The shortest war in history, between Britain and Zanzibar in 1896, lasted under 40 minutes.",
-    "detail": "The Anglo-Zanzibar War lasted between 38 and 45 minutes on 27 August 1896. When the pro-British sultan died and a less cooperative successor seized power, Britain issued an ultimatum. At 9 a.m. the bombardment began; by 9:40 the palace flag had been shot down and the new sultan had fled.",
-    "searchKeywords": "shortest war history anglo zanzibar"
-  },
-  {
-    "id": "oxford-aztec",
-    "date": "2026-05-18",
-    "category": "history",
-    "text": "Oxford University is older than the Aztec Empire — it was teaching students by 1096.",
-    "detail": "Teaching at Oxford can be traced back to at least 1096, and it grew rapidly after Henry II banned English students from attending the University of Paris in 1167. The Aztec city of Tenochtitlán, by contrast, was only founded in 1325. Oxford's Bodleian Library alone holds over 13 million items.",
-    "searchKeywords": "oxford university older than aztec empire"
-  },
-  {
-    "id": "cleopatra-pyramids",
-    "date": "2026-05-19",
-    "category": "history",
-    "text": "Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid.",
-    "detail": "The Great Pyramid of Giza was completed around 2560 BC. Cleopatra was born in 69 BC — roughly 2,500 years after the pyramid was built. The Moon landing happened in 1969 AD, only about 2,000 years after Cleopatra's death. The ancient world was already ancient to the Egyptians of her era.",
-    "searchKeywords": "cleopatra closer moon landing than pyramids"
-  },
-  {
-    "id": "great-emu-war",
-    "date": "2026-05-20",
-    "category": "history",
-    "text": "In 1932, Australia deployed soldiers with machine guns against emus — and the emus won.",
-    "detail": "Major G.P.W. Meredith led the ill-fated 'Emu War' in Western Australia, where 20,000 emus were destroying wheat crops. The birds proved frustratingly hard to kill — they could sustain multiple bullets and scatter into small groups. After three weeks and roughly 2,500 rounds fired, the military withdrew with minimal impact on the emu population.",
-    "searchKeywords": "great emu war australia 1932"
-  },
-  {
-    "id": "einstein-israel",
-    "date": "2026-05-21",
-    "category": "famousLives",
-    "text": "Albert Einstein was offered the presidency of Israel in 1952, but politely declined.",
-    "detail": "Following the death of Israel's first president, Chaim Weizmann, Einstein was approached by the Israeli ambassador. He declined, writing that he lacked the natural aptitude and experience for dealing with people — and that he was already too old and his health too frail. He remained a committed Zionist supporter throughout his life.",
-    "searchKeywords": "einstein offered presidency israel 1952"
-  },
-  {
-    "id": "newton-alchemy",
-    "date": "2026-05-22",
-    "category": "famousLives",
-    "text": "Isaac Newton wrote more about alchemy and theology than he ever did about physics.",
-    "detail": "Newton left behind roughly one million words on alchemy and another million on theology — far more than his scientific output. He believed the Bible contained hidden codes about the future and spent decades searching for them. When economist John Maynard Keynes acquired Newton's alchemical papers in 1936, he called him 'the last of the magicians.'",
-    "searchKeywords": "isaac newton alchemy writings"
-  },
-  {
-    "id": "hedy-lamarr",
-    "date": "2026-05-23",
-    "category": "famousLives",
-    "text": "Hollywood star Hedy Lamarr co-invented a frequency-hopping system that underpins modern Wi-Fi and Bluetooth.",
-    "detail": "During World War II, Lamarr and composer George Antheil patented a 'Secret Communication System' that rapidly switched radio frequencies to prevent enemy jamming of torpedoes. The patent expired before the military adopted it, earning her nothing. Decades later the same principle became foundational to spread-spectrum technology in wireless communications.",
-    "searchKeywords": "hedy lamarr frequency hopping invention"
-  },
-  {
-    "id": "tolstoy-war-and-peace",
-    "date": "2026-05-24",
-    "category": "literature",
-    "text": "Tolstoy's wife Sofia hand-copied the entire manuscript of War and Peace seven times by candlelight.",
-    "detail": "Each revision meant re-transcribing roughly 1,200 pages — a labor spanning years of nightly work. Sofia also managed the family estate, raised thirteen children, and later acted as Tolstoy's personal secretary and publisher. She was deeply critical of some of his later philosophical writings, leading to a famously stormy marriage.",
-    "searchKeywords": "sofia tolstoy copied war and peace"
-  },
-  {
-    "id": "shakespeare-words",
-    "date": "2026-05-25",
-    "category": "literature",
-    "text": "Shakespeare invented over 1,700 words still in use today, including 'eyeball' and 'lonely'.",
-    "detail": "Shakespeare coined words by converting nouns into verbs, verbs into adjectives, and by adding prefixes and suffixes with abandon. Among his inventions: bedroom, generous, gloomy, obscene, swagger, and zany. Because so much of his work survived in print, linguists can trace the first recorded use of these words directly to his plays and sonnets.",
-    "searchKeywords": "shakespeare invented words eyeball lonely"
-  },
-  {
-    "id": "dr-seuss-bet",
-    "date": "2026-05-26",
-    "category": "literature",
-    "text": "Dr. Seuss wrote Green Eggs and Ham on a bet that he couldn't make a book using only 50 different words.",
-    "detail": "His editor Bennett Cerf wagered $50 that Seuss couldn't write an entertaining book using only 50 distinct words, following the slightly more complex The Cat in the Hat. Seuss won the bet — the finished book uses exactly 50 words. Cerf reportedly never paid up. Green Eggs and Ham went on to become one of the best-selling children's books of all time.",
-    "searchKeywords": "dr seuss green eggs and ham 50 words bet"
-  },
-  {
-    "id": "moby-dick-typo",
-    "date": "2026-05-27",
-    "category": "literature",
-    "text": "The first edition of Moby-Dick accidentally left out its own epilogue, confusing early reviewers.",
-    "detail": "The British edition, published two weeks before the American one, omitted the epilogue in which Ishmael explains how he alone survived to tell the story. Critics were baffled — the novel is narrated in first person, yet the narrator apparently drowns. The American edition restored the epilogue, but the British reviews had already dampened the book's early reception.",
-    "searchKeywords": "moby dick first edition missing epilogue"
-  },
-  {
-    "id": "light-speed-year",
-    "date": "2026-05-28",
-    "category": "physics",
-    "text": "Light travels about 9.46 trillion kilometres in a single year — one light-year.",
-    "detail": "Light moves at roughly 299,792 kilometres per second in a vacuum. Multiply that by the seconds in a year and you get about 9.461 × 10¹² kilometres. The nearest star system, Alpha Centauri, is 4.37 light-years away — meaning the light reaching your eyes left there over four years ago.",
-    "searchKeywords": "how far light travels in a year light year"
-  },
-  {
-    "id": "hot-water-freezes",
-    "date": "2026-05-29",
-    "category": "physics",
-    "text": "Under the right conditions, hot water can freeze faster than cold water — the Mpemba effect.",
-    "detail": "The effect is named after Erasto Mpemba, a Tanzanian student who noticed in 1963 that hot ice-cream mix froze faster than cold. The phenomenon is real but contested: proposed explanations include faster evaporation reducing mass, dissolved gas escaping, and convection currents promoting cooling. No single mechanism has been universally accepted.",
-    "searchKeywords": "mpemba effect hot water freezes faster"
-  },
-  {
-    "id": "glass-liquid-myth",
-    "date": "2026-05-30",
-    "category": "physics",
-    "text": "Glass is an amorphous solid, not a slow-moving liquid — old window panes are uneven from how they were made.",
-    "detail": "Medieval glass was made by spinning molten glass into a disc; the thicker, heavier edge was placed at the bottom when installed. Modern measurements confirm glass does not flow at room temperature on any human timescale. The atoms in glass are locked in a disordered arrangement — like a frozen snapshot of a liquid — but they are not moving.",
-    "searchKeywords": "is glass a liquid or solid amorphous"
-  },
-  {
-    "id": "absolute-zero",
-    "date": "2026-05-31",
-    "category": "physics",
-    "text": "At absolute zero (−273.15 °C), atoms reach their lowest possible energy and nearly stop moving.",
-    "detail": "Absolute zero is the theoretical lower limit of the thermodynamic temperature scale. Quantum mechanics prevents particles from ever completely stopping — a phenomenon called zero-point energy. Scientists have cooled matter to within billionths of a degree of absolute zero, creating exotic states like Bose-Einstein condensates where particles merge into a single quantum entity.",
-    "searchKeywords": "absolute zero temperature atoms stop moving"
-  },
-  {
-    "id": "zero-india",
-    "date": "2026-06-01",
-    "category": "math",
-    "text": "The number zero as we use it was first treated as a true number by Indian mathematicians around the 7th century.",
-    "detail": "The mathematician Brahmagupta wrote rules for arithmetic with zero in 628 AD — including that a number minus itself equals zero. Earlier cultures used a placeholder symbol for zero but didn't treat it as a quantity in its own right. The concept travelled through the Islamic world to medieval Europe, where it initially faced suspicion as it threatened to make numbers 'disappear.'",
-    "searchKeywords": "history of zero indian mathematics brahmagupta"
-  },
-  {
-    "id": "birthday-paradox",
-    "date": "2026-06-02",
-    "category": "math",
-    "text": "In a room of just 23 people, there's a better-than-even chance two share a birthday.",
-    "detail": "The counterintuitive result comes from counting pairs, not people. With 23 people there are 253 possible pairs, each with a 1-in-365 chance of matching. It's easier to calculate the probability that no two people share a birthday and subtract from one. By 70 people the probability of a shared birthday exceeds 99.9%.",
-    "searchKeywords": "birthday paradox 23 people probability"
-  },
-  {
-    "id": "prime-infinite",
-    "date": "2026-06-03",
-    "category": "math",
-    "text": "Euclid proved over 2,000 years ago that there are infinitely many prime numbers.",
-    "detail": "Euclid's proof is a masterpiece of simplicity: assume a finite list of all primes, multiply them together and add one. The result is either prime itself or divisible by a prime not on the original list — contradiction. The proof appears in Book IX of his Elements, written around 300 BC, and remains one of the most elegant arguments in all of mathematics.",
-    "searchKeywords": "euclid proof infinite prime numbers"
-  },
-  {
-    "id": "venus-day",
-    "date": "2026-06-04",
-    "category": "astronomy",
-    "text": "A day on Venus is longer than its year — it spins slower than it orbits the Sun.",
-    "detail": "Venus takes 243 Earth days to rotate once on its axis but only 225 Earth days to complete one orbit. It also rotates backwards compared to most planets — the Sun rises in the west and sets in the east. Because of this combination, the time from one sunrise to the next on Venus is about 117 Earth days.",
-    "searchKeywords": "venus day longer than year rotation"
-  },
-  {
-    "id": "neutron-star-density",
-    "date": "2026-06-05",
-    "category": "astronomy",
-    "text": "A sugar-cube-sized piece of a neutron star would weigh about a billion tonnes on Earth.",
-    "detail": "Neutron stars form when a massive star collapses and the core is compressed so intensely that protons and electrons merge into neutrons. The resulting object packs more mass than the Sun into a sphere roughly 20 kilometres across. Their gravity is so extreme that a marshmallow dropped from a metre above the surface would hit with the energy of an atomic bomb.",
-    "searchKeywords": "neutron star density sugar cube weight"
-  },
-  {
-    "id": "footprints-moon",
+    "id": "the-heart-of-a",
     "date": "2026-06-06",
+    "category": "naturalScience",
+    "text": "The heart of a shrimp is located in its head.",
+    "detail": "Unlike most animals, shrimps have their heart located in their head, specifically in the thorax. This unique anatomy is due to the fusion of the cephalothorax, where the head and thorax are combined, making it a distinctive feature of these crustaceans.",
+    "searchKeywords": "shrimp heart location anatomy"
+  },
+  {
+    "id": "isaac-newton-invented-the",
+    "date": "2026-06-07",
+    "category": "famousLives",
+    "text": "Isaac Newton invented the cat door.",
+    "detail": "While serving as Warden of the Mint, Isaac Newton cut two holes in his study door to allow his cat and her kittens to come and go. This simple yet clever invention made it unnecessary to open the entire door for them, creating the prototype of the modern cat flap.",
+    "searchKeywords": "Isaac Newton cat door invention"
+  },
+  {
+    "id": "mary-shelley-was-just",
+    "date": "2026-06-08",
+    "category": "literature",
+    "text": "Mary Shelley was just 18 when she started writing 'Frankenstein'.",
+    "detail": "Mary Shelley began penning what would become one of the most famous Gothic novels, 'Frankenstein', during the summer of 1816. This remarkable feat was inspired by a ghost story competition among friends, including famous poets Lord Byron and Percy Bysshe Shelley.",
+    "searchKeywords": "Mary Shelley Frankenstein writing age"
+  },
+  {
+    "id": "a-teaspoon-of-neutron",
+    "date": "2026-06-09",
+    "category": "physics",
+    "text": "A teaspoon of neutron star material would weigh about six billion tons.",
+    "detail": "Neutron stars are incredibly dense remnants of supernova explosions. Despite their small size, just a few kilometers across, their mass is enormous due to the compact nature of neutrons packed tightly together, resulting in unfathomable weight from even a small sample.",
+    "searchKeywords": "neutron star density weight"
+  },
+  {
+    "id": "the-fibonacci-sequence-appears",
+    "date": "2026-06-10",
+    "category": "math",
+    "text": "The Fibonacci sequence appears in the arrangement of a pine cone.",
+    "detail": "In nature, the Fibonacci sequence is observed in the spiral patterns of pine cones, where the number of spirals on the bottom and top typically correspond to consecutive Fibonacci numbers. This phenomenon is a result of optimal packing and growth efficiency.",
+    "searchKeywords": "Fibonacci sequence pine cone spirals"
+  },
+  {
+    "id": "venus-rotates-in-the",
+    "date": "2026-06-11",
     "category": "astronomy",
-    "text": "The footprints left by Apollo astronauts on the Moon could last millions of years — there's no wind to erase them.",
-    "detail": "Without an atmosphere, the Moon has no weather, no wind, and no water erosion. The main threat to the prints is micrometeorite impacts, which slowly churn the top layer of lunar soil over millions of years. Some scientists estimate the Apollo footprints could survive intact for up to 10 million years before being gradually obliterated by this slow cosmic sandblasting.",
-    "searchKeywords": "apollo footprints on moon how long last"
+    "text": "Venus rotates in the opposite direction to most planets in the solar system.",
+    "detail": "Unlike the majority of planets that rotate counterclockwise, Venus has a retrograde rotation, meaning it spins clockwise. This unusual movement might be the result of past collisions or gravitational forces during its formation period.",
+    "searchKeywords": "Venus rotation direction retrograde"
+  },
+  {
+    "id": "bananas-are-berries-but",
+    "date": "2026-06-12",
+    "category": "naturalScience",
+    "text": "Bananas are berries, but strawberries are not.",
+    "detail": "Botanically speaking, a berry is a fruit produced from the ovary of a single flower and contains seeds embedded in the flesh, which qualifies bananas but not strawberries. Strawberries are aggregate fruits, developed from multiple ovaries of a single flower.",
+    "searchKeywords": "banana berry strawberry fruit classification"
+  },
+  {
+    "id": "vincent-van-gogh-sold",
+    "date": "2026-06-13",
+    "category": "famousLives",
+    "text": "Vincent van Gogh sold only one painting during his lifetime.",
+    "detail": "Despite his posthumous fame, van Gogh struggled to find success while alive. The only painting he sold, 'The Red Vineyard', was purchased for 400 francs in Brussels, a modest sum that was not enough to support the artist financially.",
+    "searchKeywords": "Vincent van Gogh painting sales"
+  },
+  {
+    "id": "james-joyce-s-ulysses",
+    "date": "2026-06-14",
+    "category": "literature",
+    "text": "James Joyce's 'Ulysses' was once banned for being obscene.",
+    "detail": "Published in 1922, 'Ulysses' faced obscenity charges due to its candid depiction of human thought and language. The ban was lifted in the United States in 1933, after a landmark court decision deemed it not obscene, allowing widespread appreciation of its literary innovation.",
+    "searchKeywords": "James Joyce Ulysses ban obscenity"
+  },
+  {
+    "id": "the-sound-of-krakatoa",
+    "date": "2026-06-15",
+    "category": "physics",
+    "text": "The sound of Krakatoa's eruption in 1883 circled the globe four times.",
+    "detail": "The explosion of Krakatoa was one of the loudest events in recorded history, with sound waves traveling around the Earth multiple times. The force was so immense that it ruptured eardrums thousands of miles away and created noticeable atmospheric pressure waves.",
+    "searchKeywords": "Krakatoa eruption sound global"
+  },
+  {
+    "id": "the-number-zero-was",
+    "date": "2026-06-16",
+    "category": "math",
+    "text": "The number zero was independently invented at least twice in history.",
+    "detail": "The concept of zero as a number was invented both by the ancient Mayans and by Indian mathematicians. In India, it was Brahmagupta who formalized the use of zero as a symbol and number around the 7th century AD, which was a significant development in mathematics.",
+    "searchKeywords": "zero number history invention"
+  },
+  {
+    "id": "there-are-earthquakes-on",
+    "date": "2026-06-17",
+    "category": "astronomy",
+    "text": "There are earthquakes on the Moon, known as 'moonquakes'.",
+    "detail": "Moonquakes are caused by tidal stresses connected to the gravitational pull of the Earth. Unlike Earth's earthquakes, moonquakes are less frequent but can last longer than an hour due to the Moon's dry, rigid structure, which transmits seismic waves more effectively.",
+    "searchKeywords": "moonquakes lunar seismic activity"
+  },
+  {
+    "id": "octopuses-have-three-hearts",
+    "date": "2026-06-18",
+    "category": "naturalScience",
+    "text": "Octopuses have three hearts and blue blood.",
+    "detail": "Two hearts pump blood to the gills, while the third pumps it to the rest of the body. Their blood is blue because it contains a copper-rich protein called hemocyanin, which is more efficient than hemoglobin in cold, low-oxygen environments.",
+    "searchKeywords": "octopus hearts blue blood"
+  },
+  {
+    "id": "albert-einstein-was-offered",
+    "date": "2026-06-19",
+    "category": "famousLives",
+    "text": "Albert Einstein was offered the presidency of Israel in 1952.",
+    "detail": "Einstein, known for his groundbreaking contributions to physics, was offered the ceremonial position as a non-politician and symbol of Jewish greatness. He declined, stating that he lacked the natural aptitude and experience for political leadership.",
+    "searchKeywords": "Albert Einstein Israel presidency offer"
+  },
+  {
+    "id": "dr-seuss-invented-the",
+    "date": "2026-06-20",
+    "category": "literature",
+    "text": "Dr. Seuss invented the word 'nerd'.",
+    "detail": "The word 'nerd' first appeared in Dr. Seuss's 1950 book 'If I Ran the Zoo'. It has since evolved to describe a socially awkward individual with strong interests in technical subjects, reflecting a transformation from whimsical nonsense to cultural staple.",
+    "searchKeywords": "Dr. Seuss nerd word origin"
+  },
+  {
+    "id": "light-can-be-slowed",
+    "date": "2026-06-21",
+    "category": "physics",
+    "text": "Light can be slowed down to 38 mph in a medium called Bose-Einstein condensate.",
+    "detail": "Normally moving at 186,282 miles per second in a vacuum, light can be slowed significantly by passing through a Bose-Einstein condensate. This state of matter is achieved at temperatures near absolute zero, allowing scientists to study quantum effects on macroscopic scales.",
+    "searchKeywords": "light speed Bose Einstein condensate"
+  },
+  {
+    "id": "the-birthday-paradox-shows",
+    "date": "2026-06-22",
+    "category": "math",
+    "text": "The 'birthday paradox' shows that in a group of 23 people, there's a 50% chance two share a birthday.",
+    "detail": "Despite seeming unlikely, the birthday paradox demonstrates that only 23 people are needed in a room for there to be a 50% chance of a shared birthday, due to the combinatory possibilities of pairing any two individuals within the group.",
+    "searchKeywords": "birthday paradox probability math"
+  },
+  {
+    "id": "jupiter-s-great-red",
+    "date": "2026-06-23",
+    "category": "astronomy",
+    "text": "Jupiter's Great Red Spot is shrinking.",
+    "detail": "The Great Red Spot, a massive storm on Jupiter, has been observed to be shrinking since the late 19th century. Once large enough to fit three Earths side by side, it is now only about 1.3 times Earth's diameter, and astronomers continue to monitor its changing dimensions.",
+    "searchKeywords": "Jupiter Great Red Spot shrinking"
+  },
+  {
+    "id": "honey-never-spoils-and",
+    "date": "2026-06-24",
+    "category": "naturalScience",
+    "text": "Honey never spoils and can last for thousands of years.",
+    "detail": "Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old yet still edible. Honey's long shelf life is due to its low moisture content and acidic pH, which create an environment inhospitable to bacteria.",
+    "searchKeywords": "honey spoilage preservation ancient"
+  },
+  {
+    "id": "leonardo-da-vinci-could",
+    "date": "2026-06-25",
+    "category": "famousLives",
+    "text": "Leonardo da Vinci could write with one hand and draw with the other simultaneously.",
+    "detail": "As a true polymath, da Vinci's ability to multitask by writing and drawing at the same time demonstrates his extraordinary dexterity and brain function, possibly linked to his ambidexterity. This skill was part of his extensive repertoire of talents that spanned art, science, and engineering.",
+    "searchKeywords": "Leonardo da Vinci ambidextrous writing drawing"
+  },
+  {
+    "id": "edgar-allan-poe-invented",
+    "date": "2026-06-26",
+    "category": "literature",
+    "text": "Edgar Allan Poe invented the modern detective story.",
+    "detail": "With his character C. Auguste Dupin, Poe laid the groundwork for detective fiction in his 1841 story 'The Murders in the Rue Morgue.' This genre would later be popularized by writers like Arthur Conan Doyle, creator of Sherlock Holmes.",
+    "searchKeywords": "Edgar Allan Poe detective story"
+  },
+  {
+    "id": "time-travel-is-possible",
+    "date": "2026-06-27",
+    "category": "physics",
+    "text": "Time travel is possible at the speed of light according to Einstein's theory.",
+    "detail": "Einstein's theory of relativity suggests that as an object approaches the speed of light, time slows down relative to an observer at rest. This means theoretically, traveling close to light speed could result in future time travel.",
+    "searchKeywords": "Einstein theory relativity time travel"
+  },
+  {
+    "id": "g-del-s-incompleteness",
+    "date": "2026-06-28",
+    "category": "math",
+    "text": "Gödel's incompleteness theorems showed math has inherent limitations.",
+    "detail": "In 1931, Kurt Gödel published his theorems, proving that within any consistent mathematical system, there are statements that cannot be proven or disproven using the system's own rules. This revelation shook the foundations of mathematical thought.",
+    "searchKeywords": "Gödel incompleteness theorems mathematics"
+  },
+  {
+    "id": "a-day-on-mercury",
+    "date": "2026-06-29",
+    "category": "astronomy",
+    "text": "A day on Mercury is longer than its year.",
+    "detail": "Mercury takes about 59 Earth days to rotate on its axis and only 88 Earth days to orbit the Sun. This means a single day on Mercury (sunrise to sunset) actually spans more than one of its years.",
+    "searchKeywords": "Mercury day year rotation orbit"
+  },
+  {
+    "id": "the-mantis-shrimp-can",
+    "date": "2026-06-30",
+    "category": "naturalScience",
+    "text": "The mantis shrimp can see colors that humans can't even imagine.",
+    "detail": "Mantis shrimp possess 16 types of photoreceptor cells, compared to the human eye's three, allowing them to detect ultraviolet light and polarized light. Their vision system is among the most complex in the animal kingdom.",
+    "searchKeywords": "mantis shrimp vision color photoreceptors"
+  },
+  {
+    "id": "beethoven-composed-his-ninth",
+    "date": "2026-07-01",
+    "category": "famousLives",
+    "text": "Beethoven composed his Ninth Symphony while completely deaf.",
+    "detail": "Despite losing his hearing, Beethoven continued to compose music. His Ninth Symphony, famous for 'Ode to Joy,' premiered in 1824, and he was reportedly unaware of the audience's applause until someone turned him around.",
+    "searchKeywords": "Beethoven Ninth Symphony deaf composition"
+  },
+  {
+    "id": "j-r-r-tolkien",
+    "date": "2026-07-02",
+    "category": "literature",
+    "text": "J.R.R. Tolkien was a philologist before writing The Lord of the Rings.",
+    "detail": "Tolkien's deep knowledge of languages greatly influenced his creation of Middle-earth. His profession as a philologist, studying the history and development of languages, is evident in the intricate languages and cultures in his books.",
+    "searchKeywords": "Tolkien philologist Lord of the Rings"
+  },
+  {
+    "id": "the-doppler-effect-can",
+    "date": "2026-07-03",
+    "category": "physics",
+    "text": "The Doppler effect can make stars appear blue or red.",
+    "detail": "When a star moves towards us, its light waves are compressed, causing a blue shift. Conversely, when it moves away, the waves stretch, creating a red shift. This effect helps astronomers determine the movement and distance of celestial objects.",
+    "searchKeywords": "Doppler effect stars blue red shift"
+  },
+  {
+    "id": "the-four-color-theorem",
+    "date": "2026-07-04",
+    "category": "math",
+    "text": "The four color theorem states that four colors are enough to color any map.",
+    "detail": "This theorem, proven in 1976, asserts that no more than four colors are needed to ensure that no two adjacent regions on a map share the same color. The proof was one of the first to use computational methods extensively.",
+    "searchKeywords": "four color theorem map coloring"
+  },
+  {
+    "id": "there-is-a-hexagon",
+    "date": "2026-07-05",
+    "category": "astronomy",
+    "text": "There is a hexagon-shaped storm at Saturn's north pole.",
+    "detail": "Discovered by the Voyager spacecraft in the 1980s, this massive and persistent storm has a hexagonal shape and baffled scientists due to its geometric precision. It spans about 20,000 miles across with jet streams creating its boundaries.",
+    "searchKeywords": "Saturn hexagon storm north pole"
+  },
+  {
+    "id": "the-komodo-dragon-is",
+    "date": "2026-07-06",
+    "category": "naturalScience",
+    "text": "The Komodo dragon is capable of producing a type of venom rather than relying solely on bacteria to kill prey.",
+    "detail": "Contrary to previous beliefs that bacteria in their saliva caused infections, recent studies have found that Komodo dragons actually have venom glands in their mouths. This venom lowers blood pressure and causes massive blood loss in prey.",
+    "searchKeywords": "Komodo dragon venom glands"
+  },
+  {
+    "id": "nikola-tesla-was-fluent",
+    "date": "2026-07-07",
+    "category": "famousLives",
+    "text": "Nikola Tesla was fluent in eight languages by the time he emigrated to the United States.",
+    "detail": "Tesla was a polyglot, speaking Serbian, English, Czech, German, French, Hungarian, Italian, and Latin. His language skills were part of his diverse intellectual talents, which accompanied his innovations in electrical engineering.",
+    "searchKeywords": "Nikola Tesla languages polyglot"
+  },
+  {
+    "id": "the-first-known-use",
+    "date": "2026-07-08",
+    "category": "literature",
+    "text": "The first known use of the word 'robot' in literature was in a 1920 play by Karel Čapek.",
+    "detail": "Karel Čapek's play, 'R.U.R. (Rossum's Universal Robots),' introduced the term 'robot,' derived from the Czech word 'robota' meaning forced labor. The play explored themes of artificial creation and rebellion.",
+    "searchKeywords": "Karel Capek robot origin"
+  },
+  {
+    "id": "the-speed-of-earth",
+    "date": "2026-07-09",
+    "category": "physics",
+    "text": "The speed of Earth's rotation is gradually slowing down due to tidal friction.",
+    "detail": "Tidal friction, primarily caused by the gravitational pull of the moon, results in the transfer of Earth's rotational energy to the moon. This energy loss leads to a gradual increase in the length of a day over geological time scales.",
+    "searchKeywords": "Earth rotation slowing tidal friction"
+  },
+  {
+    "id": "there-are-more-possible",
+    "date": "2026-07-10",
+    "category": "math",
+    "text": "There are more possible iterations of a standard 52-card deck than there are atoms on Earth.",
+    "detail": "The number of possible ways to order a 52-card deck is 52 factorial (52!), which equals approximately 8.0658 x 10^67. This number is vastly greater than the estimated number of atoms on Earth, making each shuffle a unique arrangement.",
+    "searchKeywords": "52 card deck permutations atoms"
+  },
+  {
+    "id": "there-is-a-giant",
+    "date": "2026-07-11",
+    "category": "astronomy",
+    "text": "There is a giant cloud of alcohol floating in space near the center of the Milky Way.",
+    "detail": "This cloud, known as Sagittarius B2, contains enough ethyl alcohol to supply 300,000 pints of beer every day for a billion years. It spans approximately 463 billion kilometers and contains complex organic molecules.",
+    "searchKeywords": "Sagittarius B2 alcohol space"
+  },
+  {
+    "id": "some-fungi-create-zombie",
+    "date": "2026-07-12",
+    "category": "naturalScience",
+    "text": "Some fungi create zombie-like behavior in ants to spread their spores more effectively.",
+    "detail": "The Ophiocordyceps fungus infects ants, taking control of their central nervous systems. Infected ants are compelled to climb vegetation, where the fungus eventually kills them, allowing its spores to disperse from an elevated position.",
+    "searchKeywords": "Ophiocordyceps fungus zombie ants"
+  },
+  {
+    "id": "marie-curie-is-the",
+    "date": "2026-07-13",
+    "category": "famousLives",
+    "text": "Marie Curie is the only person to win Nobel Prizes in two different scientific fields.",
+    "detail": "Curie won the Nobel Prize in Physics in 1903 for her research on radioactivity and later the Nobel Prize in Chemistry in 1911 for her discovery of the elements radium and polonium. Her groundbreaking work laid the foundation for modern atomic physics and chemistry.",
+    "searchKeywords": "Marie Curie Nobel Prizes chemistry physics"
+  },
+  {
+    "id": "dracula-was-inspired-by",
+    "date": "2026-07-14",
+    "category": "literature",
+    "text": "Dracula was inspired by real historical figures and folklore from Eastern Europe.",
+    "detail": "Bram Stoker's iconic vampire novel, 'Dracula,' drew inspiration from Vlad the Impaler, a 15th-century prince known for his brutal punishments, and Eastern European myths about blood-sucking creatures. The novel cemented many vampire tropes still used today.",
+    "searchKeywords": "Bram Stoker Dracula inspiration"
+  },
+  {
+    "id": "quantum-entanglement-implies-that",
+    "date": "2026-07-15",
+    "category": "physics",
+    "text": "Quantum entanglement implies that particles can be instantaneously connected regardless of distance.",
+    "detail": "Einstein famously referred to quantum entanglement as 'spooky action at a distance.' When two particles become entangled, the state of one immediately influences the state of the other, even if they are light-years apart, challenging classical notions of locality.",
+    "searchKeywords": "quantum entanglement particles distance"
+  },
+  {
+    "id": "the-number-6174-is",
+    "date": "2026-07-16",
+    "category": "math",
+    "text": "The number 6174 is known as Kaprekar's constant, and iterating a specific operation always results in this number.",
+    "detail": "If you take any four-digit number with at least two different digits, arrange its digits in descending and then in ascending order to get two four-digit numbers, subtract the smaller from the larger, and repeat the process, you will always end at 6174 in at most seven iterations. This intriguing property is unique to 6174 and was discovered by the Indian mathematician D. R. Kaprekar.",
+    "searchKeywords": "Kaprekar constant 6174 four digit numbers"
+  },
+  {
+    "id": "the-largest-volcano-in",
+    "date": "2026-07-17",
+    "category": "astronomy",
+    "text": "The largest volcano in the solar system, Olympus Mons, is located on Mars and is nearly three times the height of Mount Everest.",
+    "detail": "Olympus Mons stands at about 13.6 miles (22 kilometers) high and spans roughly 370 miles (600 kilometers) in diameter, making it comparable to the size of the state of Arizona. This shield volcano was formed by the accumulation of lava flows over millions of years and is a testament to Mars' volcanic past.",
+    "searchKeywords": "Olympus Mons Mars volcano size"
+  },
+  {
+    "id": "the-immortal-jellyfish-turritopsis",
+    "date": "2026-07-18",
+    "category": "naturalScience",
+    "text": "The immortal jellyfish, Turritopsis dohrnii, can revert its cells to an earlier state, effectively allowing it to bypass death.",
+    "detail": "This unique jellyfish species can transform back into its juvenile polyp stage after reaching maturity, a process known as transdifferentiation. This biological mechanism allows the jellyfish to potentially avoid aging, making it theoretically immortal. Although not invincible to disease or predation, this ability is unprecedented in the animal kingdom.",
+    "searchKeywords": "immortal jellyfish Turritopsis dohrnii transdifferentiation"
+  },
+  {
+    "id": "mark-twain-was-an",
+    "date": "2026-07-19",
+    "category": "famousLives",
+    "text": "Mark Twain was an early adopter of the typewriter and claimed to be the first author to submit a typed manuscript to a publisher.",
+    "detail": "In 1875, Twain purchased a Remington No. 1 typewriter and used it to produce a typewritten manuscript of his novel, 'Life on the Mississippi.' Twain's embrace of this new technology illustrated his forward-thinking nature, even though he later sold the typewriter, claiming it was unwieldy.",
+    "searchKeywords": "Mark Twain typewriter manuscript Life on the Mississippi"
+  },
+  {
+    "id": "the-first-book-ever",
+    "date": "2026-07-20",
+    "category": "literature",
+    "text": "The first book ever printed with movable type was the Gutenberg Bible, completed around 1455.",
+    "detail": "Johannes Gutenberg's invention of the movable type printing press in the mid-15th century revolutionized the production of books, making them more accessible and affordable. The Gutenberg Bible is renowned not only for its historical significance but also for its high aesthetic and technical quality.",
+    "searchKeywords": "Gutenberg Bible first movable type printing"
+  },
+  {
+    "id": "if-the-sun-were",
+    "date": "2026-07-21",
+    "category": "physics",
+    "text": "If the sun were made of bananas, it would still be hot due to the gravitational pressure at its core.",
+    "detail": "The immense gravitational pressure at the core of the sun is what primarily causes nuclear fusion, leading to its high temperature. Even if the sun were composed of non-fusible material like bananas, the core pressure would still reach millions of degrees through the process of gravitational compression alone.",
+    "searchKeywords": "sun bananas gravity pressure heat"
+  },
+  {
+    "id": "a-cat-s-cradle",
+    "date": "2026-07-22",
+    "category": "math",
+    "text": "A cat's cradle string figure forms a topological shape known as a Möbius strip if twisted just once before being joined.",
+    "detail": "The Möbius strip is a surface with a single side and a single boundary, which can be constructed by taking a rectangular strip, giving it a half-twist, and then joining the ends together. This property makes it an interesting object of study in the field of topology, often used to illustrate concepts of non-orientable surfaces.",
+    "searchKeywords": "Möbius strip topological shape cats cradle"
+  },
+  {
+    "id": "neptune-s-winds-are",
+    "date": "2026-07-23",
+    "category": "astronomy",
+    "text": "Neptune's winds are the fastest in the solar system, reaching speeds over 1,200 miles per hour.",
+    "detail": "Despite being the farthest planet from the sun, Neptune experiences extreme weather with supersonic wind speeds. These winds are driven by the planet's internal heat and its cold outer atmosphere, creating storms that can be several times faster than the speed of sound on Earth.",
+    "searchKeywords": "Neptune winds speed supersonic storms"
+  },
+  {
+    "id": "platypuses-have-unique-biofluorescent",
+    "date": "2026-07-24",
+    "category": "naturalScience",
+    "text": "Platypuses have unique biofluorescent fur that glows under ultraviolet light.",
+    "detail": "This unexpected discovery revealed that the fur of platypuses emits a blue-green glow under UV light. This feature may play a role in communication or camouflage among these nocturnal, egg-laying mammals, which are already well-known for their unusual traits, including venomous spurs and duck-bill appearance.",
+    "searchKeywords": "platypus biofluorescence UV light glow"
+  },
+  {
+    "id": "cleopatra-the-last-active",
+    "date": "2026-07-25",
+    "category": "famousLives",
+    "text": "Cleopatra, the last active ruler of the Ptolemaic Kingdom of Egypt, spoke nine languages.",
+    "detail": "Cleopatra VII was renowned for her linguistic proficiency, which allowed her to communicate directly with many of the peoples she ruled over. Her language skills were a significant part of her political acumen, helping her maintain power and forge important alliances throughout her reign.",
+    "searchKeywords": "Cleopatra languages Ptolemaic Egypt ruler"
+  },
+  {
+    "id": "the-original-manuscript-of",
+    "date": "2026-07-26",
+    "category": "literature",
+    "text": "The original manuscript of Treasure Island was almost destroyed in a fire.",
+    "detail": "Robert Louis Stevenson's classic adventure novel, Treasure Island, narrowly escaped being lost forever when a fire broke out in the author's home. Luckily, the manuscript was saved, allowing this timeless tale to reach readers worldwide.",
+    "searchKeywords": "Treasure Island manuscript fire Stevenson"
+  },
+  {
+    "id": "the-sound-of-thunder",
+    "date": "2026-07-27",
+    "category": "physics",
+    "text": "The sound of thunder can travel faster in cold air due to the density and speed of sound relationship.",
+    "detail": "While sound typically travels faster in warmer air, under certain conditions, the density of cold air can cause thunder to propagate more quickly, creating a unique auditory experience. This counterintuitive phenomenon occurs because the speed of sound depends not only on temperature but also on air pressure and density.",
+    "searchKeywords": "thunder sound speed cold air physics"
+  },
+  {
+    "id": "there-are-more-possible-2",
+    "date": "2026-07-28",
+    "category": "math",
+    "text": "There are more possible configurations of a Rubik's Cube than atoms in the observable universe.",
+    "detail": "A standard Rubik's Cube has 43,252,003,274,489,856,000 possible configurations, a number incomprehensibly larger than the estimated number of atoms in the observable universe, which is around 10^80. This highlights the complexity and challenge the Rubik's Cube poses to those who attempt to solve it.",
+    "searchKeywords": "Rubik's Cube configurations atoms universe"
+  },
+  {
+    "id": "the-largest-volcano-in-2",
+    "date": "2026-07-29",
+    "category": "astronomy",
+    "text": "The largest volcano in the solar system, Olympus Mons, is not on Earth, but on Mars.",
+    "detail": "Olympus Mons, located on Mars, towers over 13.6 miles (22 kilometers) high, which is nearly three times the height of Mount Everest. This colossal shield volcano is about 370 miles in diameter, making it roughly the same size as the state of Arizona.",
+    "searchKeywords": "Olympus Mons volcano Mars largest"
+  },
+  {
+    "id": "the-axolotl-can-regenerate",
+    "date": "2026-07-30",
+    "category": "naturalScience",
+    "text": "The axolotl can regenerate entire limbs and even parts of its heart and brain.",
+    "detail": "The axolotl, a type of salamander, possesses unique regenerative abilities allowing it to regrow limbs, spinal cord segments, and even portions of its heart and brain. This extraordinary capability is a subject of intense scientific study, offering insights into potential human medical applications.",
+    "searchKeywords": "axolotl regeneration limbs heart brain"
+  },
+  {
+    "id": "agatha-christie-wrote-many",
+    "date": "2026-07-31",
+    "category": "famousLives",
+    "text": "Agatha Christie wrote many of her novels on a typewriter she called 'The Remington'.",
+    "detail": "The renowned mystery writer Agatha Christie penned numerous classic detective stories using her beloved Remington typewriter. This machine was an essential tool in crafting her intricate plots and memorable characters, contributing to her legacy as the 'Queen of Mystery'.",
+    "searchKeywords": "Agatha Christie typewriter Remington novels"
+  },
+  {
+    "id": "j-r-r-tolkien-2",
+    "date": "2026-08-01",
+    "category": "literature",
+    "text": "J.R.R. Tolkien forgot to include the map of Middle-earth in the first edition of The Hobbit.",
+    "detail": "When The Hobbit was initially published in 1937, Tolkien neglected to include the crucial map of Middle-earth that helps readers navigate his fantasy world. It wasn't until later editions that this iconic map, which adds depth and context to the story, was included.",
+    "searchKeywords": "Tolkien Middle-earth map Hobbit edition"
+  },
+  {
+    "id": "a-water-droplet-can",
+    "date": "2026-08-02",
+    "category": "physics",
+    "text": "A water droplet can bounce on a vibrating fluid surface due to a phenomenon called 'walking droplets'.",
+    "detail": "The 'walking droplets' phenomenon occurs when a droplet bounces on a vibrating fluid surface, creating an interaction that mimics quantum behaviors. This rare occurrence challenges classical physics' understanding and offers intriguing insights into quantum mechanics.",
+    "searchKeywords": "walking droplets vibrating surface physics"
+  },
+  {
+    "id": "there-are-infinitely-many",
+    "date": "2026-08-03",
+    "category": "math",
+    "text": "There are infinitely many prime numbers that differ by exactly two, known as twin primes.",
+    "detail": "Twin primes are pairs of prime numbers that have a difference of two, like (3, 5) and (11, 13). Despite being a well-known concept, the Twin Prime Conjecture, which posits that there are infinitely many such pairs, remains unproven, captivating mathematicians for centuries.",
+    "searchKeywords": "twin primes conjecture pairs mathematics"
+  },
+  {
+    "id": "pulsars-can-spin-as",
+    "date": "2026-08-04",
+    "category": "astronomy",
+    "text": "Pulsars can spin as fast as 716 times per second, making them cosmic lighthouses.",
+    "detail": "Pulsars are highly magnetized, rotating neutron stars that emit beams of electromagnetic radiation. The fastest known pulsar, PSR J1748-2446ad, rotates at a staggering 716 times per second, serving as a natural beacon in the cosmos and helping astronomers study extreme states of matter.",
+    "searchKeywords": "pulsars spin speed neutron stars"
+  },
+  {
+    "id": "the-ocean-s-largest",
+    "date": "2026-08-05",
+    "category": "naturalScience",
+    "text": "The ocean's largest living structure, the Great Barrier Reef, is made up of millions of tiny organisms.",
+    "detail": "The Great Barrier Reef, located off the coast of Queensland, Australia, is composed of billions of coral polyps. These small, soft-bodied organisms form hard calcium carbonate exoskeletons that build up over time, creating the massive reef structure visible today. It's so large it can be seen from space.",
+    "searchKeywords": "Great Barrier Reef coral polyps Australia"
+  },
+  {
+    "id": "napoleon-bonaparte-was-once",
+    "date": "2026-08-06",
+    "category": "famousLives",
+    "text": "Napoleon Bonaparte was once attacked by a horde of bunnies.",
+    "detail": "During a rabbit hunt arranged by Napoleon's chief of staff, the rabbits reportedly charged at the French leader instead of hopping away. The rabbits had been domesticated and were not afraid of humans, leading to a comical scene where Napoleon found himself overwhelmed by the fluffy critters.",
+    "searchKeywords": "Napoleon rabbit attack hunt"
+  },
+  {
+    "id": "george-orwell-s-novel",
+    "date": "2026-08-07",
+    "category": "literature",
+    "text": "George Orwell's novel '1984' was nearly titled 'The Last Man in Europe.'",
+    "detail": "Orwell considered several titles before finally settling on '1984,' a decision influenced by his publisher. The novel's dystopian themes reflect Orwell's concerns about totalitarianism and surveillance, making its current title more impactful.",
+    "searchKeywords": "George Orwell 1984 original title"
+  },
+  {
+    "id": "the-double-slit-experiment",
+    "date": "2026-08-08",
+    "category": "physics",
+    "text": "The double-slit experiment demonstrates that light can behave as both a particle and a wave.",
+    "detail": "This famous physics experiment involves shining light through two slits, resulting in an interference pattern typical of waves. However, when observed, the light behaves as if it's made up of individual particles, illustrating the dual nature of light and leading to profound implications in quantum mechanics.",
+    "searchKeywords": "double slit experiment light wave particle"
+  },
+  {
+    "id": "the-number-e-approximately",
+    "date": "2026-08-09",
+    "category": "math",
+    "text": "The number e, approximately 2.718, is the base of natural logarithms and appears in diverse mathematical contexts.",
+    "detail": "Known as Euler's number, e is a mathematical constant that arises in situations involving growth, such as calculating compound interest or modeling population dynamics. It is one of the most important numbers in mathematics, alongside pi and the imaginary unit i.",
+    "searchKeywords": "Euler's number e natural logarithm"
+  },
+  {
+    "id": "the-andromeda-galaxy-is",
+    "date": "2026-08-10",
+    "category": "astronomy",
+    "text": "The Andromeda Galaxy is on a collision course with the Milky Way.",
+    "detail": "In about 4.5 billion years, our Milky Way galaxy is expected to collide with its neighbor, the Andromeda Galaxy. This cosmic event will likely reshape both galaxies into a new elliptical galaxy, but because of the vast distances between stars, the likelihood of individual star collisions is negligible.",
+    "searchKeywords": "Andromeda Milky Way collision galaxy"
+  },
+  {
+    "id": "the-amazon-rainforest-produces",
+    "date": "2026-08-11",
+    "category": "naturalScience",
+    "text": "The Amazon rainforest produces 20% of the world's oxygen.",
+    "detail": "Often referred to as the Earth's lungs, the Amazon rainforest is a critical component of the planet's respiratory system. Through the process of photosynthesis, its dense vegetation converts carbon dioxide into oxygen, helping sustain life on Earth.",
+    "searchKeywords": "Amazon rainforest oxygen production"
+  },
+  {
+    "id": "winston-churchill-won-a",
+    "date": "2026-08-12",
+    "category": "famousLives",
+    "text": "Winston Churchill won a Nobel Prize for Literature, not Peace.",
+    "detail": "In 1953, Winston Churchill was awarded the Nobel Prize in Literature for his historical writings and speeches. His powerful and influential use of language provided a significant impact during World War II, but it was his prowess as an author, rather than a politician, that earned him this accolade.",
+    "searchKeywords": "Winston Churchill Nobel Prize Literature"
+  },
+  {
+    "id": "the-first-novel-ever",
+    "date": "2026-08-13",
+    "category": "literature",
+    "text": "The first novel ever written on a typewriter was 'Tom Sawyer.'",
+    "detail": "Mark Twain's 'Adventures of Tom Sawyer' became the first novel to be typed on a machine. Twain was known for his fondness of new technologies and embraced the typewriter as a tool to aid his literary work, making this a milestone in publishing history.",
+    "searchKeywords": "Tom Sawyer first typewriter novel"
+  },
+  {
+    "id": "absolute-zero-is-the",
+    "date": "2026-08-14",
+    "category": "physics",
+    "text": "Absolute zero is the theoretical temperature where particles stop moving.",
+    "detail": "Absolute zero is 0 Kelvin or -273.15 degrees Celsius, and it's considered the lowest possible temperature where molecular motion comes to a halt. It is a limit that cannot be physically achieved, but researchers have come very close, allowing them to observe bizarre quantum phenomena at near-zero temperatures.",
+    "searchKeywords": "absolute zero temperature particles motion"
+  },
+  {
+    "id": "the-number-1729-is",
+    "date": "2026-08-15",
+    "category": "math",
+    "text": "The number 1729 is known as the Hardy-Ramanujan number due to a famous anecdote involving a taxi cab.",
+    "detail": "The number 1729 is the smallest number expressible as the sum of two cubes in two different ways: 1^3 + 12^3 and 9^3 + 10^3. This fact was highlighted by the mathematician Srinivasa Ramanujan in a conversation with G.H. Hardy, who visited him in the hospital.",
+    "searchKeywords": "Hardy Ramanujan number 1729 taxi cab"
+  },
+  {
+    "id": "the-planet-uranus-is",
+    "date": "2026-08-16",
+    "category": "astronomy",
+    "text": "The planet Uranus is tilted on its side, with an axial tilt of about 98 degrees.",
+    "detail": "Unlike other planets in our solar system, Uranus rotates almost completely on its side. This extreme tilt likely results from a massive collision with an Earth-sized object long ago. Consequently, its poles experience 42 years of continuous sunlight followed by 42 years of darkness.",
+    "searchKeywords": "Uranus axial tilt planet sideways"
+  },
+  {
+    "id": "the-dragonfly-is-one",
+    "date": "2026-08-17",
+    "category": "naturalScience",
+    "text": "The dragonfly is one of the most efficient hunters in the animal kingdom, with a success rate of up to 95%.",
+    "detail": "Dragonflies capture their prey mid-air with remarkable precision, using their excellent vision and ability to calculate the trajectory of their target. They are capable of adjusting their flight pattern rapidly to ensure they catch their prey, making them formidable aerial predators.",
+    "searchKeywords": "dragonfly hunting success rate efficiency"
+  },
+  {
+    "id": "leo-tolstoy-the-renowned",
+    "date": "2026-08-18",
+    "category": "famousLives",
+    "text": "Leo Tolstoy, the renowned Russian author, learned to ride a bicycle at the age of 67.",
+    "detail": "Already famous for his literary works 'War and Peace' and 'Anna Karenina,' Tolstoy embraced new technologies and skills, including learning to ride a bicycle. His adoption of this skill at an advanced age demonstrated his lifelong curiosity and zest for learning new things.",
+    "searchKeywords": "Leo Tolstoy bicycle learn aged 67"
+  },
+  {
+    "id": "the-original-draft-of",
+    "date": "2026-08-19",
+    "category": "literature",
+    "text": "The original draft of 'The Wizard of Oz' did not include the character of the Cowardly Lion.",
+    "detail": "L. Frank Baum's original manuscript of 'The Wizard of Oz' featured Dorothy, the Scarecrow, and the Tin Woodman, but the Cowardly Lion was added later. The Lion became an integral part of the story, symbolizing courage and the ability to overcome one's fears.",
+    "searchKeywords": "Wizard of Oz Cowardly Lion original draft"
+  },
+  {
+    "id": "the-casimir-effect-is",
+    "date": "2026-08-20",
+    "category": "physics",
+    "text": "The Casimir effect is a physical force arising from a quantum vacuum between two uncharged plates.",
+    "detail": "Predicted by Dutch physicist Hendrik Casimir in 1948, this phenomenon occurs due to quantum fluctuations in a vacuum. The effect has been experimentally observed and is a fundamental example of zero-point energy, demonstrating the reality of forces from seemingly empty space.",
+    "searchKeywords": "Casimir effect quantum vacuum force"
+  },
+  {
+    "id": "the-number-0-999",
+    "date": "2026-08-21",
+    "category": "math",
+    "text": "The number 0.999... is exactly equal to 1.",
+    "detail": "In mathematics, 0.999... (a repeating decimal) is considered equal to 1, not just approximately. This is because the difference between the two is infinitesimally small, essentially zero, according to the principles of limits and infinite series in calculus.",
+    "searchKeywords": "0.999 repeating decimal equal one"
+  },
+  {
+    "id": "the-horsehead-nebula-was",
+    "date": "2026-08-22",
+    "category": "astronomy",
+    "text": "The Horsehead Nebula was first recorded on photographic plate in 1888.",
+    "detail": "Located in the constellation Orion, the Horsehead Nebula is a dark nebula that is part of a larger molecular cloud. It was first captured on photographic plate at the Harvard College Observatory, showcasing the advancements in astronomical photography during the late 19th century.",
+    "searchKeywords": "Horsehead Nebula first photograph 1888"
+  },
+  {
+    "id": "the-sahara-desert-once",
+    "date": "2026-08-23",
+    "category": "naturalScience",
+    "text": "The Sahara Desert once had a lush, green landscape with abundant wildlife.",
+    "detail": "Approximately 10,000 years ago, the Sahara was a verdant environment with lakes, rivers, and rich grasslands. This period, known as the African Humid Period, allowed for diverse flora and fauna. Climate changes led to its current arid state, but remnants of its past are evidenced through archaeological and geological findings.",
+    "searchKeywords": "Sahara Desert green past landscape"
+  },
+  {
+    "id": "frida-kahlo-was-once",
+    "date": "2026-08-24",
+    "category": "famousLives",
+    "text": "Frida Kahlo was once a promising medical student before an accident changed her path to art.",
+    "detail": "Before becoming a celebrated Mexican artist known for her vivid and emotive self-portraits, Frida Kahlo planned to study medicine. A bus accident at age 18 left her bedridden for months, during which she began painting. Her medical ambitions transformed into a legendary art career that expressed her personal pain and identity.",
+    "searchKeywords": "Frida Kahlo medical student accident art"
+  },
+  {
+    "id": "james-joyce-wrote-some",
+    "date": "2026-08-25",
+    "category": "literature",
+    "text": "James Joyce wrote some of 'Ulysses' while wearing a white suit and sitting in a café.",
+    "detail": "James Joyce was known for his unique writing habits, which included composing parts of 'Ulysses' in public places. His choice of attire, a crisp white suit, was part of his distinctive style and may have mirrored his complex and vibrant prose.",
+    "searchKeywords": "James Joyce Ulysses writing habits suit"
+  },
+  {
+    "id": "a-type-of-crystal",
+    "date": "2026-08-26",
+    "category": "physics",
+    "text": "A type of crystal can grow back together after being shattered.",
+    "detail": "Self-healing crystals, specifically known as 'healing crystals', can naturally repair themselves over time. This phenomenon occurs because of the crystal's ability to form new chemical bonds at the fracture site, making them of great interest in materials science.",
+    "searchKeywords": "self healing crystals fracture repair"
+  },
+  {
+    "id": "there-s-a-geometry",
+    "date": "2026-08-27",
+    "category": "math",
+    "text": "There's a geometry problem solved only after being open for 85 years.",
+    "detail": "The Keller's conjecture, a question related to tiling cubes in higher dimensions, was finally resolved in 2020. This longstanding problem had puzzled mathematicians since its proposal in 1930, highlighting the persistence required in mathematical research.",
+    "searchKeywords": "Keller's conjecture solved tiling cubes"
+  },
+  {
+    "id": "mars-has-the-tallest",
+    "date": "2026-08-28",
+    "category": "astronomy",
+    "text": "Mars has the tallest dust storms in the solar system, reaching such heights they can be seen by telescopes on Earth.",
+    "detail": "Dust storms on Mars can envelop the entire planet and extend up to 100 kilometers into the atmosphere. These storms, lasting for weeks, present challenges and opportunities for scientists observing Martian weather patterns.",
+    "searchKeywords": "Mars dust storms height visibility"
+  },
+  {
+    "id": "some-plants-can-recognize",
+    "date": "2026-08-29",
+    "category": "naturalScience",
+    "text": "Some plants can recognize their siblings and give them preferential treatment.",
+    "detail": "Research has shown that certain plants like sea rocket can distinguish between siblings and strangers. When planted near siblings, they limit root growth to share resources more equitably, demonstrating a form of plant kin recognition.",
+    "searchKeywords": "plants sibling recognition kin behavior"
+  },
+  {
+    "id": "pablo-picasso-could-draw",
+    "date": "2026-08-30",
+    "category": "famousLives",
+    "text": "Pablo Picasso could draw before he could walk.",
+    "detail": "Picasso's mother claimed that his first word was 'pencil'. This anecdote fits with his prodigious talent, as he began drawing at a very young age, long before achieving mobility, setting a foundation for his future as an influential artist.",
+    "searchKeywords": "Pablo Picasso early life drawing"
+  },
+  {
+    "id": "virginia-woolf-s-pet",
+    "date": "2026-08-31",
+    "category": "literature",
+    "text": "Virginia Woolf's pet monkey once made a mess of her manuscripts.",
+    "detail": "Virginia Woolf owned a pet marmoset named Mitz, who would roam freely in her house. On one occasion, Mitz scattered and damaged some of her papers, which she humorously recounted in her diaries as one of the many oddities in her life.",
+    "searchKeywords": "Virginia Woolf pet monkey Mitz"
+  },
+  {
+    "id": "liquid-water-can-exist",
+    "date": "2026-09-01",
+    "category": "physics",
+    "text": "Liquid water can exist below its freezing point due to supercooling.",
+    "detail": "Supercooling allows water to remain liquid even at temperatures as low as -48°C under specific conditions. This phenomenon occurs when water lacks impurities or disturbances, allowing it to go below freezing without crystallizing.",
+    "searchKeywords": "supercooling water below freezing point"
+  },
+  {
+    "id": "the-shape-of-a",
+    "date": "2026-09-02",
+    "category": "math",
+    "text": "The shape of a Pringles chip is a hyperbolic paraboloid.",
+    "detail": "Pringles chips are designed with a hyperbolic paraboloid shape, which makes them less prone to breaking and allows them to stack neatly. This unique geometry also contributes to the chip's even cooking and crispy texture.",
+    "searchKeywords": "Pringles chip shape hyperbolic paraboloid"
+  },
+  {
+    "id": "there-is-a-planet",
+    "date": "2026-09-03",
+    "category": "astronomy",
+    "text": "There is a planet made of diamond more massive than Earth.",
+    "detail": "55 Cancri e, a super-Earth in a binary star system, is believed to have a carbon-rich composition that could include a diamond core. Its mass and unique conditions make it an object of fascination and study in planetary science.",
+    "searchKeywords": "diamond planet 55 Cancri e discovery"
   }
 ]

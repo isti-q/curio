@@ -1,14 +1,6 @@
 [
   {
-    "text": "To live without hope is to cease to live.",
-    "author": "Dostoevsky"
-  },
-  {
-    "text": "The only true wisdom is in knowing you know nothing.",
-    "author": "Socrates"
-  },
-  {
-    "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "text": "Happiness depends upon ourselves.",
     "author": "Aristotle"
   },
   {
@@ -16,35 +8,307 @@
     "author": "Socrates"
   },
   {
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "To live without hope is to cease to live.",
+    "author": "Fyodor Dostoevsky"
+  },
+  {
+    "text": "Courage is grace under pressure.",
+    "author": "Ernest Hemingway"
+  },
+  {
+    "text": "The universe is change; life is opinion.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "Time you enjoy wasting is not wasted time.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "text": "Love all, trust a few, do wrong to none.",
+    "author": "William Shakespeare"
+  },
+  {
+    "text": "Where there is no struggle, there is no strength.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "text": "Life must be lived as play.",
+    "author": "Plato"
+  },
+  {
+    "text": "All that we see or seem is but a dream within a dream.",
+    "author": "Edgar Allan Poe"
+  },
+  {
+    "text": "The only true wisdom is in knowing you know nothing.",
+    "author": "Socrates"
+  },
+  {
+    "text": "Without music, life would be a mistake.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "text": "All the variety, all the charm, all the beauty of life is made up of light and shadow.",
+    "author": "Leo Tolstoy"
+  },
+  {
+    "text": "The greatest wealth is to live content with little.",
+    "author": "Plato"
+  },
+  {
+    "text": "The mind is everything. What you think you become.",
+    "author": "Buddha"
+  },
+  {
+    "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "Imagination is more important than knowledge.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "The purpose of life is a life of purpose.",
+    "author": "Robert Byrne"
+  },
+  {
+    "text": "It is our choices that show what we truly are, far more than our abilities.",
+    "author": "J.K. Rowling"
+  },
+  {
+    "text": "The mind is everything; what you think, you become.",
+    "author": "Buddha"
+  },
+  {
+    "text": "The only thing I know is that I know nothing.",
+    "author": "Socrates"
+  },
+  {
+    "text": "What we know is a drop, what we don't know is an ocean.",
+    "author": "Isaac Newton"
+  },
+  {
+    "text": "Wisdom begins in wonder.",
+    "author": "Socrates"
+  },
+  {
+    "text": "To love and be loved is to feel the sun from both sides.",
+    "author": "David Viscott"
+  },
+  {
+    "text": "He who has a why to live can bear almost any how.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "text": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Judge a man by his questions rather than by his answers.",
+    "author": "Voltaire"
+  },
+  {
+    "text": "The measure of intelligence is the ability to change.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Knowledge speaks, but wisdom listens.",
+    "author": "Jimi Hendrix"
+  },
+  {
+    "text": "Life is really simple, but we insist on making it complicated.",
+    "author": "Confucius"
+  },
+  {
+    "text": "To be, or not to be, that is the question.",
+    "author": "William Shakespeare"
+  },
+  {
+    "text": "I think, therefore I am.",
+    "author": "René Descartes"
+  },
+  {
+    "text": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "text": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius"
+  },
+  {
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "We are what we repeatedly do.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "text": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "The only impossible journey is the one you never begin.",
+    "author": "Tony Robbins"
+  },
+  {
+    "text": "What is done cannot be undone.",
+    "author": "Fyodor Dostoevsky"
+  },
+  {
+    "text": "The only journey is the one within.",
+    "author": "Rainer Maria Rilke"
+  },
+  {
+    "text": "The mind unlearns with difficulty what it has long learned.",
+    "author": "Seneca"
+  },
+  {
+    "text": "Man is what he believes.",
+    "author": "Anton Chekhov"
+  },
+  {
+    "text": "Character is destiny.",
+    "author": "Heraclitus"
+  },
+  {
+    "text": "The only real mistake is the one from which we learn nothing.",
+    "author": "Henry Ford"
+  },
+  {
+    "text": "One cannot step twice in the same river.",
+    "author": "Heraclitus"
+  },
+  {
+    "text": "It is not length of life, but depth of life.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "Our life is what our thoughts make it.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "All truly great thoughts are conceived while walking.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "text": "The greatest victory is over oneself.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "Live your life as an exclamation rather than an explanation.",
+    "author": "Isaac Newton"
+  },
+  {
+    "text": "The purpose of art is washing the dust of daily life.",
+    "author": "Pablo Picasso"
+  },
+  {
     "text": "Beauty will save the world.",
-    "author": "Dostoevsky"
+    "author": "Fyodor Dostoevsky"
   },
   {
-    "text": "It is not in the stars to hold our destiny but in ourselves.",
-    "author": "Shakespeare"
+    "text": "That which does not kill us makes us stronger.",
+    "author": "Friedrich Nietzsche"
   },
   {
-    "text": "The world breaks everyone, and afterward many are strong at the broken places.",
-    "author": "Hemingway"
+    "text": "A goal without a plan is just a wish.",
+    "author": "Antoine de Saint-Exupéry"
   },
   {
-    "text": "There is no greatness where there is not simplicity, goodness, and truth.",
-    "author": "Tolstoy"
+    "text": "Courage is knowing what not to fear.",
+    "author": "Plato"
+  },
+  {
+    "text": "Patience is bitter, but its fruit is sweet.",
+    "author": "Jean-Jacques Rousseau"
+  },
+  {
+    "text": "Happiness is found in doing, not merely possessing.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "The soul becomes dyed with the color of its thoughts.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "To love another person is to see the face of God.",
+    "author": "Victor Hugo"
+  },
+  {
+    "text": "It is not death that a man should fear.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "Happiness is not an ideal of reason.",
+    "author": "Immanuel Kant"
+  },
+  {
+    "text": "The secret of life is to fall seven times.",
+    "author": "Paulo Coelho"
+  },
+  {
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "In the end, it's not the years in your life.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "Love is composed of a single soul inhabiting two bodies.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "The true sign of intelligence is not knowledge.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "To err is human, to forgive, divine.",
+    "author": "Voltaire"
+  },
+  {
+    "text": "Man is condemned to be free.",
+    "author": "Jean-Paul Sartre"
+  },
+  {
+    "text": "All human actions have one or more causes.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "Knowledge is power.",
+    "author": "Francis Bacon"
+  },
+  {
+    "text": "Happiness is the highest good.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "He who opens a school door, closes a prison.",
+    "author": "Victor Hugo"
+  },
+  {
+    "text": "To be without some of the things you want is an indispensable part of happiness.",
+    "author": "Bertrand Russell"
+  },
+  {
+    "text": "Not life, but good life, is to be chiefly valued.",
+    "author": "Socrates"
+  },
+  {
+    "text": "The only thing that interferes with my learning is my education.",
+    "author": "Albert Einstein"
   },
   {
     "text": "Not all those who wander are lost.",
-    "author": "Tolkien"
-  },
-  {
-    "text": "Whatever you are, be a good one.",
-    "author": "Lincoln"
-  },
-  {
-    "text": "The cave you fear to enter holds the treasure you seek.",
-    "author": "Campbell"
-  },
-  {
-    "text": "I would rather have questions that can't be answered than answers that can't be questioned.",
-    "author": "Feynman"
+    "author": "J.R.R. Tolkien"
   }
 ]
