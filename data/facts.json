@@ -1,0 +1,152 @@
+[
+  {
+    "id": "octopus-three-hearts",
+    "category": "naturalScience",
+    "text": "Octopuses have three hearts — two pump blood to the gills, and one to the rest of the body.",
+    "searchKeywords": "octopus three hearts"
+  },
+  {
+    "id": "honey-never-spoils",
+    "category": "naturalScience",
+    "text": "Honey found sealed in ancient Egyptian tombs is over 3,000 years old and still perfectly edible.",
+    "searchKeywords": "honey never spoils ancient tombs"
+  },
+  {
+    "id": "wombat-cube-poop",
+    "category": "naturalScience",
+    "text": "Wombats produce cube-shaped droppings, the only known animal to make square poo.",
+    "searchKeywords": "wombat cube shaped poop"
+  },
+  {
+    "id": "bananas-berries",
+    "category": "naturalScience",
+    "text": "Botanically, bananas are berries — but strawberries are not.",
+    "searchKeywords": "bananas are berries strawberries not"
+  },
+  {
+    "id": "shortest-war",
+    "category": "history",
+    "text": "The shortest war in history, between Britain and Zanzibar in 1896, lasted under 40 minutes.",
+    "searchKeywords": "shortest war history anglo zanzibar"
+  },
+  {
+    "id": "oxford-aztec",
+    "category": "history",
+    "text": "Oxford University is older than the Aztec Empire — it was teaching students by 1096.",
+    "searchKeywords": "oxford university older than aztec empire"
+  },
+  {
+    "id": "cleopatra-pyramids",
+    "category": "history",
+    "text": "Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid.",
+    "searchKeywords": "cleopatra closer moon landing than pyramids"
+  },
+  {
+    "id": "great-emu-war",
+    "category": "history",
+    "text": "In 1932, Australia deployed soldiers with machine guns against emus — and the emus won.",
+    "searchKeywords": "great emu war australia 1932"
+  },
+  {
+    "id": "einstein-israel",
+    "category": "famousLives",
+    "text": "Albert Einstein was offered the presidency of Israel in 1952, but politely declined.",
+    "searchKeywords": "einstein offered presidency israel 1952"
+  },
+  {
+    "id": "newton-alchemy",
+    "category": "famousLives",
+    "text": "Isaac Newton wrote more about alchemy and theology than he ever did about physics.",
+    "searchKeywords": "isaac newton alchemy writings"
+  },
+  {
+    "id": "hedy-lamarr",
+    "category": "famousLives",
+    "text": "Hollywood star Hedy Lamarr co-invented a frequency-hopping system that underpins modern Wi-Fi and Bluetooth.",
+    "searchKeywords": "hedy lamarr frequency hopping invention"
+  },
+  {
+    "id": "tolstoy-war-and-peace",
+    "category": "literature",
+    "text": "Tolstoy's wife Sofia hand-copied the entire manuscript of War and Peace seven times by candlelight.",
+    "searchKeywords": "sofia tolstoy copied war and peace"
+  },
+  {
+    "id": "shakespeare-words",
+    "category": "literature",
+    "text": "Shakespeare invented over 1,700 words still in use today, including 'eyeball' and 'lonely'.",
+    "searchKeywords": "shakespeare invented words eyeball lonely"
+  },
+  {
+    "id": "dr-seuss-bet",
+    "category": "literature",
+    "text": "Dr. Seuss wrote Green Eggs and Ham on a bet that he couldn't make a book using only 50 different words.",
+    "searchKeywords": "dr seuss green eggs and ham 50 words bet"
+  },
+  {
+    "id": "moby-dick-typo",
+    "category": "literature",
+    "text": "The first edition of Moby-Dick accidentally left out its own epilogue, confusing early reviewers.",
+    "searchKeywords": "moby dick first edition missing epilogue"
+  },
+  {
+    "id": "light-speed-year",
+    "category": "physics",
+    "text": "Light travels about 9.46 trillion kilometres in a single year — one light-year.",
+    "searchKeywords": "how far light travels in a year light year"
+  },
+  {
+    "id": "hot-water-freezes",
+    "category": "physics",
+    "text": "Under the right conditions, hot water can freeze faster than cold water — the Mpemba effect.",
+    "searchKeywords": "mpemba effect hot water freezes faster"
+  },
+  {
+    "id": "glass-liquid-myth",
+    "category": "physics",
+    "text": "Glass is an amorphous solid, not a slow-moving liquid — old window panes are uneven from how they were made.",
+    "searchKeywords": "is glass a liquid or solid amorphous"
+  },
+  {
+    "id": "absolute-zero",
+    "category": "physics",
+    "text": "At absolute zero (−273.15 °C), atoms reach their lowest possible energy and nearly stop moving.",
+    "searchKeywords": "absolute zero temperature atoms stop moving"
+  },
+  {
+    "id": "zero-india",
+    "category": "math",
+    "text": "The number zero as we use it was first treated as a true number by Indian mathematicians around the 7th century.",
+    "searchKeywords": "history of zero indian mathematics brahmagupta"
+  },
+  {
+    "id": "birthday-paradox",
+    "category": "math",
+    "text": "In a room of just 23 people, there's a better-than-even chance two share a birthday.",
+    "searchKeywords": "birthday paradox 23 people probability"
+  },
+  {
+    "id": "prime-infinite",
+    "category": "math",
+    "text": "Euclid proved over 2,000 years ago that there are infinitely many prime numbers.",
+    "searchKeywords": "euclid proof infinite prime numbers"
+  },
+  {
+    "id": "venus-day",
+    "category": "astronomy",
+    "text": "A day on Venus is longer than its year — it spins slower than it orbits the Sun.",
+    "searchKeywords": "venus day longer than year rotation"
+  },
+  {
+    "id": "neutron-star-density",
+    "category": "astronomy",
+    "text": "A sugar-cube-sized piece of a neutron star would weigh about a billion tonnes on Earth.",
+    "searchKeywords": "neutron star density sugar cube weight"
+  },
+  {
+    "id": "footprints-moon",
+    "category": "astronomy",
+    "text": "The footprints left by Apollo astronauts on the Moon could last millions of years — there's no wind to erase them.",
+    "searchKeywords": "apollo footprints on moon how long last"
+  }
+]

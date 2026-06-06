@@ -1,53 +1,47 @@
-/**
- * Below are the colors that are used in the app. The colors are defined in the light and dark mode.
- * There are many other ways to style your app. For example, [Nativewind](https://www.nativewind.dev/), [Tamagui](https://tamagui.dev/), [unistyles](https://reactnativeunistyles.vercel.app), etc.
- */
+// Curio design tokens — derived from the curio-ui-flow.html reference.
 
-import { Platform } from 'react-native';
+export const COLORS = {
+  paper: "#F3EAD9", // warm cream background
+  card: "#FBF6EC", // lighter paper for cards / tab bar
+  ink: "#2C241B", // primary dark text
+  inkSoft: "#5A4F40", // secondary text
+  inkFaint: "#8B8170", // muted labels / icons
+  line: "#E2D6BF", // hairline borders / dividers
+  accent: "#BB4D2A", // brand accent (terracotta)
+  iconBg: "#EFE3CC", // search icon tile background
+  white: "#FFFFFF",
+} as const;
 
-const tintColorLight = '#0a7ea4';
-const tintColorDark = '#fff';
+export const FONTS = {
+  serifMedium: "Fraunces_500Medium",
+  serifSemiBold: "Fraunces_600SemiBold",
+  serifQuote: "Newsreader_400Regular_Italic",
+} as const;
 
-export const Colors = {
-  light: {
-    text: '#11181C',
-    background: '#fff',
-    tint: tintColorLight,
-    icon: '#687076',
-    tabIconDefault: '#687076',
-    tabIconSelected: tintColorLight,
-  },
-  dark: {
-    text: '#ECEDEE',
-    background: '#151718',
-    tint: tintColorDark,
-    icon: '#9BA1A6',
-    tabIconDefault: '#9BA1A6',
-    tabIconSelected: tintColorDark,
-  },
+export type CategoryKey =
+  | "naturalScience"
+  | "history"
+  | "famousLives"
+  | "literature"
+  | "physics"
+  | "math"
+  | "astronomy";
+
+export const CATEGORIES: Record<CategoryKey, { label: string; color: string }> = {
+  naturalScience: { label: "Natural Science", color: "#2F7E7E" },
+  history: { label: "History", color: "#B07D2B" },
+  famousLives: { label: "Famous Lives", color: "#7A4A6B" },
+  literature: { label: "Literature", color: "#BB4D2A" },
+  physics: { label: "Physics", color: "#3D6BB5" },
+  math: { label: "Math", color: "#8B4EA6" },
+  astronomy: { label: "Astronomy", color: "#1A527A" },
 };
 
-export const Fonts = Platform.select({
-  ios: {
-    /** iOS `UIFontDescriptorSystemDesignDefault` */
-    sans: 'system-ui',
-    /** iOS `UIFontDescriptorSystemDesignSerif` */
-    serif: 'ui-serif',
-    /** iOS `UIFontDescriptorSystemDesignRounded` */
-    rounded: 'ui-rounded',
-    /** iOS `UIFontDescriptorSystemDesignMonospaced` */
-    mono: 'ui-monospace',
-  },
-  default: {
-    sans: 'normal',
-    serif: 'serif',
-    rounded: 'normal',
-    mono: 'monospace',
-  },
-  web: {
-    sans: "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif",
-    serif: "Georgia, 'Times New Roman', serif",
-    rounded: "'SF Pro Rounded', 'Hiragino Maru Gothic ProN', Meiryo, 'MS PGothic', sans-serif",
-    mono: "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace",
-  },
-});
+/** Returns a #RRGGBB hex as an rgba() string at the given alpha (0–1). */
+export function withAlpha(hex: string, alpha: number): string {
+  const h = hex.replace("#", "");
+  const r = parseInt(h.slice(0, 2), 16);
+  const g = parseInt(h.slice(2, 4), 16);
+  const b = parseInt(h.slice(4, 6), 16);
+  return `rgba(${r}, ${g}, ${b}, ${alpha})`;
+}
