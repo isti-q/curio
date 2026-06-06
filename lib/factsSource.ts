@@ -10,7 +10,7 @@ import { setFacts, type Fact } from "@/lib/facts";
  * (the repo root is this `curio/` folder, so the path is just data/facts.json).
  */
 const REMOTE_URL =
-  "https://cdn.jsdelivr.net/gh/<owner>/<repo>@main/data/facts.json";
+  "https://cdn.jsdelivr.net/gh/isti-q/curio@main/data/facts.json";
 
 const CACHE_KEY = "@curio/facts-cache";
 
