@@ -3,12 +3,14 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 import { setFacts, type Fact } from "@/lib/facts";
 
 /**
- * Remote, CDN-hosted copy of data/facts.json. The daily job appends one entry
- * (with an explicit UTC `date`) and pushes; jsDelivr serves the file from the
- * repo. Replace <owner>/<repo> below once the GitHub repo exists.
+ * Remote, CDN-hosted copy of data/facts.json. The scheduled job (see
+ * .github/workflows/generate-facts.yml) appends new entries and pushes;
+ * jsDelivr serves the file straight from the repo, so users get new facts
+ * without an app rebuild. Replace <owner>/<repo> with your GitHub repo
+ * (the repo root is this `curio/` folder, so the path is just data/facts.json).
  */
 const REMOTE_URL =
-  "https://cdn.jsdelivr.net/gh/<owner>/<repo>@main/curio/data/facts.json";
+  "https://cdn.jsdelivr.net/gh/<owner>/<repo>@main/data/facts.json";
 
 const CACHE_KEY = "@curio/facts-cache";
 

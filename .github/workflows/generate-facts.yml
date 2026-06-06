@@ -1,0 +1,52 @@
+name: Generate facts
+
+# Tops up data/facts.json (and quotes.json) on a schedule so the app never runs
+# out of daily facts. jsDelivr serves the updated file straight from this repo,
+# so users get new content without an app rebuild (see lib/factsSource.ts).
+
+on:
+  schedule:
+    # 06:00 UTC on the 1st of every month.
+    - cron: "0 6 1 * *"
+  workflow_dispatch: # allow manual runs from the Actions tab
+    inputs:
+      total:
+        description: "How many facts/quotes to generate"
+        required: false
+        default: "60"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Generate facts + quotes
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          MODE: append
+          # Generate ahead of consumption so there's always a buffer queued.
+          TOTAL: ${{ github.event.inputs.total || '60' }}
+        run: node data/generate-facts.js
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/facts.json data/quotes.json; then
+            echo "No content changes — nothing to commit."
+          else
+            git add data/facts.json data/quotes.json
+            git commit -m "chore: top up daily facts & quotes [skip ci]"
+            git push
+          fi
