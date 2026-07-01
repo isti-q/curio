@@ -1198,5 +1198,485 @@
     "text": "Venus rotates on its axis backwards compared to most planets.",
     "detail": "In a rare phenomenon known as retrograde rotation, Venus spins in the opposite direction to most planets, including Earth. This means if you were standing on Venus, the Sun would rise in the west and set in the east.",
     "searchKeywords": "Venus rotation direction retrograde"
+  },
+  {
+    "id": "the-antechinus-a-small",
+    "date": "2026-11-03",
+    "category": "naturalScience",
+    "text": "The antechinus, a small Australian marsupial, mates so intensely that males often die shortly after the breeding season.",
+    "detail": "During their short breeding season, male antechinuses engage in frenzied mating sessions that can last up to 14 hours, leading to fatal stress and immune system collapse. This extreme reproductive strategy allows the species to maximize offspring production before males succumb.",
+    "searchKeywords": "antechinus mating marsupial Australia"
+  },
+  {
+    "id": "the-first-known-female",
+    "date": "2026-11-04",
+    "category": "famousLives",
+    "text": "The first known female self-made millionaire in America was Madam C.J. Walker, who built her wealth in the early 1900s from a line of beauty products for African American women.",
+    "detail": "Madam C.J. Walker, born Sarah Breedlove, overcame poverty and hardship to establish a successful business empire. Her innovative marketing strategies and commitment to philanthropy helped her amass her fortune and left a lasting legacy in the beauty industry.",
+    "searchKeywords": "Madam CJ Walker millionaire beauty products"
+  },
+  {
+    "id": "j-r-r-tolkien-3",
+    "date": "2026-11-05",
+    "category": "literature",
+    "text": "J.R.R. Tolkien once lost a manuscript of The Lord of the Rings in a train station and had to rewrite a significant portion from memory.",
+    "detail": "Tolkien's arduous writing process was further complicated when a part of his draft went missing during travel. His remarkable memory and dedication enabled him to reconstruct the lost text, ultimately contributing to the epic saga we know today.",
+    "searchKeywords": "Tolkien Lord of the Rings manuscript lost"
+  },
+  {
+    "id": "the-phenomenon-of-sonoluminescence",
+    "date": "2026-11-06",
+    "category": "physics",
+    "text": "The phenomenon of sonoluminescence, where tiny bubbles in a liquid emit short bursts of light when subjected to intense sound waves, remains partially unexplained.",
+    "detail": "Sonoluminescence occurs when sound waves create oscillating bubbles in a liquid that collapse and emit light, often appearing as a mysterious glow. This phenomenon challenges our understanding of energy conversion and the behavior of gases under extreme conditions.",
+    "searchKeywords": "sonoluminescence bubbles light sound"
+  },
+  {
+    "id": "the-collatz-conjecture-an",
+    "date": "2026-11-07",
+    "category": "math",
+    "text": "The Collatz Conjecture, an unsolved problem in mathematics, involves a simple process that no one can yet prove will always return to 1.",
+    "detail": "Also known as the '3n + 1 problem,' the conjecture suggests that starting with any positive integer and following a specific rule will eventually lead to the number 1. Despite its simplicity, a formal proof continues to elude mathematicians.",
+    "searchKeywords": "Collatz Conjecture math problem unsolved"
+  },
+  {
+    "id": "a-day-on-mercury-2",
+    "date": "2026-11-08",
+    "category": "astronomy",
+    "text": "A day on Mercury lasts longer than a year due to its unique rotational and orbital periods.",
+    "detail": "Mercury rotates on its axis once every 59 Earth days, but takes only 88 days to orbit the Sun. This results in a single day, sunrise to sunrise, lasting approximately 176 Earth days, making its day longer than its year.",
+    "searchKeywords": "Mercury rotation orbital period day year"
+  },
+  {
+    "id": "the-immortal-jellyfish-turritopsis-2",
+    "date": "2026-11-09",
+    "category": "naturalScience",
+    "text": "The immortal jellyfish, Turritopsis dohrnii, can revert to its juvenile form after reaching maturity, potentially living indefinitely.",
+    "detail": "This jellyfish species has a unique ability to revert its cells back to an earlier state, effectively restarting its life cycle. This biological reset mechanism poses intriguing questions about aging and cellular regeneration.",
+    "searchKeywords": "immortal jellyfish Turritopsis dohrnii life cycle"
+  },
+  {
+    "id": "ada-lovelace-a-19th",
+    "date": "2026-11-10",
+    "category": "famousLives",
+    "text": "Ada Lovelace, a 19th-century mathematician, is considered the first computer programmer due to her work on Charles Babbage's Analytical Engine.",
+    "detail": "Lovelace's visionary notes on the Engine included what is now recognized as the first algorithm intended to be processed by a machine. Her foresight into the potential of computing laid foundational concepts for modern computer science.",
+    "searchKeywords": "Ada Lovelace computer programmer Babbage"
+  },
+  {
+    "id": "the-entire-novel-gadsby",
+    "date": "2026-11-11",
+    "category": "literature",
+    "text": "The entire novel 'Gadsby' by Ernest Vincent Wright avoids using the letter 'e', making it a notable example of a lipogram.",
+    "detail": "Published in 1939, 'Gadsby' contains over 50,000 words yet ingeniously skirts the most common letter in the English language. Wright's constraint showcases linguistic creativity and the challenges of constrained writing.",
+    "searchKeywords": "Gadsby novel lipogram Ernest Wright"
+  },
+  {
+    "id": "clouds-form-and-move",
+    "date": "2026-11-12",
+    "category": "physics",
+    "text": "Clouds form and move in such a way that they weigh several million pounds while still floating gracefully in the sky.",
+    "detail": "An average cumulus cloud contains about 500,000 kilograms of water, yet it remains aloft due to the large volume it occupies, reducing its overall density. This fascinating balance of weight and buoyancy allows clouds to drift effortlessly.",
+    "searchKeywords": "cloud weight buoyancy atmosphere"
+  },
+  {
+    "id": "the-number-6174-is-2",
+    "date": "2026-11-13",
+    "category": "math",
+    "text": "The number 6174 is known as Kaprekar's constant, which always arrives at itself through an iterative process involving the digits of a four-digit number.",
+    "detail": "To see Kaprekar's constant in action, start with any four-digit number with at least two different digits. Arrange the digits in descending and ascending order to form two different numbers, then subtract the smaller from the larger. Repeat this process and you'll eventually end up with 6174, usually within just a few iterations, no matter the starting number.",
+    "searchKeywords": "Kaprekar constant 6174 math"
+  },
+  {
+    "id": "a-day-on-venus-2",
+    "date": "2026-11-14",
+    "category": "astronomy",
+    "text": "A day on Venus is longer than a year on Venus due to its extremely slow rotation.",
+    "detail": "Venus takes about 243 Earth days to complete one rotation on its axis, but only around 225 Earth days to orbit the Sun. This retrograde rotation makes a Venusian day longer than its year. Interestingly, this unique rotation also results in the planet rotating in the opposite direction to most other planets in our solar system.",
+    "searchKeywords": "Venus rotation retrograde day year"
+  },
+  {
+    "id": "a-banana-is-actually",
+    "date": "2026-11-15",
+    "category": "naturalScience",
+    "text": "A banana is actually classified as a berry, while a strawberry is not.",
+    "detail": "In botanical terms, a berry is a fruit produced from the ovary of a single flower with seeds embedded in the flesh. By this definition, bananas fit the criteria, but strawberries do not, as they are aggregate fruits formed from multiple ovaries. This reclassification of common fruits highlights the complexity of plant biology and taxonomy.",
+    "searchKeywords": "banana berry strawberry fruit classification"
+  },
+  {
+    "id": "vincent-van-gogh-sold-2",
+    "date": "2026-11-16",
+    "category": "famousLives",
+    "text": "Vincent van Gogh sold only one painting during his lifetime, despite creating over 2,100 artworks.",
+    "detail": "The painting, 'The Red Vineyard,' was sold in Belgium for 400 francs a few months before Van Gogh's death. Today, his paintings are among the most expensive in the world, reflecting the posthumous recognition of his genius. This contrast between his life and legacy illustrates the challenges faced by many artists in gaining recognition during their lifetime.",
+    "searchKeywords": "Vincent van Gogh painting sales"
+  },
+  {
+    "id": "mary-shelley-wrote-frankenstein",
+    "date": "2026-11-17",
+    "category": "literature",
+    "text": "Mary Shelley wrote 'Frankenstein' when she was just 18 years old.",
+    "detail": "The idea for 'Frankenstein' came to Mary Shelley during a summer trip to Geneva, Switzerland, where she and a group of friends, including the poet Lord Byron, engaged in a ghost story writing contest. Her novel, published in 1818, is considered one of the earliest examples of science fiction, exploring themes of creation and the consequences of playing God.",
+    "searchKeywords": "Mary Shelley Frankenstein writing age"
+  },
+  {
+    "id": "a-neutron-star-is",
+    "date": "2026-11-18",
+    "category": "physics",
+    "text": "A neutron star is so dense that a sugar-cube-sized amount of its material would weigh about as much as all of humanity.",
+    "detail": "Neutron stars are the remnants of massive stars that have exploded in supernovae. They are incredibly dense, with masses greater than the Sun packed into a sphere only about 20 kilometers across. This density is due to the collapse of the star's core, resulting in neutrons packed tightly together, making neutron stars some of the densest objects in the universe.",
+    "searchKeywords": "neutron star density weight"
+  },
+  {
+    "id": "the-fibonacci-sequence-appears-4",
+    "date": "2026-11-19",
+    "category": "math",
+    "text": "The Fibonacci sequence appears in the arrangement of leaves on a stem and the spiral patterns of pine cones.",
+    "detail": "The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, often starting with 0 and 1. This sequence is commonly found in nature, particularly in the arrangements of various plant structures. For example, the spiral patterns in sunflowers, pine cones, and pineapples often follow the Fibonacci sequence, optimizing space and growth efficiency.",
+    "searchKeywords": "Fibonacci sequence pine cone spirals"
+  },
+  {
+    "id": "venus-rotates-in-the-3",
+    "date": "2026-11-20",
+    "category": "astronomy",
+    "text": "Venus rotates in the opposite direction to most planets, a phenomenon known as retrograde rotation.",
+    "detail": "While most planets rotate counterclockwise on their axes, Venus spins clockwise, making its sunrise in the west and sunset in the east. Scientists believe this unusual rotation could be due to a massive collision with another celestial object or gravitational interactions with the Sun over eons. The retrograde rotation makes a day on Venus longer than its year.",
+    "searchKeywords": "Venus rotation direction retrograde"
+  },
+  {
+    "id": "bananas-are-classified-as",
+    "date": "2026-11-21",
+    "category": "naturalScience",
+    "text": "Bananas are classified as berries, while strawberries are not.",
+    "detail": "In botanical terms, a berry is a simple fruit with seeds and pulp produced from the ovary of a single flower. Bananas fit this definition, while strawberries do not, as they are aggregate fruits formed from multiple ovaries. This reclassification challenges common perceptions of fruits and berries.",
+    "searchKeywords": "banana berry strawberry classification"
+  },
+  {
+    "id": "isaac-newton-invented-the-3",
+    "date": "2026-11-22",
+    "category": "famousLives",
+    "text": "Isaac Newton invented the cat door while working on his many experiments.",
+    "detail": "Isaac Newton, famed for his work in physics and mathematics, also invented the cat door to allow his feline companions to come and go as they pleased without disrupting his experiments. Legend has it that he cut a small hole for the kittens and a larger one for the mother cat, not realizing the kittens would follow their mother through the larger hole. This anecdote illustrates Newton's practical inventiveness alongside his scientific genius.",
+    "searchKeywords": "Isaac Newton cat door invention"
+  },
+  {
+    "id": "j-r-r-tolkien-4",
+    "date": "2026-11-23",
+    "category": "literature",
+    "text": "J.R.R. Tolkien once created a 2,500-year fictional language history for Elvish.",
+    "detail": "Tolkien's passion for languages led him to develop Quenya and Sindarin, the Elvish languages in 'The Lord of the Rings.' He wrote detailed histories, grammar, and even poetry in these languages, showcasing his dedication to world-building.",
+    "searchKeywords": "Tolkien Elvish languages Quenya Sindarin"
+  },
+  {
+    "id": "physicists-have-successfully-levitated",
+    "date": "2026-11-24",
+    "category": "physics",
+    "text": "Physicists have successfully levitated tiny objects with sound waves.",
+    "detail": "Using carefully tuned ultrasonic waves, researchers have been able to suspend small particles in mid-air. This phenomenon, known as acoustic levitation, defies gravity by creating a standing wave pattern that traps the object at nodes where the pressure is constant.",
+    "searchKeywords": "acoustic levitation sound waves physics"
+  },
+  {
+    "id": "the-world-s-longest",
+    "date": "2026-11-25",
+    "category": "math",
+    "text": "The world's longest math proof is over 200 terabytes in size.",
+    "detail": "The Boolean Pythagorean Triples problem required a proof so extensive that it needed supercomputers to verify, taking over 30,000 hours of computational time. This proof is primarily stored digitally due to its massive size and complexity.",
+    "searchKeywords": "largest math proof Pythagorean supercomputer"
+  },
+  {
+    "id": "neutron-stars-can-spin",
+    "date": "2026-11-26",
+    "category": "astronomy",
+    "text": "Neutron stars can spin as fast as 600 times per second.",
+    "detail": "Certain neutron stars, known as millisecond pulsars, rotate at incredible speeds due to the conservation of angular momentum during their formation. This rapid spinning results in extreme magnetic fields and intense beams of radiation observable from Earth.",
+    "searchKeywords": "neutron star rotation speed millisecond pulsar"
+  },
+  {
+    "id": "seahorses-have-the-unique",
+    "date": "2026-11-27",
+    "category": "naturalScience",
+    "text": "Seahorses have the unique ability to move their eyes independently.",
+    "detail": "Seahorses can use each eye to look in different directions simultaneously, providing them with a broad field of vision. This adaptation is particularly useful for detecting predators and hunting prey in their underwater habitats.",
+    "searchKeywords": "seahorse eye movement vision independent"
+  },
+  {
+    "id": "albert-einstein-s-brain",
+    "date": "2026-11-28",
+    "category": "famousLives",
+    "text": "Albert Einstein's brain was stolen after his death.",
+    "detail": "In 1955, pathologist Thomas Stoltz Harvey removed Einstein's brain during an autopsy without permission, hoping to study its unique characteristics. It was later dissected into 240 blocks for research, sparking ethical and scientific debates.",
+    "searchKeywords": "Albert Einstein brain theft autopsy"
+  },
+  {
+    "id": "f-scott-fitzgerald-s",
+    "date": "2026-11-29",
+    "category": "literature",
+    "text": "F. Scott Fitzgerald's wife, Zelda, wrote a novel while in a mental hospital.",
+    "detail": "Zelda Fitzgerald penned 'Save Me the Waltz' in 1932 during her stay in a mental institution. The semi-autobiographical novel reflects her tumultuous marriage and her struggles with mental illness, offering insight into her life and talent.",
+    "searchKeywords": "Zelda Fitzgerald novel mental hospital"
+  },
+  {
+    "id": "liquid-helium-can-flow",
+    "date": "2026-11-30",
+    "category": "physics",
+    "text": "Liquid helium can flow uphill in a process called superfluidity.",
+    "detail": "At near absolute zero temperatures, helium transitions into a superfluid state, exhibiting zero viscosity. This allows it to flow without friction, climb walls, and even escape containers as a thin film, defying traditional liquid behavior.",
+    "searchKeywords": "liquid helium superfluidity uphill flow"
+  },
+  {
+    "id": "there-exists-a-mathematically",
+    "date": "2026-12-01",
+    "category": "math",
+    "text": "There exists a mathematically perfect way to tie a necktie.",
+    "detail": "The 'Pratt knot,' also known as the 'Shelby knot,' is considered mathematically symmetrical and efficient for tying ties. Mathematicians analyzed various tie-tying methods to determine the most aesthetically pleasing and structurally sound configuration.",
+    "searchKeywords": "perfect necktie Pratt knot Shelby math"
+  },
+  {
+    "id": "the-sun-s-core",
+    "date": "2026-12-02",
+    "category": "astronomy",
+    "text": "The Sun's core is so dense that energy takes thousands of years to reach the surface.",
+    "detail": "Photons generated in the Sun's core undergo countless interactions, being absorbed and re-emitted over the course of millennia before finally escaping into space. This slow journey contrasts with the light's rapid travel time from the Sun to Earth.",
+    "searchKeywords": "Sun core energy travel photon density"
+  },
+  {
+    "id": "the-axolotl-a-type-2",
+    "date": "2026-12-03",
+    "category": "naturalScience",
+    "text": "The axolotl, a type of salamander, can regenerate entire limbs—even parts of its heart and brain.",
+    "detail": "Unlike most amphibians, the axolotl retains its larval features throughout its life, a phenomenon known as neoteny. This unique ability to regenerate complex structures has made the axolotl a subject of extensive research in regenerative medicine.",
+    "searchKeywords": "axolotl regeneration limbs heart brain"
+  },
+  {
+    "id": "frida-kahlo-started-painting",
+    "date": "2026-12-04",
+    "category": "famousLives",
+    "text": "Frida Kahlo started painting seriously after a bus accident left her bedridden for months.",
+    "detail": "At the age of 18, Kahlo was involved in a severe bus accident that resulted in numerous injuries, including a broken spine and pelvis. During her recovery, she began to paint, using a special easel that allowed her to work while lying in bed.",
+    "searchKeywords": "Frida Kahlo accident painting art"
+  },
+  {
+    "id": "virginia-woolf-once-owned",
+    "date": "2026-12-05",
+    "category": "literature",
+    "text": "Virginia Woolf once owned a pet monkey named Mitz.",
+    "detail": "Virginia Woolf and her husband, Leonard, were fond of animals and had many pets. Mitz was a small marmoset who became a beloved member of the Woolf household, often appearing in Woolf's diaries and letters.",
+    "searchKeywords": "Virginia Woolf pet monkey Mitz"
+  },
+  {
+    "id": "supercooling-allows-water-to",
+    "date": "2026-12-06",
+    "category": "physics",
+    "text": "Supercooling allows water to remain a liquid below its freezing point.",
+    "detail": "Supercooling occurs when water is cooled below its normal freezing point of 0°C without it becoming solid. This can happen when the water is pure and has no impurities to act as a nucleation point for ice crystals.",
+    "searchKeywords": "supercooling water freezing point"
+  },
+  {
+    "id": "the-number-142857-is-2",
+    "date": "2026-12-07",
+    "category": "math",
+    "text": "The number 142857 is cyclic, meaning its multiples are rotations of the original digits.",
+    "detail": "When you multiply 142857 by any number between 1 and 6, the digits of the product will be a rotation of 142857 itself. This fascinating property is an example of a cyclic number, which holds unique characteristics in number theory.",
+    "searchKeywords": "142857 cyclic number math"
+  },
+  {
+    "id": "the-boomerang-nebula-is",
+    "date": "2026-12-08",
+    "category": "astronomy",
+    "text": "The Boomerang Nebula is the coldest known place in the universe, even colder than the cosmic microwave background.",
+    "detail": "Located about 5,000 light-years away, the Boomerang Nebula has a temperature of 1 Kelvin, or -272.15°C, due to its rapid expansion. This makes it colder than the remnants of the Big Bang, which is the cosmic microwave background radiation at 2.7 Kelvin.",
+    "searchKeywords": "Boomerang Nebula coldest universe"
+  },
+  {
+    "id": "the-african-lungfish-can-2",
+    "date": "2026-12-09",
+    "category": "naturalScience",
+    "text": "The African lungfish can survive out of water for several years in a state of estivation.",
+    "detail": "During dry seasons, the African lungfish burrows into mud and secretes a mucus cocoon, slowing its metabolism to survive without water. This estivation can last until conditions improve and water returns.",
+    "searchKeywords": "African lungfish survival estivation"
+  },
+  {
+    "id": "rasputin-survived-several-assassination",
+    "date": "2026-12-10",
+    "category": "famousLives",
+    "text": "Rasputin survived several assassination attempts before finally being killed.",
+    "detail": "Grigori Rasputin, the Russian mystic, was notoriously difficult to kill. He reportedly survived being poisoned, shot multiple times, and beaten before finally drowning in an icy river, according to historical accounts.",
+    "searchKeywords": "Rasputin assassination attempts survival"
+  },
+  {
+    "id": "peter-pan-s-original",
+    "date": "2026-12-11",
+    "category": "literature",
+    "text": "Peter Pan's original manuscript was lost when J.M. Barrie's maid accidentally left it on a train.",
+    "detail": "J.M. Barrie's initial draft of Peter Pan went missing due to a mishap during a railway journey. Despite this loss, the story was eventually recreated and became a beloved classic.",
+    "searchKeywords": "Peter Pan manuscript lost train"
+  },
+  {
+    "id": "the-large-hadron-collider",
+    "date": "2026-12-12",
+    "category": "physics",
+    "text": "The Large Hadron Collider can recreate conditions similar to just after the Big Bang.",
+    "detail": "Located at CERN, the Large Hadron Collider is the world's largest and most powerful particle accelerator. By colliding protons at near-light speeds, it can simulate the extreme conditions present shortly after the Big Bang, allowing physicists to study the fundamental forces of the universe.",
+    "searchKeywords": "Large Hadron Collider Big Bang conditions"
+  },
+  {
+    "id": "the-number-69-696",
+    "date": "2026-12-13",
+    "category": "math",
+    "text": "The number 69,696 is a palindrome that is also the sum of the first 23 cubes.",
+    "detail": "Palindromes are numbers that read the same forward and backward, and 69,696 is one of them. Remarkably, this number is also the sum of the cubes of the first 23 natural numbers, a delightful intersection of numerical properties.",
+    "searchKeywords": "palindrome number cubes math"
+  },
+  {
+    "id": "neutron-stars-can-spin-2",
+    "date": "2026-12-14",
+    "category": "astronomy",
+    "text": "Neutron stars can spin as fast as 700 times per second.",
+    "detail": "These incredibly dense remnants of supernovae rotate at astonishing speeds, with some known as pulsars emitting beams of radiation that sweep across the Earth like cosmic lighthouses. The fastest known neutron star, PSR J1748-2446ad, spins approximately 716 times per second.",
+    "searchKeywords": "neutron star spin speed pulsar"
+  },
+  {
+    "id": "there-are-more-trees",
+    "date": "2026-12-15",
+    "category": "naturalScience",
+    "text": "There are more trees on Earth than stars in the Milky Way.",
+    "detail": "Recent estimates suggest there are about 3 trillion trees on our planet, significantly outnumbering the 100 to 400 billion stars in our galaxy. This staggering tree count highlights the rich biodiversity and ecological potential of our planet.",
+    "searchKeywords": "trees Earth Milky Way comparison"
+  },
+  {
+    "id": "charles-darwin-was-born",
+    "date": "2026-12-16",
+    "category": "famousLives",
+    "text": "Charles Darwin was born on the same day as Abraham Lincoln.",
+    "detail": "On February 12, 1809, both Charles Darwin, the father of the theory of evolution, and Abraham Lincoln, the revered 16th President of the United States, were born. Despite their different paths, both men profoundly influenced the course of human history.",
+    "searchKeywords": "Charles Darwin Abraham Lincoln birthday"
+  },
+  {
+    "id": "gabriel-garc-a-m",
+    "date": "2026-12-17",
+    "category": "literature",
+    "text": "Gabriel García Márquez's novel 'One Hundred Years of Solitude' was written in 18 months.",
+    "detail": "The Nobel laureate wrote this masterpiece, often considered one of the greatest novels of the 20th century, in just a year and a half. The novel, known for its magical realism, has been translated into dozens of languages and remains a seminal work in world literature.",
+    "searchKeywords": "Gabriel García Márquez One Hundred Years Solitude"
+  },
+  {
+    "id": "sound-travels-4-3",
+    "date": "2026-12-18",
+    "category": "physics",
+    "text": "Sound travels 4.3 times faster in water than in air.",
+    "detail": "In typical conditions, sound travels at around 343 meters per second in air, while it speeds through water at about 1,484 meters per second. This increased speed is due to the denser molecular structure of water compared to air, facilitating more efficient vibration transmission.",
+    "searchKeywords": "sound speed water air physics"
+  },
+  {
+    "id": "a-googol-is-a",
+    "date": "2026-12-19",
+    "category": "math",
+    "text": "A 'googol' is a 1 followed by 100 zeros.",
+    "detail": "Coined by nine-year-old Milton Sirotta, the nephew of mathematician Edward Kasner, a googol is an unimaginably large number that far exceeds the number of atoms in the observable universe. This playful yet astoundingly large number highlights the vastness possibilities of mathematics.",
+    "searchKeywords": "googol large number zeros"
+  },
+  {
+    "id": "saturn-s-moon-titan",
+    "date": "2026-12-20",
+    "category": "astronomy",
+    "text": "Saturn's moon Titan has lakes of liquid methane.",
+    "detail": "Titan, the largest moon of Saturn, is the only known celestial body other than Earth that has stable bodies of surface liquid. These lakes and seas consist of methane and ethane, hydrocarbons that are liquid in Titan's frigid climate, creating an alien landscape of organic chemistry.",
+    "searchKeywords": "Saturn Titan methane lakes moon"
+  },
+  {
+    "id": "the-arctic-tern-migrates",
+    "date": "2026-12-21",
+    "category": "naturalScience",
+    "text": "The Arctic tern migrates farther than any other bird.",
+    "detail": "This small seabird undertakes an epic annual round-trip journey from its breeding grounds in the Arctic to its wintering grounds in the Antarctic. Covering up to 44,000 miles per year, the Arctic tern experiences more daylight than any other animal, exhibiting one of nature's most impressive migratory feats.",
+    "searchKeywords": "Arctic tern migration distance bird"
+  },
+  {
+    "id": "albert-einstein-s-brain-2",
+    "date": "2026-12-22",
+    "category": "famousLives",
+    "text": "Albert Einstein's brain was preserved after his death for study.",
+    "detail": "After Einstein's death in 1955, his brain was removed and sectioned by Dr. Thomas Stoltz Harvey, who hoped to discover the secret behind his genius. Although controversial, studies of the preserved samples have provided insights into the neuroanatomical differences possibly linked to Einstein's extraordinary cognitive abilities.",
+    "searchKeywords": "Albert Einstein brain preservation study"
+  },
+  {
+    "id": "the-first-recorded-use",
+    "date": "2026-12-23",
+    "category": "literature",
+    "text": "The first recorded use of the word 'robot' in English was in a play by Karel Čapek.",
+    "detail": "The term 'robot' was first used in Karel Čapek's 1920 play 'R.U.R. (Rossum's Universal Robots)', which introduced the concept of artificial people called robots. The word comes from the Czech word 'robota', meaning forced labor or drudgery.",
+    "searchKeywords": "robot word origin Karel Capek play"
+  },
+  {
+    "id": "in-the-vacuum-of",
+    "date": "2026-12-24",
+    "category": "physics",
+    "text": "In the vacuum of space, a dropped feather and a hammer fall at the same rate.",
+    "detail": "This phenomenon was famously demonstrated by astronaut David Scott on the Moon during the Apollo 15 mission. Without air resistance, both objects fall at the same acceleration due to gravity, illustrating Galileo's principle of equivalence.",
+    "searchKeywords": "feather hammer moon Apollo 15 gravity"
+  },
+  {
+    "id": "there-are-infinitely-many-3",
+    "date": "2026-12-25",
+    "category": "math",
+    "text": "There are infinitely many twin primes.",
+    "detail": "A twin prime is a pair of prime numbers that differ by two, such as (3, 5) or (11, 13). Despite extensive research, the Twin Prime Conjecture, which posits the existence of infinitely many such pairs, remains unproven, although many large twin prime pairs have been discovered.",
+    "searchKeywords": "twin primes conjecture mathematics"
+  },
+  {
+    "id": "the-coldest-known-place",
+    "date": "2026-12-26",
+    "category": "astronomy",
+    "text": "The coldest known place in the universe is in a nebula.",
+    "detail": "The Boomerang Nebula, located 5,000 light-years from Earth in the constellation Centaurus, is the coldest known place in the universe. Its temperature is about one Kelvin (or minus 272 degrees Celsius), making it even colder than the cosmic microwave background radiation.",
+    "searchKeywords": "Boomerang Nebula coldest place universe"
+  },
+  {
+    "id": "the-platypus-is-one",
+    "date": "2026-12-27",
+    "category": "naturalScience",
+    "text": "The platypus is one of the few mammals that can glow under ultraviolet light.",
+    "detail": "Recent studies have revealed that the fur of the platypus fluoresces under UV light, emitting a blue-green glow. This biofluorescence may be a trait inherited from their ancient ancestors and is a rare feature among mammals.",
+    "searchKeywords": "platypus biofluorescence UV light"
+  },
+  {
+    "id": "cleopatra-spoke-up-to",
+    "date": "2026-12-28",
+    "category": "famousLives",
+    "text": "Cleopatra spoke up to twelve languages and was the last active ruler of the Ptolemaic Kingdom of Egypt.",
+    "detail": "Cleopatra VII, often portrayed as a figure of beauty and power, was highly educated and could converse in several languages. Her linguistic prowess enabled her to communicate directly with various nationalities in her empire without translators.",
+    "searchKeywords": "Cleopatra languages Ptolemaic Egypt"
+  },
+  {
+    "id": "the-manuscript-of-treasure",
+    "date": "2026-12-29",
+    "category": "literature",
+    "text": "The manuscript of 'Treasure Island' was almost lost in a fire.",
+    "detail": "A fire broke out at the printer's where Robert Louis Stevenson's 'Treasure Island' was being typeset. Fortunately, the manuscript was rescued from the flames, allowing the classic adventure novel to reach readers.",
+    "searchKeywords": "Treasure Island manuscript fire Stevenson"
+  },
+  {
+    "id": "sound-travels-faster-in",
+    "date": "2026-12-30",
+    "category": "physics",
+    "text": "Sound travels faster in cold air than in warm air.",
+    "detail": "Contrary to common belief, sound can travel faster in cold air due to the denser medium, which allows sound waves to propagate more efficiently. This phenomenon explains why sounds can sometimes be heard more clearly over long distances on cold nights.",
+    "searchKeywords": "sound speed cold air physics"
+  },
+  {
+    "id": "there-are-more-ways",
+    "date": "2026-12-31",
+    "category": "math",
+    "text": "There are more ways to arrange a deck of cards than there are atoms on Earth.",
+    "detail": "A standard 52-card deck can be shuffled in approximately 8x10^67 different ways (52 factorial). This number is so vast that it exceeds the estimated number of atoms on Earth, which is about 10^50.",
+    "searchKeywords": "52 card deck permutations atoms"
+  },
+  {
+    "id": "sagittarius-b2-a-massive",
+    "date": "2027-01-01",
+    "category": "astronomy",
+    "text": "Sagittarius B2, a massive molecular cloud, contains enough alcohol to fill 400 trillion trillion pints of beer.",
+    "detail": "Located near the center of the Milky Way, Sagittarius B2 is a vast molecular cloud rich in complex organic molecules, including ethyl alcohol. This discovery suggests that the building blocks of life may be more common in space than previously thought.",
+    "searchKeywords": "Sagittarius B2 alcohol space"
   }
 ]
