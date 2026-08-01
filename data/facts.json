@@ -1678,5 +1678,485 @@
     "text": "Sagittarius B2, a massive molecular cloud, contains enough alcohol to fill 400 trillion trillion pints of beer.",
     "detail": "Located near the center of the Milky Way, Sagittarius B2 is a vast molecular cloud rich in complex organic molecules, including ethyl alcohol. This discovery suggests that the building blocks of life may be more common in space than previously thought.",
     "searchKeywords": "Sagittarius B2 alcohol space"
+  },
+  {
+    "id": "a-male-seahorse-carries",
+    "date": "2027-01-02",
+    "category": "naturalScience",
+    "text": "A male seahorse carries and births its young.",
+    "detail": "In the unique reproductive process of seahorses, it's the males that become pregnant. The female deposits eggs into the male's brood pouch, where he fertilizes and incubates them until they hatch.",
+    "searchKeywords": "seahorse male pregnancy birth"
+  },
+  {
+    "id": "winston-churchill-was-once",
+    "date": "2027-01-03",
+    "category": "famousLives",
+    "text": "Winston Churchill was once hit by a car in New York City.",
+    "detail": "In December 1931, while crossing Fifth Avenue, Churchill looked the wrong way for traffic and was struck by a car, suffering a head wound and cracked ribs. Despite this, he quickly recovered and continued his lecture tour.",
+    "searchKeywords": "Winston Churchill car accident New York"
+  },
+  {
+    "id": "the-first-detective-novel",
+    "date": "2027-01-04",
+    "category": "literature",
+    "text": "The first detective novel was written by Wilkie Collins.",
+    "detail": "Published in 1868, 'The Moonstone' by Wilkie Collins is considered the first full-length detective novel. The story features Sergeant Cuff, one of the earliest detective characters, whose methodologies influenced later detective fiction.",
+    "searchKeywords": "Wilkie Collins The Moonstone detective"
+  },
+  {
+    "id": "quantum-tunneling-enables-the",
+    "date": "2027-01-05",
+    "category": "physics",
+    "text": "Quantum tunneling enables the sun's nuclear fusion.",
+    "detail": "The sun's core temperature isn't high enough for nuclear fusion by classical physics predictions. However, quantum tunneling allows protons to overcome electrostatic forces, facilitating the fusion that powers the sun.",
+    "searchKeywords": "quantum tunneling sun nuclear fusion"
+  },
+  {
+    "id": "there-are-infinitely-many-4",
+    "date": "2027-01-06",
+    "category": "math",
+    "text": "There are infinitely many prime numbers.",
+    "detail": "This was proven by the ancient Greek mathematician Euclid around 300 BC. He demonstrated that given any list of prime numbers, it's always possible to find at least one more that isn't on the list, proving their infinity.",
+    "searchKeywords": "Euclid prime numbers infinity proof"
+  },
+  {
+    "id": "betelgeuse-the-red-supergiant",
+    "date": "2027-01-07",
+    "category": "astronomy",
+    "text": "Betelgeuse, the red supergiant star, is shrinking.",
+    "detail": "Astronomers have observed that Betelgeuse, a prominent star in the Orion constellation, has been shrinking over the past 15 years. This change may indicate it could explode as a supernova within the next 100,000 years.",
+    "searchKeywords": "Betelgeuse star shrinking supernova"
+  },
+  {
+    "id": "a-single-acre-of",
+    "date": "2027-01-08",
+    "category": "naturalScience",
+    "text": "A single acre of forest can house over 50,000 spiders.",
+    "detail": "Forests are incredibly dense communities where spiders can thrive. These arachnids play a crucial role in controlling insect populations, illustrating the intricate balance of a forest ecosystem.",
+    "searchKeywords": "forest spiders population density"
+  },
+  {
+    "id": "pablo-picasso-could-draw-2",
+    "date": "2027-01-09",
+    "category": "famousLives",
+    "text": "Pablo Picasso could draw before he could walk.",
+    "detail": "Renowned artist Pablo Picasso displayed his artistic talents as a toddler, reportedly drawing meaningless patterns that evolved into true art as he grew. His early start contributed to his prolific career, producing over 50,000 artworks.",
+    "searchKeywords": "Pablo Picasso early life drawing"
+  },
+  {
+    "id": "the-first-edition-of",
+    "date": "2027-01-10",
+    "category": "literature",
+    "text": "The first edition of 'Alice in Wonderland' was recalled.",
+    "detail": "Lewis Carroll's classic 'Alice's Adventures in Wonderland' had its initial print run recalled due to complaints about the quality of the illustrations. As a result, only a few copies exist, making them highly valuable.",
+    "searchKeywords": "Alice in Wonderland first edition recall"
+  },
+  {
+    "id": "time-passes-faster-at",
+    "date": "2027-01-11",
+    "category": "physics",
+    "text": "Time passes faster at the top of a building than at its base.",
+    "detail": "According to Einstein's theory of general relativity, time dilation means that due to the Earth's gravitational field, time moves faster at higher altitudes compared to lower ones. This effect is tiny but measurable with precise instruments.",
+    "searchKeywords": "time dilation building height relativity"
+  },
+  {
+    "id": "a-hexaflexagon-is-a",
+    "date": "2027-01-12",
+    "category": "math",
+    "text": "A hexaflexagon is a paper polygon that can be folded to reveal multiple faces.",
+    "detail": "Hexaflexagons are intriguing mathematical crafts that have fascinated both mathematicians and puzzle enthusiasts. Invented in 1939 by Arthur Stone, a British student at Princeton University, these objects can be twisted and turned to display different sides, making them a unique demonstration of geometric properties.",
+    "searchKeywords": "hexaflexagon paper folding mathematics"
+  },
+  {
+    "id": "the-largest-known-star",
+    "date": "2027-01-13",
+    "category": "astronomy",
+    "text": "The largest known star, UY Scuti, is over 1,700 times the diameter of the Sun.",
+    "detail": "UY Scuti is a red supergiant star located in the constellation Scutum, approximately 9,500 light-years away from Earth. It is considered one of the largest known stars by radius, showcasing the vast diversity of scales in the universe and challenging our perceptions of stellar sizes.",
+    "searchKeywords": "UY Scuti star size diameter"
+  },
+  {
+    "id": "the-heart-of-a-2",
+    "date": "2027-01-14",
+    "category": "naturalScience",
+    "text": "The heart of a blue whale is as large as a small car.",
+    "detail": "Blue whales are the largest animals ever known to have lived on Earth, with hearts weighing up to 1,500 pounds and measuring about the size of a compact automobile. These massive organs are essential for pumping blood through the whale's enormous body, supporting its colossal size and energy needs.",
+    "searchKeywords": "blue whale heart size animal"
+  },
+  {
+    "id": "salvador-dal-designed-the",
+    "date": "2027-01-15",
+    "category": "famousLives",
+    "text": "Salvador Dalí designed the iconic Chupa Chups logo in 1969.",
+    "detail": "The eccentric Spanish surrealist painter Salvador Dalí was commissioned to create a new logo for the Chupa Chups lollipop brand. His design, featuring the brand name inside a daisy, remains largely unchanged today and is a testament to his influence beyond the world of painting.",
+    "searchKeywords": "Salvador Dalí Chupa Chups logo design"
+  },
+  {
+    "id": "the-first-draft-of",
+    "date": "2027-01-16",
+    "category": "literature",
+    "text": "The first draft of 'Moby-Dick' was titled 'The Whale.'",
+    "detail": "Herman Melville's 'Moby-Dick,' a cornerstone of American literature, was initially published under the simpler title 'The Whale' in London. It wasn't until its debut in New York that it was retitled 'Moby-Dick; or, The Whale,' emphasizing the central focus on the enigmatic leviathan, Moby Dick.",
+    "searchKeywords": "Moby-Dick original title Herman Melville"
+  },
+  {
+    "id": "an-electric-eel-can",
+    "date": "2027-01-17",
+    "category": "physics",
+    "text": "An electric eel can generate a shock of up to 600 volts.",
+    "detail": "Electric eels, native to the Amazon and Orinoco basins in South America, are capable of producing powerful electric discharges. These shocks are used for hunting, self-defense, and communication, showcasing an incredible evolutionary adaptation among aquatic species.",
+    "searchKeywords": "electric eel voltage shock"
+  },
+  {
+    "id": "the-number-zero-was-2",
+    "date": "2027-01-18",
+    "category": "math",
+    "text": "The number zero was independently invented by the Mayans and Indians.",
+    "detail": "Zero is a concept that was developed separately in different parts of the world, notably by ancient Indian mathematicians around the 5th century and the Mayans in Mesoamerica. This numerical innovation was crucial for the advancement of mathematics, allowing for more complex calculations and the development of algebra.",
+    "searchKeywords": "zero invention Mayans Indians"
+  },
+  {
+    "id": "the-crab-nebula-is",
+    "date": "2027-01-19",
+    "category": "astronomy",
+    "text": "The Crab Nebula is a remnant of a supernova observed in 1054 AD.",
+    "detail": "The Crab Nebula is one of the most studied celestial objects, resulting from a supernova explosion recorded by Chinese astronomers nearly a millennium ago. Located in the constellation Taurus, it continues to expand at a rate of about 1,500 kilometers per second, providing insights into stellar evolution.",
+    "searchKeywords": "Crab Nebula supernova remnant"
+  },
+  {
+    "id": "some-species-of-bamboo",
+    "date": "2027-01-20",
+    "category": "naturalScience",
+    "text": "Some species of bamboo can grow up to 91 centimeters in a single day.",
+    "detail": "Bamboo is known as one of the fastest-growing plants, with certain species capable of growing almost a meter in just 24 hours under optimal conditions. This rapid growth makes bamboo a highly sustainable resource for construction, textiles, and other industries.",
+    "searchKeywords": "bamboo growth speed fast"
+  },
+  {
+    "id": "mozart-composed-more-than",
+    "date": "2027-01-21",
+    "category": "famousLives",
+    "text": "Mozart composed more than 600 works by the age of 35.",
+    "detail": "Wolfgang Amadeus Mozart, a prolific and influential composer of the classical era, left an enduring legacy through his extensive body of work. Despite his short life, his compositions covered every genre of music popular in his time, from symphonies and operas to chamber music and choral works.",
+    "searchKeywords": "Mozart compositions prolific composer"
+  },
+  {
+    "id": "moby-dick-was-originally",
+    "date": "2027-01-22",
+    "category": "literature",
+    "text": "Moby-Dick was originally published with the title 'The Whale.'",
+    "detail": "Herman Melville's now-iconic novel was first published in London under the title 'The Whale' in 1851. It was only later, when published in the United States, that it became known as 'Moby-Dick,' which has since become a classic in American literature.",
+    "searchKeywords": "Moby-Dick original title Herman Melville"
+  },
+  {
+    "id": "a-single-bolt-of",
+    "date": "2027-01-23",
+    "category": "physics",
+    "text": "A single bolt of lightning can reach temperatures five times hotter than the sun's surface.",
+    "detail": "Lightning can reach temperatures of around 30,000 Kelvin, compared to the sun's surface temperature of about 5,500 Kelvin. This incredible heat is generated by the rapid movement of electrons that creates the plasma in a lightning strike.",
+    "searchKeywords": "lightning temperature heat sun comparison"
+  },
+  {
+    "id": "the-number-73-is-2",
+    "date": "2027-01-24",
+    "category": "math",
+    "text": "The number 73 is the only number whose mirror and its inverse are both primes.",
+    "detail": "The number 73 is a unique prime number because if you reverse its digits, you get 37, which is also a prime. Additionally, the inverse of 37, which is 21/37, does not produce an integer, maintaining its prime status.",
+    "searchKeywords": "number 73 prime mirror inverse"
+  },
+  {
+    "id": "the-andromeda-galaxy-is-2",
+    "date": "2027-01-25",
+    "category": "astronomy",
+    "text": "The Andromeda Galaxy is on a collision course with the Milky Way.",
+    "detail": "The Andromeda Galaxy is the closest spiral galaxy to the Milky Way and is moving towards us at about 110 kilometers per second. Scientists predict that the two galaxies will collide in about 4.5 billion years, eventually merging to form a new galaxy.",
+    "searchKeywords": "Andromeda Galaxy Milky Way collision"
+  },
+  {
+    "id": "the-heart-of-a-3",
+    "date": "2027-01-26",
+    "category": "naturalScience",
+    "text": "The heart of a blue whale is so big that a human could swim through its arteries.",
+    "detail": "Blue whales are the largest animals on the planet, and their hearts are proportionately massive, weighing over 400 pounds. Their arteries are so large that a human adult could swim through them, illustrating the colossal scale of these marine giants.",
+    "searchKeywords": "blue whale heart size anatomy"
+  },
+  {
+    "id": "leonardo-da-vinci-could-2",
+    "date": "2027-01-27",
+    "category": "famousLives",
+    "text": "Leonardo da Vinci could write with one hand and draw with the other simultaneously.",
+    "detail": "Leonardo da Vinci, the epitome of a Renaissance man, was ambidextrous, enabling him to write with one hand while sketching with the other. This skill was part of his vast array of talents, contributing to his legendary status as an artist and inventor.",
+    "searchKeywords": "Leonardo da Vinci ambidextrous writing drawing"
+  },
+  {
+    "id": "the-word-robot-was",
+    "date": "2027-01-28",
+    "category": "literature",
+    "text": "The word 'robot' was first used in a play by Karel Čapek in 1920.",
+    "detail": "Czech writer Karel Čapek introduced the term 'robot' in his play 'R.U.R.' (Rossum's Universal Robots), which depicted a future where artificial beings overthrow their creators. The word 'robot' is derived from the Czech word 'robota,' meaning 'forced labor.'",
+    "searchKeywords": "robot word origin Karel Capek play"
+  },
+  {
+    "id": "sound-travels-four-times",
+    "date": "2027-01-29",
+    "category": "physics",
+    "text": "Sound travels four times faster in water than in air.",
+    "detail": "The speed of sound varies depending on the medium it travels through. In water, sound waves travel at approximately 1,480 meters per second, compared to about 343 meters per second in air, due to water's higher density and elasticity.",
+    "searchKeywords": "sound speed water air physics"
+  },
+  {
+    "id": "the-sum-of-the",
+    "date": "2027-01-30",
+    "category": "math",
+    "text": "The sum of the first 144 Fibonacci numbers is 33,554,393, which ends in the number 1.",
+    "detail": "This surprising result highlights the intriguing properties of the Fibonacci sequence, where each number is the sum of the two preceding ones. The sequence appears in various natural patterns and mathematical phenomena.",
+    "searchKeywords": "Fibonacci sequence sum numbers property"
+  },
+  {
+    "id": "the-sun-loses-about-2",
+    "date": "2027-01-31",
+    "category": "astronomy",
+    "text": "The Sun loses about 4 million tons of mass every second.",
+    "detail": "Through the process of nuclear fusion, the Sun converts hydrogen into helium, releasing energy and causing a slight loss of mass. This mass conversion into energy is what powers the Sun and provides light and heat to our Solar System.",
+    "searchKeywords": "Sun mass loss nuclear fusion energy"
+  },
+  {
+    "id": "sloths-can-take-up",
+    "date": "2027-02-01",
+    "category": "naturalScience",
+    "text": "Sloths can take up to a month to digest a single leaf.",
+    "detail": "This incredibly slow digestion rate is due to their low-energy diet and minimal metabolic rate. The leaves they consume have low nutritional value, requiring sloths to conserve energy by moving slowly and sleeping up to 15-20 hours a day.",
+    "searchKeywords": "sloth digestion slow leaf"
+  },
+  {
+    "id": "albert-einstein-s-eyes",
+    "date": "2027-02-02",
+    "category": "famousLives",
+    "text": "Albert Einstein's eyes were preserved in a safety deposit box in New York City.",
+    "detail": "After his death, Einstein's brain was removed for study, and his eyes were given to his ophthalmologist, Henry Abrams. They remained in a safety deposit box for years, symbolizing the bizarre posthumous journey of the famous physicist's body parts.",
+    "searchKeywords": "Albert Einstein eyes preserved"
+  },
+  {
+    "id": "shakespeare-s-play-the",
+    "date": "2027-02-03",
+    "category": "literature",
+    "text": "Shakespeare's play 'The Tempest' contains the earliest recorded use of the word 'freckles'.",
+    "detail": "In Act I, Scene II of 'The Tempest', the character Caliban uses the word 'freckles' to describe himself. This adds to the numerous innovations in language credited to Shakespeare, who is known for coining many words and phrases still in use today.",
+    "searchKeywords": "Shakespeare Tempest freckles first use"
+  },
+  {
+    "id": "the-phenomenon-of-quantum",
+    "date": "2027-02-04",
+    "category": "physics",
+    "text": "The phenomenon of 'quantum locking' allows objects to seemingly levitate in place.",
+    "detail": "Quantum locking occurs when a superconductor is cooled below its critical temperature and exhibits a unique behavior of pinning magnetic fields. This allows the superconductor to 'lock' in space above a magnet, maintaining its position even when tilted or moved.",
+    "searchKeywords": "quantum locking superconductor levitation"
+  },
+  {
+    "id": "the-number-6174-is-3",
+    "date": "2027-02-05",
+    "category": "math",
+    "text": "The number 6174 is known as Kaprekar's constant in mathematics.",
+    "detail": "Discovered by Indian mathematician D. R. Kaprekar, this constant is reached through a process of repeatedly rearranging the digits of a four-digit number in descending and ascending order and then subtracting the smaller number from the larger one. No matter the initial number, the process will ultimately lead to 6174.",
+    "searchKeywords": "Kaprekar constant 6174 mathematics"
+  },
+  {
+    "id": "there-is-a-massive",
+    "date": "2027-02-06",
+    "category": "astronomy",
+    "text": "There is a massive cloud of alcohol in the Milky Way galaxy.",
+    "detail": "Located in the Sagittarius B2 molecular cloud complex, this cloud contains enough ethyl alcohol to fill 400 trillion trillion pints of beer. While not fit for consumption, it highlights the diverse and unexpected chemistry of space.",
+    "searchKeywords": "alcohol cloud Milky Way space"
+  },
+  {
+    "id": "the-axolotl-a-mexican",
+    "date": "2027-02-07",
+    "category": "naturalScience",
+    "text": "The axolotl, a Mexican salamander, can regenerate entire limbs throughout its life.",
+    "detail": "This remarkable ability extends to body parts such as the heart, brain, and lungs, making the axolotl a focus of scientific study for regenerative medicine. Its healing process is due to the presence of specific proteins and genes that are still being investigated.",
+    "searchKeywords": "axolotl regeneration limbs heart"
+  },
+  {
+    "id": "leonardo-da-vinci-could-3",
+    "date": "2027-02-08",
+    "category": "famousLives",
+    "text": "Leonardo da Vinci could write with one hand and draw with the other simultaneously.",
+    "detail": "His ambidexterity was not only a testament to his remarkable talent but also allowed him to work more efficiently. This skill contributed to his ability to produce groundbreaking work across multiple fields, from art to engineering.",
+    "searchKeywords": "Leonardo da Vinci ambidextrous writing drawing"
+  },
+  {
+    "id": "the-first-draft-of-2",
+    "date": "2027-02-09",
+    "category": "literature",
+    "text": "The first draft of 'Treasure Island' was accidentally destroyed in a fire.",
+    "detail": "Robert Louis Stevenson had to rewrite much of the novel, which he initially penned as a serialized story for a children's magazine. Despite this setback, the final version became a classic, shaping the modern perception of pirate lore.",
+    "searchKeywords": "Treasure Island manuscript fire Stevenson"
+  },
+  {
+    "id": "the-speed-of-sound",
+    "date": "2027-02-10",
+    "category": "physics",
+    "text": "The speed of sound is faster in water than in air.",
+    "detail": "Sound waves travel through water at approximately 1,500 meters per second, compared to 343 meters per second in air. This is due to water's higher density and elasticity, which allow vibrations to pass through it more efficiently.",
+    "searchKeywords": "sound speed water air physics"
+  },
+  {
+    "id": "the-number-6174-is-4",
+    "date": "2027-02-11",
+    "category": "math",
+    "text": "The number 6174 is known as Kaprekar's constant, a number that reveals a surprising arithmetic process.",
+    "detail": "In a sequence of steps called Kaprekar's routine, take any four-digit number, rearrange its digits in descending and ascending order to get two numbers, subtract the smaller from the larger, and repeat. This will eventually yield 6174, regardless of the starting number.",
+    "searchKeywords": "Kaprekar constant 6174 math"
+  },
+  {
+    "id": "the-boomerang-nebula-is-2",
+    "date": "2027-02-12",
+    "category": "astronomy",
+    "text": "The Boomerang Nebula is the coldest place in the universe, even colder than the cosmic background radiation.",
+    "detail": "Located about 5,000 light-years away in the constellation Centaurus, the Boomerang Nebula has a temperature of just 1 Kelvin, or -272.15 degrees Celsius. This extreme coldness is due to the rapid expansion of gas from the central star.",
+    "searchKeywords": "Boomerang Nebula coldest universe"
+  },
+  {
+    "id": "the-immortal-jellyfish-turritopsis-3",
+    "date": "2027-02-13",
+    "category": "naturalScience",
+    "text": "The immortal jellyfish, Turritopsis dohrnii, can reverse its aging process and return to its juvenile form.",
+    "detail": "This unique capability allows the jellyfish to escape death and potentially live indefinitely, by reverting to its younger polyp state through a process called transdifferentiation. This remarkable adaptation has sparked interest in biological immortality.",
+    "searchKeywords": "immortal jellyfish Turritopsis dohrnii"
+  },
+  {
+    "id": "marie-curie-is-the-2",
+    "date": "2027-02-14",
+    "category": "famousLives",
+    "text": "Marie Curie is the only person to win Nobel Prizes in two different scientific fields: Physics and Chemistry.",
+    "detail": "She received the Physics Prize in 1903 for her work on radioactivity, shared with her husband Pierre Curie and Henri Becquerel, and the Chemistry Prize in 1911 for her discovery of the elements radium and polonium. Curie remains a trailblazer for women in science.",
+    "searchKeywords": "Marie Curie Nobel Prizes"
+  },
+  {
+    "id": "the-word-nerd-was-2",
+    "date": "2027-02-15",
+    "category": "literature",
+    "text": "The word 'nerd' was coined by Dr. Seuss in his 1950 book 'If I Ran the Zoo'.",
+    "detail": "In the book, a character mentions wanting to collect a 'nerd' for his imaginary zoo. The term gradually entered popular vernacular, evolving to describe a socially awkward or intellectually passionate person.",
+    "searchKeywords": "Dr Seuss nerd origin"
+  },
+  {
+    "id": "light-can-travel-slower",
+    "date": "2027-02-16",
+    "category": "physics",
+    "text": "Light can travel slower than its maximum speed in a vacuum when it passes through certain materials.",
+    "detail": "This phenomenon is known as refraction, where light waves slow down and change direction when passing through materials like glass or water due to their higher refractive index compared to a vacuum.",
+    "searchKeywords": "light speed refraction materials"
+  },
+  {
+    "id": "euler-s-number-approximately",
+    "date": "2027-02-17",
+    "category": "math",
+    "text": "Euler's number, approximately 2.718, is a crucial constant in mathematics, appearing in calculus, complex numbers, and number theory.",
+    "detail": "Known as 'e', this irrational number forms the base of natural logarithms and arises naturally in the study of growth processes, compound interest, and the behavior of exponential functions.",
+    "searchKeywords": "Euler number e natural logarithm"
+  },
+  {
+    "id": "the-andromeda-galaxy-is-3",
+    "date": "2027-02-18",
+    "category": "astronomy",
+    "text": "The Andromeda Galaxy is on a collision course with the Milky Way, set to merge in about 4.5 billion years.",
+    "detail": "Both galaxies are spirals, and their eventual merging is expected to form a new elliptical galaxy. Despite the immense size of these galaxies, individual stars are unlikely to collide due to the vast distances between them.",
+    "searchKeywords": "Andromeda Milky Way collision"
+  },
+  {
+    "id": "parts-of-the-amazon",
+    "date": "2027-02-19",
+    "category": "naturalScience",
+    "text": "Parts of the Amazon rainforest can produce more than 20% of the world's oxygen supply.",
+    "detail": "Known as the 'lungs of the Earth', the Amazon's dense forests continuously absorb large amounts of carbon dioxide and release oxygen through photosynthesis, playing a crucial role in global air quality and climate regulation.",
+    "searchKeywords": "Amazon rainforest oxygen production"
+  },
+  {
+    "id": "winston-churchill-was-awarded",
+    "date": "2027-02-20",
+    "category": "famousLives",
+    "text": "Winston Churchill was awarded the Nobel Prize in Literature in 1953 for his historical writings and speeches.",
+    "detail": "Churchill was recognized not only for his political leadership but also for his mastery of historical and biographical writing. His six-volume work on the Second World War was particularly noted for its insightful analysis and eloquent prose.",
+    "searchKeywords": "Winston Churchill Nobel Prize Literature"
+  },
+  {
+    "id": "the-original-title-of",
+    "date": "2027-02-21",
+    "category": "literature",
+    "text": "The original title of 'Pride and Prejudice' was 'First Impressions'.",
+    "detail": "Jane Austen initially named her famous novel 'First Impressions' when she began writing it in 1796. The title 'Pride and Prejudice' was chosen when it was published in 1813, capturing the complex social dynamics of its characters.",
+    "searchKeywords": "Pride and Prejudice original title"
+  },
+  {
+    "id": "superconductors-can-make-magnetic",
+    "date": "2027-02-22",
+    "category": "physics",
+    "text": "Superconductors can make magnetic fields levitate.",
+    "detail": "A fascinating effect of superconductivity is magnetic levitation, where a magnet can float above a superconducting material due to the Meissner effect. This effect expels magnetic fields, creating a stable levitation over the superconductor.",
+    "searchKeywords": "superconductors magnetic levitation Meissner effect"
+  },
+  {
+    "id": "the-number-pi-is",
+    "date": "2027-02-23",
+    "category": "math",
+    "text": "The number pi is both irrational and transcendental.",
+    "detail": "Not only does pi (π) have an infinite number of non-repeating digits, making it irrational, but it is also transcendental, meaning it is not a root of any non-zero polynomial equation with rational coefficients. This highlights its uniqueness among numbers.",
+    "searchKeywords": "pi number irrational transcendental"
+  },
+  {
+    "id": "a-day-on-mercury-3",
+    "date": "2027-02-24",
+    "category": "astronomy",
+    "text": "A day on Mercury is longer than a year on Mercury.",
+    "detail": "Mercury takes 88 Earth days to complete one orbit around the Sun, defining its year. However, due to its slow rotation, it takes 176 Earth days to complete a single rotation, making its day twice as long as its year.",
+    "searchKeywords": "Mercury day year rotation orbit"
+  },
+  {
+    "id": "the-heart-of-a-4",
+    "date": "2027-02-25",
+    "category": "naturalScience",
+    "text": "The heart of a blue whale is as large as a small car.",
+    "detail": "Weighing up to 1,500 pounds, the blue whale's heart is the largest of any animal on Earth. It beats approximately every 10 seconds and pumps around 60 gallons of blood per beat, sustaining the whale's massive body.",
+    "searchKeywords": "blue whale heart size weight"
+  },
+  {
+    "id": "leonardo-da-vinci-was",
+    "date": "2027-02-26",
+    "category": "famousLives",
+    "text": "Leonardo da Vinci was ambidextrous.",
+    "detail": "Leonardo da Vinci could write with one hand and draw with the other simultaneously. His ambidexterity allowed him to create detailed and complex works of art and science, contributing to his reputation as a true Renaissance genius.",
+    "searchKeywords": "Leonardo da Vinci ambidextrous writing drawing"
+  },
+  {
+    "id": "franz-kafka-s-the",
+    "date": "2027-02-27",
+    "category": "literature",
+    "text": "Franz Kafka's 'The Metamorphosis' was inspired by his own feelings of alienation.",
+    "detail": "Kafka's novel, where the protagonist transforms into a giant insect, reflects his personal experiences of feeling isolated and misunderstood. Despite its fantastical premise, the story captures universal human emotions of detachment and identity struggles.",
+    "searchKeywords": "Franz Kafka Metamorphosis inspiration"
+  },
+  {
+    "id": "time-moves-slower-in",
+    "date": "2027-02-28",
+    "category": "physics",
+    "text": "Time moves slower in stronger gravitational fields.",
+    "detail": "According to Einstein's theory of general relativity, time dilation occurs near massive objects, such as black holes, where gravitational forces are intense. Clocks in these regions tick slower compared to those in weaker gravitational fields.",
+    "searchKeywords": "time dilation gravity Einstein relativity"
+  },
+  {
+    "id": "the-number-6-is",
+    "date": "2027-03-01",
+    "category": "math",
+    "text": "The number 6 is the smallest perfect number.",
+    "detail": "A perfect number is one that equals the sum of its proper divisors. For 6, its divisors are 1, 2, and 3, and the sum of these (1+2+3) equals 6 itself, making it the smallest in this rare category of numbers.",
+    "searchKeywords": "smallest perfect number six divisors"
+  },
+  {
+    "id": "there-are-potentially-more",
+    "date": "2027-03-02",
+    "category": "astronomy",
+    "text": "There are potentially more stars in the universe than grains of sand on Earth.",
+    "detail": "Astronomers estimate that there are about 100 billion galaxies, each containing millions or even billions of stars. This enormity suggests there are more stars across the cosmos than all the grains of sand on Earth's beaches.",
+    "searchKeywords": "universe stars grains sand comparison"
   }
 ]
