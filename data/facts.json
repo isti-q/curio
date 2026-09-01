@@ -2158,5 +2158,485 @@
     "text": "There are potentially more stars in the universe than grains of sand on Earth.",
     "detail": "Astronomers estimate that there are about 100 billion galaxies, each containing millions or even billions of stars. This enormity suggests there are more stars across the cosmos than all the grains of sand on Earth's beaches.",
     "searchKeywords": "universe stars grains sand comparison"
+  },
+  {
+    "id": "a-single-teaspoon-of",
+    "date": "2027-03-03",
+    "category": "naturalScience",
+    "text": "A single teaspoon of honey represents the lifelong work of approximately twelve bees.",
+    "detail": "Bees work tirelessly throughout their lives to produce honey, which acts as their food source. To produce just one pound of honey, a colony of bees must collectively visit over 2 million flowers and fly about 55,000 miles.",
+    "searchKeywords": "honey bees production flowers"
+  },
+  {
+    "id": "winston-churchill-was-awarded-2",
+    "date": "2027-03-04",
+    "category": "famousLives",
+    "text": "Winston Churchill was awarded the Nobel Prize in Literature in 1953, not for his political achievements but for his historical and biographical writings.",
+    "detail": "Churchill was recognized for his mastery of historical and biographical descriptions and his brilliant oratory in defending exalted human values. His six-volume series, 'The Second World War', was particularly influential in the award decision.",
+    "searchKeywords": "Winston Churchill Nobel Prize Literature"
+  },
+  {
+    "id": "j-r-r-tolkien-5",
+    "date": "2027-03-05",
+    "category": "literature",
+    "text": "J.R.R. Tolkien, besides being a celebrated author, was an Oxford professor who specialized in Old and Middle English literature.",
+    "detail": "Tolkien's deep knowledge of ancient languages and literature greatly influenced his creation of complex fictional worlds, such as Middle-earth. His academic work on texts like 'Beowulf' was highly respected and remains influential in the field.",
+    "searchKeywords": "JRR Tolkien Oxford professor literature"
+  },
+  {
+    "id": "the-casimir-effect-demonstrates-2",
+    "date": "2027-03-06",
+    "category": "physics",
+    "text": "The Casimir effect demonstrates that empty space can exert a force due to quantum fluctuations.",
+    "detail": "When two uncharged metal plates are placed very close to each other in a vacuum, they are attracted to each other because of the Casimir effect. This surprising phenomenon arises from the quantum nature of empty space, where virtual particles constantly pop in and out of existence.",
+    "searchKeywords": "Casimir effect quantum vacuum force"
+  },
+  {
+    "id": "the-concept-of-a",
+    "date": "2027-03-07",
+    "category": "math",
+    "text": "The concept of a 'googol' was invented by a nine-year-old boy named Milton Sirotta in 1920.",
+    "detail": "A googol is the number 1 followed by 100 zeros. It was coined by Milton Sirotta, the nephew of mathematician Edward Kasner, to represent a very large, unimaginable number. This term is part of popular culture, inspiring the name of the search engine Google.",
+    "searchKeywords": "googol number invention Milton Sirotta"
+  },
+  {
+    "id": "the-boomerang-nebula-is-3",
+    "date": "2027-03-08",
+    "category": "astronomy",
+    "text": "The Boomerang Nebula is the coldest known place in the universe with a temperature of -458 degrees Fahrenheit.",
+    "detail": "Located about 5,000 light-years away, the Boomerang Nebula is colder than the cosmic microwave background radiation that permeates the universe. This extreme cold temperature is due to the rapid expansion of its gas, which cools it significantly.",
+    "searchKeywords": "Boomerang Nebula coldest universe"
+  },
+  {
+    "id": "platypuses-glow-under-uv",
+    "date": "2027-03-09",
+    "category": "naturalScience",
+    "text": "Platypuses glow under UV light, exhibiting a biofluorescent greenish-blue light.",
+    "detail": "This unexpected property of platypuses was discovered in recent studies and adds them to the short list of biofluorescent mammals. The reason for this biofluorescence is not fully understood, but it could play a role in communication or camouflage in their natural habitats.",
+    "searchKeywords": "platypus biofluorescence UV light"
+  },
+  {
+    "id": "charlie-chaplin-once-entered",
+    "date": "2027-03-10",
+    "category": "famousLives",
+    "text": "Charlie Chaplin once entered a Charlie Chaplin look-alike contest and lost.",
+    "detail": "Despite being one of the most recognizable figures in the world, Chaplin did not win the contest, showing how even iconic appearances can be subjectively judged. The event highlights Chaplin's ubiquitous influence during the silent film era.",
+    "searchKeywords": "Charlie Chaplin look alike contest"
+  },
+  {
+    "id": "bram-stoker-s-dracula",
+    "date": "2027-03-11",
+    "category": "literature",
+    "text": "Bram Stoker's Dracula may have been inspired by a real-life 15th-century prince known as Vlad the Impaler.",
+    "detail": "Vlad III, or Vlad the Impaler, was known for his brutal methods of punishing his enemies, which included impaling them on stakes. While Stoker's novel does not directly align with Vlad's life, the legend of this historical figure influenced the creation of the infamous vampire count.",
+    "searchKeywords": "Bram Stoker Dracula Vlad Impaler"
+  },
+  {
+    "id": "superconductors-can-levitate-magnets",
+    "date": "2027-03-12",
+    "category": "physics",
+    "text": "Superconductors can levitate magnets due to the Meissner effect, which expels magnetic fields from their interior.",
+    "detail": "When a superconductor is cooled below its critical temperature, it exhibits zero electrical resistance and expels magnetic fields, enabling magnetic levitation. This phenomenon is a cornerstone of advanced technologies, such as magnetic levitation trains.",
+    "searchKeywords": "superconductors magnetic levitation Meissner"
+  },
+  {
+    "id": "the-number-1-is",
+    "date": "2027-03-13",
+    "category": "math",
+    "text": "The number 1 is not considered a prime number.",
+    "detail": "Although 1 meets the basic definition of a prime number having only itself and 1 as divisors, it is excluded from the set of prime numbers to preserve the fundamental theorem of arithmetic, which states every number has a unique prime factorization.",
+    "searchKeywords": "number 1 prime definition arithmetic"
+  },
+  {
+    "id": "there-is-a-potentially",
+    "date": "2027-03-14",
+    "category": "astronomy",
+    "text": "There is a potentially habitable exoplanet just 4.2 light-years away.",
+    "detail": "Proxima Centauri b, orbiting the star Proxima Centauri in the Alpha Centauri star system, is one of the closest known exoplanets to Earth. It's located in the star's habitable zone, where conditions might be right for liquid water to exist.",
+    "searchKeywords": "Proxima Centauri b exoplanet habitable"
+  },
+  {
+    "id": "crows-can-recognize-individual",
+    "date": "2027-03-15",
+    "category": "naturalScience",
+    "text": "Crows can recognize individual human faces.",
+    "detail": "Research has shown that crows have the ability to remember and differentiate between human faces. They can hold grudges against people they perceive as threats and pass this information down to their offspring.",
+    "searchKeywords": "crows human face recognition behavior"
+  },
+  {
+    "id": "mahatma-gandhi-was-nominated",
+    "date": "2027-03-16",
+    "category": "famousLives",
+    "text": "Mahatma Gandhi was nominated for the Nobel Peace Prize five times but never won.",
+    "detail": "Despite his significant contributions to peace and nonviolence, Gandhi never received the Nobel Peace Prize. The Nobel Committee has since expressed regret for this oversight.",
+    "searchKeywords": "Mahatma Gandhi Nobel Peace Prize nominations"
+  },
+  {
+    "id": "george-orwell-fought-in",
+    "date": "2027-03-17",
+    "category": "literature",
+    "text": "George Orwell fought in the Spanish Civil War.",
+    "detail": "Before he became famous for his literary works like '1984' and 'Animal Farm,' George Orwell, whose real name was Eric Arthur Blair, fought against Franco's forces in Spain. His experiences there greatly influenced his writing.",
+    "searchKeywords": "George Orwell Spanish Civil War fighting"
+  },
+  {
+    "id": "the-sound-of-a",
+    "date": "2027-03-18",
+    "category": "physics",
+    "text": "The sound of a whip cracking is a mini sonic boom.",
+    "detail": "When a whip is cracked, the tip of the whip moves faster than the speed of sound, creating a small sonic boom. This phenomenon is why you hear a loud snap sound.",
+    "searchKeywords": "whip cracking sound sonic boom"
+  },
+  {
+    "id": "a-googol-is-a-2",
+    "date": "2027-03-19",
+    "category": "math",
+    "text": "A googol is a 1 followed by 100 zeros.",
+    "detail": "The term 'googol' was coined by Milton Sirotta, the nine-year-old nephew of mathematician Edward Kasner, to represent a very large number. It was created to illustrate the difference between an unimaginably large number and infinity.",
+    "searchKeywords": "googol number zeros name origin"
+  },
+  {
+    "id": "triton-neptune-s-largest",
+    "date": "2027-03-20",
+    "category": "astronomy",
+    "text": "Triton, Neptune’s largest moon, orbits in the opposite direction to Neptune’s rotation.",
+    "detail": "Triton is unique among large moons in the Solar System because it has a retrograde orbit, suggesting it may have been captured by Neptune's gravity. This unusual orbit makes Triton an object of great interest to astronomers.",
+    "searchKeywords": "Triton Neptune moon retrograde orbit"
+  },
+  {
+    "id": "jellyfish-have-been-roaming",
+    "date": "2027-03-21",
+    "category": "naturalScience",
+    "text": "Jellyfish have been roaming the oceans for at least 500 million years.",
+    "detail": "These simple, gelatinous creatures predate dinosaurs and have survived multiple mass extinction events, thriving in oceans around the world due to their simple body structure and reproductive strategies.",
+    "searchKeywords": "jellyfish ancient ocean survival"
+  },
+  {
+    "id": "mozart-composed-over-600",
+    "date": "2027-03-22",
+    "category": "famousLives",
+    "text": "Mozart composed over 600 works, including symphonies and operas, before his death at 35.",
+    "detail": "Wolfgang Amadeus Mozart was a prolific and influential composer of the Classical period. Despite his short life, his extensive body of work continues to influence classical music with its depth and complexity.",
+    "searchKeywords": "Mozart compositions prolific classical"
+  },
+  {
+    "id": "jorge-luis-borges-read",
+    "date": "2027-03-23",
+    "category": "literature",
+    "text": "Jorge Luis Borges read an entire encyclopedia as a child.",
+    "detail": "Jorge Luis Borges, the famous Argentine writer, reportedly read the entire 20-volume edition of the 'British Encylopaedia' before his 10th birthday, which profoundly influenced his literary style and ideas. His fascination with encyclopedic knowledge can be seen in his intricate stories that often explore labyrinthine structures and endless libraries.",
+    "searchKeywords": "Jorge Luis Borges childhood reading encyclopedia"
+  },
+  {
+    "id": "antimatter-costs-about-62",
+    "date": "2027-03-24",
+    "category": "physics",
+    "text": "Antimatter costs about $62.5 trillion per gram.",
+    "detail": "Antimatter is one of the most expensive substances on Earth due to the difficulty of producing it. It is created in particle accelerators at facilities like CERN and is used in scientific research, including studies on the Big Bang and cancer treatment innovations.",
+    "searchKeywords": "antimatter cost production CERN"
+  },
+  {
+    "id": "the-number-1-is-2",
+    "date": "2027-03-25",
+    "category": "math",
+    "text": "The number 1 is not considered a prime number.",
+    "detail": "In mathematics, a prime number is defined as a natural number greater than 1 that has no positive divisors other than 1 and itself. While 1 was considered prime until the 19th century, modern conventions exclude it to preserve the fundamental theorem of arithmetic, which states that every integer greater than 1 has a unique prime factorization.",
+    "searchKeywords": "number 1 prime definition arithmetic"
+  },
+  {
+    "id": "the-moon-is-slowly",
+    "date": "2027-03-26",
+    "category": "astronomy",
+    "text": "The Moon is slowly moving away from Earth at a rate of 3.8 centimeters per year.",
+    "detail": "This gradual drift is caused by tidal forces between the Earth and the Moon, which transfer Earth's rotational momentum to the Moon, pushing it into a higher orbit. Over millions of years, this will affect the length of Earth's day and the appearance of solar eclipses.",
+    "searchKeywords": "moon moving away Earth distance"
+  },
+  {
+    "id": "crows-are-capable-of",
+    "date": "2027-03-27",
+    "category": "naturalScience",
+    "text": "Crows are capable of recognizing individual human faces.",
+    "detail": "Studies have shown that crows can remember human faces and differentiate between those who mean them harm and those who don't. They can even teach other crows which humans to be wary of, showcasing their impressive cognitive abilities and complex social structures.",
+    "searchKeywords": "crows human face recognition behavior"
+  },
+  {
+    "id": "winston-churchill-won-the",
+    "date": "2027-03-28",
+    "category": "famousLives",
+    "text": "Winston Churchill won the Nobel Prize in Literature in 1953.",
+    "detail": "Although known primarily as a political leader during World War II, Winston Churchill was also a prolific writer. His Nobel Prize was awarded 'for his mastery of historical and biographical description as well as for brilliant oratory in defending exalted human values.'",
+    "searchKeywords": "Winston Churchill Nobel Prize Literature"
+  },
+  {
+    "id": "franz-kafka-s-the-2",
+    "date": "2027-03-29",
+    "category": "literature",
+    "text": "Franz Kafka's 'The Metamorphosis' was inspired by his own feelings of alienation.",
+    "detail": "Kafka, an influential writer of the 20th century, infused his work with themes of existential dread and bureaucratic absurdity, mirroring his personal struggles with self-identity and societal expectations. 'The Metamorphosis' vividly reflects these themes through the protagonist's transformation into an insect.",
+    "searchKeywords": "Franz Kafka Metamorphosis inspiration"
+  },
+  {
+    "id": "quantum-tunneling-allows-particles",
+    "date": "2027-03-30",
+    "category": "physics",
+    "text": "Quantum tunneling allows particles to pass through barriers.",
+    "detail": "In quantum mechanics, particles can tunnel through energy barriers even if they do not have enough energy to overcome them classically. This phenomenon is crucial in many processes, including nuclear fusion in stars and the operation of modern electronics like semiconductors.",
+    "searchKeywords": "quantum tunneling particles physics"
+  },
+  {
+    "id": "a-googol-is-a-3",
+    "date": "2027-03-31",
+    "category": "math",
+    "text": "A googol is a 1 followed by 100 zeros.",
+    "detail": "Coined by Milton Sirotta, the nine-year-old nephew of mathematician Edward Kasner, a googol represents an extremely large number. It was named to give a sense of scale to unimaginably large figures, even though it is still finite and used more for illustrative purposes.",
+    "searchKeywords": "googol number zeros name origin"
+  },
+  {
+    "id": "triton-neptune-s-largest-2",
+    "date": "2027-04-01",
+    "category": "astronomy",
+    "text": "Triton, Neptune's largest moon, has a retrograde orbit.",
+    "detail": "Triton's orbit is unique among large moons as it moves in the opposite direction to Neptune's rotation. This suggests it was captured by Neptune's gravity rather than forming in place, making it an object of interest for astronomers studying planetary system dynamics.",
+    "searchKeywords": "Triton Neptune moon retrograde orbit"
+  },
+  {
+    "id": "the-tongue-of-a",
+    "date": "2027-04-02",
+    "category": "naturalScience",
+    "text": "The tongue of a blue whale can weigh as much as an elephant.",
+    "detail": "Blue whales are the largest animals ever known to have lived on Earth. Their tongues alone can weigh about 2.7 metric tons, equivalent to the size of a full-grown elephant. These massive tongues allow them to filter-feed effectively in the ocean, consuming up to 3,600 kilograms of krill daily.",
+    "searchKeywords": "blue whale tongue weight elephant"
+  },
+  {
+    "id": "nikola-tesla-once-received",
+    "date": "2027-04-03",
+    "category": "famousLives",
+    "text": "Nikola Tesla once received a commendation from the city of New York for creating artificial lightning.",
+    "detail": "In 1896, Tesla stunned onlookers by producing artificial lightning in his laboratory, a feat that demonstrated his pioneering work with AC electricity and resonant circuits. His impressive display of electrical power and its potential earned him recognition and a commendation from the city, highlighting his contributions to electrical engineering.",
+    "searchKeywords": "Nikola Tesla artificial lightning New York"
+  },
+  {
+    "id": "j-k-rowling-made",
+    "date": "2027-04-04",
+    "category": "literature",
+    "text": "J.K. Rowling made up the game of Quidditch after a fight with her boyfriend.",
+    "detail": "Quidditch, the magical sport played on broomsticks in the Harry Potter series, was invented by J.K. Rowling after a heated argument with her then-boyfriend. She has said that creating the game was a therapeutic way to channel her emotions, and it has since become an iconic part of the wizarding world.",
+    "searchKeywords": "JK Rowling Quidditch invention boyfriend"
+  },
+  {
+    "id": "a-teaspoon-of-a",
+    "date": "2027-04-05",
+    "category": "physics",
+    "text": "A teaspoon of a neutron star would weigh about 6 billion tons.",
+    "detail": "Neutron stars are incredibly dense remnants of supernova explosions. The gravitational pressure during their formation compresses their core to the point where protons and electrons merge into neutrons. This density is so extreme that a sugar-cube-sized amount of neutron-star material would weigh about the same as all of humanity combined.",
+    "searchKeywords": "neutron star density weight teaspoon"
+  },
+  {
+    "id": "the-number-2-is",
+    "date": "2027-04-06",
+    "category": "math",
+    "text": "The number 2 is the only even prime number.",
+    "detail": "In mathematics, a prime number is defined as a natural number greater than 1 that has no positive divisors other than 1 and itself. While most prime numbers are odd, 2 is unique as the sole even prime because any other even number can be divided by 2, which means they have additional divisors.",
+    "searchKeywords": "number 2 even prime unique"
+  },
+  {
+    "id": "on-mars-sunsets-appear",
+    "date": "2027-04-07",
+    "category": "astronomy",
+    "text": "On Mars, sunsets appear blue.",
+    "detail": "The thin atmosphere of Mars, filled with fine dust particles, scatters sunlight differently than Earth's atmosphere. During a Martian sunset, the dust allows blue light to penetrate the atmosphere more efficiently than red light, creating a picturesque blue sunset that contrasts with the typical red-orange hues seen during the day.",
+    "searchKeywords": "Mars sunset color blue"
+  },
+  {
+    "id": "some-plants-can-make",
+    "date": "2027-04-08",
+    "category": "naturalScience",
+    "text": "Some plants can make noise to attract pollinators.",
+    "detail": "Certain plants, like some species of tobacco and tomato, have been observed to produce ultrasonic sounds when they are under stress, such as from dehydration. These sounds, which humans cannot hear, may serve to attract pollinators or repel herbivores, highlighting the complex ways plants interact with their environment.",
+    "searchKeywords": "plants noise pollinators ultrasonic"
+  },
+  {
+    "id": "george-washington-didn-t",
+    "date": "2027-04-09",
+    "category": "famousLives",
+    "text": "George Washington didn't have wooden teeth, but instead wore dentures made from various materials.",
+    "detail": "Contrary to popular belief, the first president of the United States, George Washington, never had wooden teeth. His dentures were crafted from materials including ivory, gold, lead, and even human and animal teeth. This mix reflected the dental practices of the 18th century and Washington's struggle with dental issues throughout his life.",
+    "searchKeywords": "George Washington teeth dentures materials"
+  },
+  {
+    "id": "ernest-hemingway-survived-two",
+    "date": "2027-04-10",
+    "category": "literature",
+    "text": "Ernest Hemingway survived two plane crashes within two days.",
+    "detail": "In 1954, while on an African safari, Hemingway and his wife were involved in two successive plane crashes. The first crash left them stranded in the jungle with injuries, and while being rescued, their second plane caught fire and crashed. Despite these near-death experiences, Hemingway survived and continued his prolific writing career.",
+    "searchKeywords": "Ernest Hemingway plane crashes survival"
+  },
+  {
+    "id": "quantum-tunneling-allows-particles-2",
+    "date": "2027-04-11",
+    "category": "physics",
+    "text": "Quantum tunneling allows particles to pass through barriers they seemingly shouldn't.",
+    "detail": "Quantum tunneling is a phenomenon where particles, such as electrons, can pass through potential energy barriers that would be insurmountable according to classical physics. This occurs due to their wave-like properties and is a fundamental principle in quantum mechanics, playing a crucial role in technologies like semiconductors and nuclear fusion.",
+    "searchKeywords": "quantum tunneling particles barriers"
+  },
+  {
+    "id": "the-number-2520-is",
+    "date": "2027-04-12",
+    "category": "math",
+    "text": "The number 2520 is the smallest number divisible by all numbers from 1 to 10.",
+    "detail": "This unique property makes 2520 a highly composite number, meaning it has more divisors than any smaller positive integer. The ability of 2520 to be evenly divided by each number from 1 to 10 without any remainder is a fascinating aspect of number theory.",
+    "searchKeywords": "smallest number divisible 1 to 10"
+  },
+  {
+    "id": "the-sun-makes-up",
+    "date": "2027-04-13",
+    "category": "astronomy",
+    "text": "The Sun makes up about 99.86% of the total mass of the Solar System.",
+    "detail": "This massive proportion includes all the planets, moons, asteroids, comets, and other celestial bodies, yet the Sun's mass dominates the system. The Sun’s gravitational pull is what keeps all these bodies in orbit around it.",
+    "searchKeywords": "Sun mass solar system percentage"
+  },
+  {
+    "id": "the-greenland-shark-can",
+    "date": "2027-04-14",
+    "category": "naturalScience",
+    "text": "The Greenland shark can live for over 400 years, making it the longest-living vertebrate known.",
+    "detail": "Researchers use techniques such as radiocarbon dating of the eye lens nuclei to estimate the age of these sharks. Their impressive lifespan allows them to witness centuries of ecological changes in their environment.",
+    "searchKeywords": "Greenland shark lifespan oldest vertebrate"
+  },
+  {
+    "id": "leonardo-da-vinci-could-4",
+    "date": "2027-04-15",
+    "category": "famousLives",
+    "text": "Leonardo da Vinci could write with one hand and draw with the other simultaneously.",
+    "detail": "This ambidextrous skill, known as mirror writing, is evident in many of da Vinci’s notebooks, where he wrote in reverse to keep his notes private. His ability showcases his extraordinary multitasking capabilities and creative genius.",
+    "searchKeywords": "Leonardo da Vinci ambidextrous drawing writing"
+  },
+  {
+    "id": "james-joyce-s-novel",
+    "date": "2027-04-16",
+    "category": "literature",
+    "text": "James Joyce's novel 'Finnegans Wake' is written in a unique, often nonsensical style that combines elements from numerous languages.",
+    "detail": "This complexity and richness in language is meant to mimic the fluidity and chaos of dreams. The novel's experimental prose makes it one of the most challenging works of literature to read and interpret.",
+    "searchKeywords": "Finnegans Wake James Joyce language style"
+  },
+  {
+    "id": "a-teaspoon-of-neutron-3",
+    "date": "2027-04-17",
+    "category": "physics",
+    "text": "A teaspoon of neutron star material would weigh about 6 billion tons on Earth.",
+    "detail": "Neutron stars form from the remnants of massive stars after a supernova and are incredibly dense. The immense gravitational force compresses their mass to unimaginable densities, making them one of the universe's most extreme objects.",
+    "searchKeywords": "neutron star density weight teaspoon"
+  },
+  {
+    "id": "the-number-zero-was-3",
+    "date": "2027-04-18",
+    "category": "math",
+    "text": "The number zero was independently invented by ancient civilizations, including the Mayans and in India.",
+    "detail": "Each civilization developed the concept of zero for different reasons, which significantly advanced mathematics by introducing a placeholder in place value systems and allowing for more complex calculations.",
+    "searchKeywords": "zero invention Mayans India"
+  },
+  {
+    "id": "there-is-a-massive-2",
+    "date": "2027-04-19",
+    "category": "astronomy",
+    "text": "There is a massive cloud of alcohol spanning 288 billion miles across the Milky Way.",
+    "detail": "Known as Sagittarius B2, this molecular cloud contains enough ethyl alcohol to fill 400 trillion trillion pints of beer. It resides near the center of our galaxy and provides insight into the complex chemical processes occurring in space.",
+    "searchKeywords": "alcohol cloud Sagittarius B2 Milky Way"
+  },
+  {
+    "id": "trees-can-communicate-and",
+    "date": "2027-04-20",
+    "category": "naturalScience",
+    "text": "Trees can communicate and share resources through a network of underground fungi.",
+    "detail": "This symbiotic relationship, known as the 'Wood Wide Web,' allows trees to transfer nutrients and signals to one another over long distances. This communication network plays a crucial role in forest health and resilience.",
+    "searchKeywords": "trees underground fungi communication"
+  },
+  {
+    "id": "mozart-wrote-his-first",
+    "date": "2027-04-21",
+    "category": "famousLives",
+    "text": "Mozart wrote his first piece of music when he was just five years old.",
+    "detail": "As a child prodigy, Wolfgang Amadeus Mozart began composing music at a remarkably young age, showcasing his exceptional talent and creativity. This early start laid the foundation for his future as one of history's greatest composers.",
+    "searchKeywords": "Mozart first music piece age five"
+  },
+  {
+    "id": "the-longest-novel-ever",
+    "date": "2027-04-22",
+    "category": "literature",
+    "text": "The longest novel ever written is 'In Search of Lost Time' by Marcel Proust.",
+    "detail": "With over 1.2 million words, 'In Search of Lost Time' is considered the longest novel. It was published in seven volumes between 1913 and 1927, exploring themes of memory and time.",
+    "searchKeywords": "Proust longest novel word count"
+  },
+  {
+    "id": "the-most-slippery-substance",
+    "date": "2027-04-23",
+    "category": "physics",
+    "text": "The most slippery substance known is a form of graphene.",
+    "detail": "Graphene, a single layer of carbon atoms arranged in a hexagonal lattice, is incredibly slippery due to its low friction coefficient. This property has potential applications in nanotechnology and lubrication.",
+    "searchKeywords": "graphene slipperiest substance friction"
+  },
+  {
+    "id": "the-sum-of-all",
+    "date": "2027-04-24",
+    "category": "math",
+    "text": "The sum of all natural numbers is a surprising result in theoretical math.",
+    "detail": "In a controversial result, the sum of all natural numbers (1 + 2 + 3 + 4 + ...) is given as -1/12 in some contexts, such as string theory. This result doesn't mean adding the numbers normally results in -1/12, but rather it emerges in analytical continuation methods.",
+    "searchKeywords": "sum natural numbers negative result math"
+  },
+  {
+    "id": "the-star-betelgeuse-is",
+    "date": "2027-04-25",
+    "category": "astronomy",
+    "text": "The star Betelgeuse is expected to supernova soon.",
+    "detail": "Betelgeuse, a red supergiant in the Orion constellation, has been dimming, suggesting it may go supernova within the next 100,000 years. This event will be visible from Earth, potentially even during the day.",
+    "searchKeywords": "Betelgeuse supernova red supergiant"
+  },
+  {
+    "id": "jellyfish-are-biologically-immortal",
+    "date": "2027-04-26",
+    "category": "naturalScience",
+    "text": "Jellyfish are biologically immortal under certain conditions.",
+    "detail": "The Turritopsis dohrnii, often called the 'immortal jellyfish,' can revert to its earlier life stage after reaching maturity. This cycle can theoretically continue indefinitely, allowing the jellyfish to avoid death from natural causes.",
+    "searchKeywords": "immortal jellyfish lifecycle Turritopsis dohrnii"
+  },
+  {
+    "id": "thomas-edison-held-over",
+    "date": "2027-04-27",
+    "category": "famousLives",
+    "text": "Thomas Edison held over 1,000 patents.",
+    "detail": "Edison, known for inventing the phonograph and the practical electric light bulb, was an incredibly prolific inventor. His wide array of patents span areas such as electric power, sound recording, and motion pictures.",
+    "searchKeywords": "Thomas Edison patents inventions"
+  },
+  {
+    "id": "agatha-christie-is-the",
+    "date": "2027-04-28",
+    "category": "literature",
+    "text": "Agatha Christie is the best-selling novelist of all time.",
+    "detail": "Christie's extensive body of work, including famous detectives like Hercule Poirot and Miss Marple, has sold over 2 billion copies. Her 66 detective novels have been translated into at least 103 languages.",
+    "searchKeywords": "Agatha Christie best-selling novelist"
+  },
+  {
+    "id": "absolute-zero-is-a",
+    "date": "2027-04-29",
+    "category": "physics",
+    "text": "Absolute zero is a temperature that cannot be reached, only approached.",
+    "detail": "Absolute zero, 0 Kelvin or -273.15 degrees Celsius, is the theoretical point where molecular motion ceases. However, due to the laws of thermodynamics, it is impossible to reach, although scientists have come extremely close.",
+    "searchKeywords": "absolute zero temperature thermodynamics"
+  },
+  {
+    "id": "the-number-pi-contains",
+    "date": "2027-04-30",
+    "category": "math",
+    "text": "The number pi contains every possible number sequence.",
+    "detail": "Pi, an irrational number known for representing the ratio of a circle's circumference to its diameter, is thought to be a 'normal' number in which all possible number combinations appear somewhere in its infinite decimal expansion.",
+    "searchKeywords": "pi number decimals sequence"
+  },
+  {
+    "id": "the-sun-s-core-2",
+    "date": "2027-05-01",
+    "category": "astronomy",
+    "text": "The Sun's core temperature reaches about 15 million degrees Celsius.",
+    "detail": "The Sun's core, where nuclear fusion occurs, is incredibly hot, responsible for the energy that powers the solar system. These intense conditions allow hydrogen atoms to fuse into helium, releasing vast amounts of energy.",
+    "searchKeywords": "Sun core temperature nuclear fusion"
   }
 ]
