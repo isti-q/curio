@@ -2638,5 +2638,485 @@
     "text": "The Sun's core temperature reaches about 15 million degrees Celsius.",
     "detail": "The Sun's core, where nuclear fusion occurs, is incredibly hot, responsible for the energy that powers the solar system. These intense conditions allow hydrogen atoms to fuse into helium, releasing vast amounts of energy.",
     "searchKeywords": "Sun core temperature nuclear fusion"
+  },
+  {
+    "id": "the-axolotl-can-regenerate-2",
+    "date": "2027-05-02",
+    "category": "naturalScience",
+    "text": "The axolotl can regenerate not only its limbs but also its heart and parts of its brain.",
+    "detail": "Native to Mexico, the axolotl is a unique type of salamander known for its extraordinary regenerative abilities. Unlike most other vertebrates, it can regenerate complete limbs, organs, and even parts of its central nervous system, which has attracted scientific interest for studying tissue regeneration and repair.",
+    "searchKeywords": "axolotl regeneration limbs brain heart"
+  },
+  {
+    "id": "beethoven-continued-to-compose",
+    "date": "2027-05-03",
+    "category": "famousLives",
+    "text": "Beethoven continued to compose masterpieces despite losing his hearing.",
+    "detail": "Ludwig van Beethoven, one of the greatest composers of all time, began losing his hearing in his late 20s and was almost completely deaf by the last decade of his life. Despite this, he composed some of his most important works during this period, including the Ninth Symphony, which features the famous 'Ode to Joy'.",
+    "searchKeywords": "Beethoven deaf composer symphony music"
+  },
+  {
+    "id": "the-first-known-novel",
+    "date": "2027-05-04",
+    "category": "literature",
+    "text": "The first known novel, 'The Tale of Genji', was written by a Japanese woman, Murasaki Shikibu.",
+    "detail": "Written in the early 11th century, 'The Tale of Genji' is often cited as the world's first novel. Murasaki Shikibu, a noblewoman and lady-in-waiting in the Heian court, penned this intricate narrative about the life and loves of Prince Genji, offering a glimpse into the court life of ancient Japan.",
+    "searchKeywords": "Tale of Genji Murasaki Shikibu first novel"
+  },
+  {
+    "id": "a-teaspoon-of-neutron-4",
+    "date": "2027-05-05",
+    "category": "physics",
+    "text": "A teaspoon of neutron star material would weigh about 6 billion tons on Earth.",
+    "detail": "Neutron stars are incredibly dense remnants of supernova explosions, made predominantly of neutrons. Their density is so extreme that a single teaspoon of their material has a mass equivalent to the combined weight of all the humans on Earth.",
+    "searchKeywords": "neutron star density weight teaspoon"
+  },
+  {
+    "id": "the-number-zero-was-4",
+    "date": "2027-05-06",
+    "category": "math",
+    "text": "The number zero was independently invented by ancient Indians and Mayans.",
+    "detail": "The concept of zero as a number was developed independently in both ancient India and the pre-Columbian Mayan civilization. In India, zero was documented in the Bakhshali manuscript, while the Mayan civilization used it in their Long Count calendar. The introduction of zero revolutionized mathematics by allowing for the development of calculus and algebra.",
+    "searchKeywords": "zero invention India Mayans mathematics"
+  },
+  {
+    "id": "the-boomerang-nebula-is-4",
+    "date": "2027-05-07",
+    "category": "astronomy",
+    "text": "The Boomerang Nebula is the coldest known place in the universe.",
+    "detail": "Located 5,000 light-years away in the constellation Centaurus, the Boomerang Nebula has a temperature of about -458 degrees Fahrenheit (-272 degrees Celsius), just one degree above absolute zero. This phenomenon is due to the rapid expansion of gas ejected by a dying star, which cools the nebula to such extreme temperatures.",
+    "searchKeywords": "Boomerang Nebula coldest universe temperature"
+  },
+  {
+    "id": "the-mantis-shrimp-has",
+    "date": "2027-05-08",
+    "category": "naturalScience",
+    "text": "The mantis shrimp has the world's most complex visual system.",
+    "detail": "Mantis shrimps possess up to 16 different types of photoreceptors in their eyes, compared to the three types found in humans. This unique visual system allows them to perceive polarized light and see a broader spectrum of colors, including ultraviolet, which aids in detecting prey and predators in the ocean.",
+    "searchKeywords": "mantis shrimp vision photoreceptors color"
+  },
+  {
+    "id": "nikola-tesla-was-fluent-2",
+    "date": "2027-05-09",
+    "category": "famousLives",
+    "text": "Nikola Tesla was fluent in eight languages and had a photographic memory.",
+    "detail": "Nikola Tesla, the brilliant inventor known for his contributions to the design of the modern alternating current (AC) electricity supply system, was not only technically gifted but also had remarkable linguistic abilities. He could speak eight languages, including Serbo-Croatian, Czech, English, French, German, Hungarian, Italian, and Latin, and had an exceptional ability to memorize entire books.",
+    "searchKeywords": "Nikola Tesla languages fluency memory"
+  },
+  {
+    "id": "the-word-robot-was-2",
+    "date": "2027-05-10",
+    "category": "literature",
+    "text": "The word 'robot' was first used in a play by Czech writer Karel Čapek.",
+    "detail": "Karel Čapek introduced the term 'robot' in his 1920 play 'R.U.R.' (Rossum's Universal Robots). The word is derived from 'robota', which means forced labor or drudgery in Czech. The play explored themes of artificial intelligence and the potential consequences of creating life-like machines.",
+    "searchKeywords": "robot word origin Karel Čapek play"
+  },
+  {
+    "id": "the-double-slit-experiment-2",
+    "date": "2027-05-11",
+    "category": "physics",
+    "text": "The double-slit experiment is a classic demonstration of wave-particle duality.",
+    "detail": "First performed by Thomas Young in 1801, the double-slit experiment showed that light and matter can display characteristics of both waves and particles. When particles like electrons are fired through two slits, they create an interference pattern, suggesting wave-like behavior, even when fired one at a time, revealing the fundamental dual nature of quantum objects.",
+    "searchKeywords": "double slit experiment wave particle duality"
+  },
+  {
+    "id": "the-number-2520-is-2",
+    "date": "2027-05-12",
+    "category": "math",
+    "text": "The number 2520 is the smallest number that can be evenly divided by all integers from 1 to 10.",
+    "detail": "Also known as the least common multiple of numbers from 1 to 10, 2520 is an interesting mathematical phenomenon. This property makes it unique and frequently cited in number theory discussions.",
+    "searchKeywords": "2520 least common multiple math"
+  },
+  {
+    "id": "the-great-wall-of",
+    "date": "2027-05-13",
+    "category": "astronomy",
+    "text": "The Great Wall of China is not visible from space, but city lights are.",
+    "detail": "Contrary to popular belief, the Great Wall of China cannot be seen from the Moon or even from low Earth orbit without aid. However, at night, the lights of large cities are clearly visible from space.",
+    "searchKeywords": "Great Wall China space visibility"
+  },
+  {
+    "id": "the-tiny-water-bear",
+    "date": "2027-05-14",
+    "category": "naturalScience",
+    "text": "The tiny water bear, or tardigrade, can survive in space.",
+    "detail": "Tardigrades are microscopic creatures known for their resilience. They can endure extreme conditions, including the vacuum of space, by entering a cryptobiotic state, effectively halting their metabolism.",
+    "searchKeywords": "tardigrade space survival resilience"
+  },
+  {
+    "id": "queen-elizabeth-ii-was",
+    "date": "2027-05-15",
+    "category": "famousLives",
+    "text": "Queen Elizabeth II was a trained mechanic during World War II.",
+    "detail": "As a young woman, Elizabeth Windsor joined the Auxiliary Territorial Service in 1945, where she trained as a driver and mechanic. She is the only female member of the royal family to have served in the armed forces.",
+    "searchKeywords": "Queen Elizabeth II mechanic World War II"
+  },
+  {
+    "id": "the-original-title-of-2",
+    "date": "2027-05-16",
+    "category": "literature",
+    "text": "The original title of Jane Austen's 'Pride and Prejudice' was 'First Impressions'.",
+    "detail": "Jane Austen initially drafted the novel in the late 18th century but revised and published it as 'Pride and Prejudice' in 1813. The title change reflected the central themes of the story more accurately.",
+    "searchKeywords": "Pride and Prejudice original title Jane Austen"
+  },
+  {
+    "id": "a-photon-takes-thousands",
+    "date": "2027-05-17",
+    "category": "physics",
+    "text": "A photon takes thousands of years to travel from the sun's core to its surface.",
+    "detail": "Due to the dense nature of the sun's core, a photon created by nuclear fusion might take thousands of years to reach the surface, despite traveling at the speed of light. Once it reaches the surface, it only takes about 8 minutes to reach Earth.",
+    "searchKeywords": "photon sun travel time core"
+  },
+  {
+    "id": "a-palindrome-number-reads",
+    "date": "2027-05-18",
+    "category": "math",
+    "text": "A palindrome number reads the same backward and forward, like 12321.",
+    "detail": "Palindrome numbers are symmetrical and hold a special place in recreational mathematics. They are intriguing due to their reflective properties, and they can be found in various bases beyond the decimal system.",
+    "searchKeywords": "palindrome numbers math 12321"
+  },
+  {
+    "id": "the-hubble-space-telescope",
+    "date": "2027-05-19",
+    "category": "astronomy",
+    "text": "The Hubble Space Telescope has seen galaxies over 13 billion years old.",
+    "detail": "Hubble's powerful imaging capabilities have allowed astronomers to peer deep into the universe, capturing light from galaxies formed just a few hundred million years after the Big Bang. This provides valuable insights into the early universe.",
+    "searchKeywords": "Hubble Space Telescope old galaxies"
+  },
+  {
+    "id": "the-greenland-shark-can-2",
+    "date": "2027-05-20",
+    "category": "naturalScience",
+    "text": "The Greenland shark can live for more than 400 years, making it the longest-lived vertebrate.",
+    "detail": "Greenland sharks are found in the cold waters of the North Atlantic. They grow slowly and mature late, which contributes to their longevity. Radiocarbon dating of their eye lenses has provided evidence of their remarkable lifespan.",
+    "searchKeywords": "Greenland shark lifespan longest vertebrate"
+  },
+  {
+    "id": "salvador-dal-designed-the-2",
+    "date": "2027-05-21",
+    "category": "famousLives",
+    "text": "Salvador Dalí designed the Chupa Chups logo in 1969.",
+    "detail": "The iconic lollipop logo was created by the surrealist artist Salvador Dalí. He incorporated the Chupa Chups name into a bright daisy shape, ensuring it would be visible from above on the wrapper.",
+    "searchKeywords": "Salvador Dalí Chupa Chups logo design"
+  },
+  {
+    "id": "the-first-novel-ever-2",
+    "date": "2027-05-22",
+    "category": "literature",
+    "text": "The first novel ever written on a typewriter was Mark Twain's 'Life on the Mississippi.'",
+    "detail": "Mark Twain was known for his wit and innovation, and he embraced new technology by using a Remington typewriter in 1882 to write 'Life on the Mississippi.' This marked a significant shift in the way literature could be produced, showcasing Twain's forward-thinking nature.",
+    "searchKeywords": "Mark Twain typewriter Life on the Mississippi"
+  },
+  {
+    "id": "ultrathin-gold-can-appear",
+    "date": "2027-05-23",
+    "category": "physics",
+    "text": "Ultrathin gold can appear as transparent as glass.",
+    "detail": "When gold is reduced to a thickness of just a few nanometers, it becomes almost transparent and takes on a blue-green hue. This phenomenon is due to the way light interacts with the electrons in the gold film, showcasing intriguing properties at the nanoscale.",
+    "searchKeywords": "ultrathin gold transparent nanometers"
+  },
+  {
+    "id": "the-twin-primes-conjecture",
+    "date": "2027-05-24",
+    "category": "math",
+    "text": "The twin primes conjecture remains one of the unsolved problems in mathematics.",
+    "detail": "The twin primes conjecture hypothesizes that there are infinitely many pairs of prime numbers that have a difference of two, like (3, 5) and (11, 13). Despite centuries of study, a definitive proof has yet to be found, making it a tantalizing mystery in number theory.",
+    "searchKeywords": "twin primes conjecture unsolved mathematics"
+  },
+  {
+    "id": "the-great-red-spot",
+    "date": "2027-05-25",
+    "category": "astronomy",
+    "text": "The Great Red Spot on Jupiter is a storm that has been raging for over 350 years.",
+    "detail": "Visible even through small telescopes, the Great Red Spot is a giant storm on Jupiter that measures about 1.3 times the diameter of Earth. Its persistent nature and massive size make it one of the most fascinating and enduring features of our solar system's largest planet.",
+    "searchKeywords": "Jupiter Great Red Spot storm"
+  },
+  {
+    "id": "a-slug-s-slime",
+    "date": "2027-05-26",
+    "category": "naturalScience",
+    "text": "A slug's slime can act as a natural anesthetic.",
+    "detail": "Slug slime serves multiple purposes, including locomotion, protection, and as a defense mechanism. The slime contains compounds that can numb the beaks of predators attempting to eat them, allowing the slug a chance to escape.",
+    "searchKeywords": "slug slime anesthetic protection"
+  },
+  {
+    "id": "nikola-tesla-could-visualize",
+    "date": "2027-05-27",
+    "category": "famousLives",
+    "text": "Nikola Tesla could visualize inventions in precise detail without sketches.",
+    "detail": "Tesla's remarkable ability to mentally construct and test his inventions allowed him to develop complex machinery in his mind before ever building a prototype. This unique talent helped him design innovative devices, contributing significantly to his reputation as a pioneering inventor.",
+    "searchKeywords": "Nikola Tesla visualization inventions"
+  },
+  {
+    "id": "james-joyce-s-ulysses-2",
+    "date": "2027-05-28",
+    "category": "literature",
+    "text": "James Joyce's 'Ulysses' was banned in the United States for over a decade.",
+    "detail": "Upon its release in 1922, 'Ulysses' faced censorship issues due to its explicit content and was not legally published in the U.S. until 1934. The ban highlighted the ongoing debates about literary freedom and censorship during that era.",
+    "searchKeywords": "James Joyce Ulysses ban censorship"
+  },
+  {
+    "id": "superfluid-helium-can-climb",
+    "date": "2027-05-29",
+    "category": "physics",
+    "text": "Superfluid helium can climb walls against gravity.",
+    "detail": "Superfluidity is a phase of matter with zero viscosity, allowing helium to flow without resistance. This unique property enables it to defy gravity and thin layers can climb up container walls in a phenomenon known as the Rollin film.",
+    "searchKeywords": "superfluid helium climb walls"
+  },
+  {
+    "id": "the-number-2520-is-3",
+    "date": "2027-05-30",
+    "category": "math",
+    "text": "The number 2520 is the smallest number divisible by all numbers from 1 to 10.",
+    "detail": "2520 holds a unique place in number theory as it is the least common multiple of the numbers 1 through 10. This property makes it a frequently cited example in discussions of divisibility and least common multiples.",
+    "searchKeywords": "2520 divisible numbers math"
+  },
+  {
+    "id": "triton-neptune-s-largest-3",
+    "date": "2027-05-31",
+    "category": "astronomy",
+    "text": "Triton, Neptune's largest moon, has a retrograde orbit.",
+    "detail": "Unlike most moons in the solar system, Triton orbits Neptune in the opposite direction of the planet’s rotation. This retrograde motion suggests that Triton may have been a captured object from the Kuiper Belt and is one of the largest known captured moons.",
+    "searchKeywords": "Triton Neptune retrograde orbit"
+  },
+  {
+    "id": "the-naked-mole-rat",
+    "date": "2027-06-01",
+    "category": "naturalScience",
+    "text": "The naked mole-rat can survive without oxygen for up to 18 minutes.",
+    "detail": "Naked mole-rats uniquely switch to a fructose-based metabolic pathway, similar to plants, when deprived of oxygen. This ability helps them survive in their low-oxygen burrow environments.",
+    "searchKeywords": "naked mole rat oxygen survival"
+  },
+  {
+    "id": "winston-churchill-was-once-2",
+    "date": "2027-06-02",
+    "category": "famousLives",
+    "text": "Winston Churchill was once hit by a car during a visit to New York City.",
+    "detail": "In 1931, while crossing Fifth Avenue, Churchill was struck by a car. He was hospitalized with a minor head injury and some bruising, but he recovered and later quipped about his 'adventure' in America.",
+    "searchKeywords": "Winston Churchill car accident New York"
+  },
+  {
+    "id": "the-first-known-novel-2",
+    "date": "2027-06-03",
+    "category": "literature",
+    "text": "The first known novel, 'The Tale of Genji,' was written by a woman in 11th-century Japan.",
+    "detail": "Murasaki Shikibu, a noblewoman and lady-in-waiting, penned 'The Tale of Genji,' which is considered the world's first novel. It offers a deep insight into the court life of Heian Japan.",
+    "searchKeywords": "first novel Tale of Genji Murasaki"
+  },
+  {
+    "id": "a-teaspoon-of-a-2",
+    "date": "2027-06-04",
+    "category": "physics",
+    "text": "A teaspoon of a neutron star would weigh about 6 billion tons on Earth.",
+    "detail": "Neutron stars are incredibly dense remnants of supernova explosions. Their gravity is so strong that their mass is condensed into a small volume, resulting in their extreme density.",
+    "searchKeywords": "neutron star density weight"
+  },
+  {
+    "id": "the-number-2520-is-4",
+    "date": "2027-06-05",
+    "category": "math",
+    "text": "The number 2520 is the smallest number divisible by all integers from 1 to 10.",
+    "detail": "2520 is known as the least common multiple of the numbers 1 through 10. It is a highly composite number, meaning it has more divisors than any smaller positive integer.",
+    "searchKeywords": "2520 divisible numbers math"
+  },
+  {
+    "id": "jupiter-s-moon-io",
+    "date": "2027-06-06",
+    "category": "astronomy",
+    "text": "Jupiter's moon Io is the most volcanically active body in the solar system.",
+    "detail": "Io's intense volcanic activity is driven by gravitational interactions with Jupiter and other moons, generating immense heat and causing continuous eruptions of sulfur and volcanic plumes that extend hundreds of kilometers into space.",
+    "searchKeywords": "Io moon volcanic activity Jupiter"
+  },
+  {
+    "id": "the-greenland-shark-has",
+    "date": "2027-06-07",
+    "category": "naturalScience",
+    "text": "The Greenland shark has one of the longest lifespans of any vertebrate, living over 400 years.",
+    "detail": "Greenland sharks grow at a sluggish rate of just about 1 cm per year, and their longevity is attributed to slow metabolism and cold Arctic waters, aging as late as 156 years to reach sexual maturity.",
+    "searchKeywords": "Greenland shark lifespan longevity"
+  },
+  {
+    "id": "mahatma-gandhi-was-nominated-2",
+    "date": "2027-06-08",
+    "category": "famousLives",
+    "text": "Mahatma Gandhi was nominated for the Nobel Peace Prize five times but never won.",
+    "detail": "Despite his significant contributions to peaceful resistance, Mahatma Gandhi was repeatedly overlooked by the Nobel Committee, a decision the committee later regretted, acknowledging his profound impact on global movements for peace and justice.",
+    "searchKeywords": "Mahatma Gandhi Nobel Peace Prize"
+  },
+  {
+    "id": "the-original-title-of-3",
+    "date": "2027-06-09",
+    "category": "literature",
+    "text": "The original title of 'Pride and Prejudice' was 'First Impressions.'",
+    "detail": "Jane Austen initially penned her famous novel under the title 'First Impressions' before revising it and selecting 'Pride and Prejudice,' a title that better encapsulates the themes of her work.",
+    "searchKeywords": "Pride and Prejudice original title"
+  },
+  {
+    "id": "quantum-entanglement-allows-particles",
+    "date": "2027-06-10",
+    "category": "physics",
+    "text": "Quantum entanglement allows particles to influence each other instantaneously over vast distances.",
+    "detail": "This phenomenon, famously called 'spooky action at a distance' by Einstein, means that the state of one entangled particle instantly determines the state of another, regardless of the space separating them, challenging classical understandings of physics.",
+    "searchKeywords": "quantum entanglement particles distance"
+  },
+  {
+    "id": "the-number-2-is-2",
+    "date": "2027-06-11",
+    "category": "math",
+    "text": "The number 2 is the only even prime number.",
+    "detail": "In mathematics, prime numbers are numbers greater than 1 that have no divisors other than 1 and themselves. While all other even numbers can be divided by 2, making them non-prime, the number 2 is unique as it can only be divided evenly by 1 and 2.",
+    "searchKeywords": "prime numbers even two"
+  },
+  {
+    "id": "mars-sunsets-are-blue",
+    "date": "2027-06-12",
+    "category": "astronomy",
+    "text": "Mars sunsets are blue instead of red.",
+    "detail": "The Martian atmosphere is composed of fine dust particles that scatter sunlight differently than Earth's atmosphere, resulting in blue sunsets. This phenomenon occurs because the dust particles allow the blue light to penetrate the atmosphere more efficiently than other colors.",
+    "searchKeywords": "Mars sunset color blue"
+  },
+  {
+    "id": "plants-can-recognize-their",
+    "date": "2027-06-13",
+    "category": "naturalScience",
+    "text": "Plants can recognize their siblings and favor them in growth.",
+    "detail": "Research has shown that some plants have the ability to differentiate between kin and non-kin. When planted with siblings, they tend to grow cooperatively, sharing resources and space, while competing more aggressively with unrelated plants.",
+    "searchKeywords": "plants sibling recognition kin"
+  },
+  {
+    "id": "winston-churchill-was-hit",
+    "date": "2027-06-14",
+    "category": "famousLives",
+    "text": "Winston Churchill was hit by a car in New York City.",
+    "detail": "In 1931, while trying to cross Fifth Avenue, Winston Churchill was struck by a car. Despite suffering injuries, he later humorously recounted the incident and used it to warn others about the dangers of traffic, as well as to secure a doctor's permission for medicinal alcohol during Prohibition.",
+    "searchKeywords": "Winston Churchill car accident New York"
+  },
+  {
+    "id": "pride-and-prejudice-was",
+    "date": "2027-06-15",
+    "category": "literature",
+    "text": "Pride and Prejudice was originally titled 'First Impressions.'",
+    "detail": "Jane Austen's iconic novel, published in 1813, was first written under the title 'First Impressions' in 1796-1797. The novel underwent several revisions and a title change before its eventual publication, reflecting its themes of misunderstandings and initial judgments.",
+    "searchKeywords": "Pride and Prejudice original title"
+  },
+  {
+    "id": "graphene-is-the-slipperiest",
+    "date": "2027-06-16",
+    "category": "physics",
+    "text": "Graphene is the slipperiest substance known to science.",
+    "detail": "Graphene, a single layer of carbon atoms arranged in a hexagonal lattice, exhibits remarkable properties, including extremely low friction or slipperiness. This makes it a prime candidate for advanced lubricants and coatings, reducing wear and tear in various applications.",
+    "searchKeywords": "graphene friction slipperiest substance"
+  },
+  {
+    "id": "the-number-2520-is-5",
+    "date": "2027-06-17",
+    "category": "math",
+    "text": "The number 2520 is the smallest number divisible by all numbers from 1 to 10.",
+    "detail": "In mathematics, finding the least common multiple (LCM) of a set of numbers involves determining the smallest number that each of the numbers divides without leaving a remainder. For the numbers 1 through 10, this LCM is 2520.",
+    "searchKeywords": "2520 divisible numbers math"
+  },
+  {
+    "id": "triton-neptune-s-moon",
+    "date": "2027-06-18",
+    "category": "astronomy",
+    "text": "Triton, Neptune's moon, has a retrograde orbit.",
+    "detail": "Triton is unique among large moons in the solar system due to its retrograde orbit, meaning it orbits in the opposite direction of Neptune's rotation. This unusual orbit suggests that Triton may have been captured by Neptune's gravity, rather than formed in place.",
+    "searchKeywords": "Triton Neptune moon retrograde"
+  },
+  {
+    "id": "crows-can-recognize-and",
+    "date": "2027-06-19",
+    "category": "naturalScience",
+    "text": "Crows can recognize and remember human faces.",
+    "detail": "Studies have shown that crows possess remarkable cognitive abilities, including the capacity to remember human faces. They use this skill to identify and avoid perceived threats or to recognize friendly humans, demonstrating sophisticated social intelligence.",
+    "searchKeywords": "crows human face recognition"
+  },
+  {
+    "id": "mahatma-gandhi-was-nominated-3",
+    "date": "2027-06-20",
+    "category": "famousLives",
+    "text": "Mahatma Gandhi was nominated for the Nobel Peace Prize five times but never won.",
+    "detail": "Despite being a prominent figure in the peace and non-violence movements, Mahatma Gandhi never received the Nobel Peace Prize. He was nominated in 1937, 1938, 1939, 1947, and 1948, with his final nomination occurring just days before his assassination.",
+    "searchKeywords": "Mahatma Gandhi Nobel Peace Prize"
+  },
+  {
+    "id": "the-word-quarantine-comes",
+    "date": "2027-06-21",
+    "category": "literature",
+    "text": "The word 'quarantine' comes from the Italian 'quaranta giorni', meaning 'forty days'.",
+    "detail": "During the Black Plague, ships were isolated for 40 days before passengers and crew could go ashore. This practice led to the term 'quarantine', derived from the Italian phrase for 40 days.",
+    "searchKeywords": "quarantine history origin Italian"
+  },
+  {
+    "id": "the-concept-of-negative",
+    "date": "2027-06-22",
+    "category": "physics",
+    "text": "The concept of 'negative temperature' exists in physics.",
+    "detail": "In certain systems, like lasers, the population of particles can reach a state where they move from higher probability to lower probability states, resulting in what is described as 'negative temperature'. This doesn't mean colder than absolute zero, but rather a peculiar state of energy distribution.",
+    "searchKeywords": "negative temperature physics laser"
+  },
+  {
+    "id": "there-is-a-prime",
+    "date": "2027-06-23",
+    "category": "math",
+    "text": "There is a prime number named 'Mersenne prime'.",
+    "detail": "Mersenne primes are named after Marin Mersenne, a French monk who studied these numbers in the 17th century. They are primes of the form 2^p - 1, where p is also a prime number.",
+    "searchKeywords": "Mersenne prime numbers mathematics"
+  },
+  {
+    "id": "venus-once-had-oceans",
+    "date": "2027-06-24",
+    "category": "astronomy",
+    "text": "Venus once had oceans of liquid carbon dioxide.",
+    "detail": "Studies suggest that Venus may have had oceans of liquid carbon dioxide in its past, due to the planet's high pressure and temperature conditions. This would have contributed significantly to the greenhouse effect, making Venus the hot planet we know today.",
+    "searchKeywords": "Venus oceans carbon dioxide history"
+  },
+  {
+    "id": "some-mushrooms-can-create",
+    "date": "2027-06-25",
+    "category": "naturalScience",
+    "text": "Some mushrooms can create a microclimate to grow better.",
+    "detail": "Certain fungi like the oyster mushroom can raise the temperature in their immediate environment by releasing heat through metabolic processes, creating a microclimate that is more suitable for growth even in cooler conditions.",
+    "searchKeywords": "mushroom microclimate fungi growth"
+  },
+  {
+    "id": "albert-einstein-s-brain-3",
+    "date": "2027-06-26",
+    "category": "famousLives",
+    "text": "Albert Einstein's brain was stolen after his death.",
+    "detail": "After Einstein's death in 1955, pathologist Thomas Stoltz Harvey removed his brain without permission during the autopsy, hoping to discover the secret of his genius. The brain was divided into 240 blocks and sent to researchers around the world for study.",
+    "searchKeywords": "Albert Einstein brain theft 1955"
+  },
+  {
+    "id": "the-novel-gadsby-does",
+    "date": "2027-06-27",
+    "category": "literature",
+    "text": "The novel 'Gadsby' does not contain the letter 'e'.",
+    "detail": "Published in 1939 by Ernest Vincent Wright, 'Gadsby' is a lipogrammatic novel that entirely avoids using the letter 'e', a feat achieved through careful word selection and creative language expression.",
+    "searchKeywords": "Gadsby novel lipogram letter e"
+  },
+  {
+    "id": "the-pauli-effect-describes",
+    "date": "2027-06-28",
+    "category": "physics",
+    "text": "The 'Pauli effect' describes equipment failing in a scientist's presence.",
+    "detail": "Named after physicist Wolfgang Pauli, who was notorious for causing experimental equipment to fail simply by being in the room, the 'Pauli effect' is a humorous anecdote in the scientific community highlighting his reputation for unintentional equipment disruption.",
+    "searchKeywords": "Pauli effect physics equipment failure"
+  },
+  {
+    "id": "the-number-1729-is-2",
+    "date": "2027-06-29",
+    "category": "math",
+    "text": "The number 1729 is known as the 'Hardy-Ramanujan number'.",
+    "detail": "When mathematician G.H. Hardy visited Srinivasa Ramanujan in the hospital, he mentioned the number 1729 as uninteresting. Ramanujan quickly pointed out that it is the smallest number expressible as the sum of two cubes in two different ways: 1^3 + 12^3 and 9^3 + 10^3.",
+    "searchKeywords": "Hardy Ramanujan number 1729 cubes"
+  },
+  {
+    "id": "a-superflare-could-potentially",
+    "date": "2027-06-30",
+    "category": "astronomy",
+    "text": "A 'superflare' could potentially wipe out Earth's electronics.",
+    "detail": "Stars like our Sun can experience explosive events called superflares, releasing vast amounts of energy. If such a superflare were to hit Earth, it could cause massive disruptions to electronic systems and power grids worldwide.",
+    "searchKeywords": "superflare stars Earth electronics risk"
   }
 ]
